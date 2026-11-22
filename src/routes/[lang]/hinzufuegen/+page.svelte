@@ -169,7 +169,7 @@
 	// ---------- Step 3 / saving ----------
 
 	async function save(t: Translation, details: WordDetails, audio: { id: string; blob: Blob } | undefined, forms: FormCandidate[]) {
-		const main = await addWord({
+		const { main, existed } = await addWord({
 			lang: lang.code,
 			german: chosenGerman,
 			answer: details.answer,
@@ -181,7 +181,10 @@
 			audio: audio && { id: audio.id, blob: audio.blob },
 			forms
 		});
-		notice = `„${chosenGerman}“ → „${main.answer}“ hinzugefügt${forms.length ? ` (+${forms.length} ${forms.length === 1 ? 'Form' : 'Formen'})` : ''}.`;
+		const formsText = forms.length ? ` (+${forms.length} ${forms.length === 1 ? 'Form' : 'Formen'})` : '';
+		notice = existed
+			? `„${chosenGerman}“ → „${main.answer}“ war schon vorhanden: wieder vorne und in Fach 1${formsText}.`
+			: `„${chosenGerman}“ → „${main.answer}“ hinzugefügt${formsText}.`;
 		pending = null;
 		german = '';
 		chosenGerman = '';

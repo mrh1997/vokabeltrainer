@@ -138,11 +138,27 @@ test('add a word with forms, quiz it, delete it', async ({ page }) => {
 		.toBe(4);
 	await expect(week.locator('.badge').filter({ hasNotText: '1' })).not.toHaveCount(0);
 
+	// Adding the same word again merges the forms instead of duplicating the word:
+	// main word and chosen forms go back to box 1, the unchosen form keeps its box
+	const rowOf = (answer: string) => week.locator('.row').filter({ has: page.locator('.answer', { hasText: new RegExp(`^${answer}$`) }) });
+	const allePastBox = await rowOf('il est allé').locator('.badge').textContent();
+	await german.fill('gehen');
+	await german.press('Enter');
+	await expect(page.getByRole('option', { name: /aller/ }).first()).toBeVisible();
+	await page.getByRole('combobox', { name: 'Französisch' }).press('Enter');
+	await expect(forms).toBeFocused();
+	await page.getByRole('option', { name: /je vais/ }).click();
+	await page.getByRole('option', { name: /il va/ }).click();
+	await forms.press('Enter');
+	await expect(page.locator('.status')).toContainText('„gehen“ → „aller“ war schon vorhanden: wieder vorne und in Fach 1 (+2 Formen).');
+	await expect(week.locator('.answer')).toHaveText(['aller', 'je vais', 'il va', 'il est allé']);
+	await expect(week.locator('.badge')).toHaveText(['1', '1', '1', allePastBox!]);
+
 	// Delete the main word (and its forms)
 	await page.getByRole('button', { name: 'aller löschen' }).click();
-	await expect(page.getByRole('alertdialog')).toContainText('„aller“ und 2 Sonderform(en) löschen?');
+	await expect(page.getByRole('alertdialog')).toContainText('„aller“ und 3 Sonderform(en) löschen?');
 	await page.getByRole('alertdialog').getByRole('button', { name: 'Abbrechen' }).click();
-	await expect(page.locator('section.week .row')).toHaveCount(3);
+	await expect(page.locator('section.week .row')).toHaveCount(4);
 	await page.getByRole('button', { name: 'aller löschen' }).click();
 	await page.getByRole('alertdialog').getByRole('button', { name: 'Löschen' }).click();
 	await expect(page.locator('section.week')).toHaveCount(0);
