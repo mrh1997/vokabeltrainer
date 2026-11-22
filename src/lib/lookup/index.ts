@@ -7,8 +7,8 @@
  */
 import type { Language } from '#lib/languages.ts';
 import { buildFormCandidates, buildMainAnswer, type FormCandidate } from './answers';
-import { recordingSays } from './recordings';
-import { overviewParams, parseForeignEntry, parseTranslations, type Gender, type Pos, type Translation } from './wikitext';
+import { descriptionAddsWords, linguaLibreSpeaker, recordingSays, spokenWords } from './recordings';
+import { overviewParams, parseForeignEntry, sectionAudio, parseTranslations, type Gender, type Pos, type Translation } from './wikitext';
 
 export type { FormCandidate, Translation, Pos, Gender };
 
@@ -77,8 +77,12 @@ export interface WordDetails {
 	pos: Pos;
 	gender?: Gender;
 	forms: FormCandidate[];
-	/** Commons recording saying exactly `answer`; absent → speech synthesis. */
-	audioFile?: string;
+	/**
+	 * Commons recordings that, played one after another, say exactly
+	 * `answer`: one file for the whole answer, or one per word.
+	 * Empty → speech synthesis.
+	 */
+	audioFiles: string[];
 }
 
 /**
@@ -97,42 +101,119 @@ export async function getDetails(t: Translation, lang: Language, german?: string
 		pos: t.pos,
 		gender,
 		forms: entry ? buildFormCandidates(lang.code, t.word, entry, germanTable) : [],
-		audioFile: await findRecording(answer, entry?.audioFiles ?? [], lang, signal)
+		// the word type's own recordings first, then those of the same spelling
+		// elsewhere on the page (the noun "aller" sounds like the verb)
+		audioFiles: await findRecordings(answer, lang, [...new Set([...(entry?.audioFiles ?? []), ...(text ? sectionAudio(text, lang.name) : [])])], signal)
 	};
 }
 
 /**
- * A recording that says exactly the answer to type, including article or
- * "to" ("a dog", "to go"). Without one, the card uses speech synthesis for
- * the full answer, so the learner never hears just "dog" for "a dog".
+ * Recordings that together say exactly the answer to type, including
+ * article or pronoun ("le chien", "je vais"). Preferred is one recording of
+ * the whole answer; otherwise one per word ("le" + "chien"), all by the same
+ * Lingua Libre speaker where possible. If any word has no recording, the
+ * result is empty and the card uses speech synthesis for the full answer,
+ * so the learner never hears just "chien" for "le chien".
+ * `pageFiles` are recordings already known from the word's Wiktionary page.
  */
-async function findRecording(
+export async function findRecordings(
 	answer: string,
-	files: string[],
 	lang: Language,
+	pageFiles: string[] = [],
 	signal?: AbortSignal
-): Promise<string | undefined> {
-	const exact = files.find((f) => recordingSays(f, answer));
-	if (exact) return exact;
-	return findLinguaLibre(answer, lang, signal);
+): Promise<string[]> {
+	const whole = await recordingsOf(answer, lang, pageFiles, signal);
+	if (whole.length) return [whole[0]];
+	const words = spokenWords(answer);
+	if (words.length < 2) return [];
+	const perWord: string[][] = [];
+	for (const w of words) {
+		const files = await recordingsOf(w, lang, [], signal, true);
+		if (!files.length) return [];
+		perWord.push(files);
+	}
+	// The speaker who recorded the most of the words, so the voice stays the same.
+	const count = new Map<string, number>();
+	perWord.forEach((files, i) => {
+		const speakers = new Set(files.map((f) => linguaLibreSpeaker(f, words[i])).filter((s) => s !== undefined));
+		for (const s of speakers) count.set(s, (count.get(s) ?? 0) + 1);
+	});
+	const best = [...count].sort((a, b) => b[1] - a[1])[0]?.[0];
+	return perWord.map((files, i) => files.find((f) => linguaLibreSpeaker(f, words[i]) === best) ?? files[0]);
 }
 
-/** Searches Commons for a Lingua Libre recording "LL-Q… (fra)-<speaker>-<word>.wav". */
-async function findLinguaLibre(word: string, lang: Language, signal?: AbortSignal): Promise<string | undefined> {
+/**
+ * Recordings saying exactly `text`: Lingua Libre first (its file names are
+ * reliable), then the ones linked on Wiktionary whose description doesn't
+ * reveal extra words. `ownPage` also looks at the Wiktionary page of `text`.
+ */
+async function recordingsOf(
+	text: string,
+	lang: Language,
+	pageFiles: string[],
+	signal?: AbortSignal,
+	ownPage = false
+): Promise<string[]> {
+	const ll = await findLinguaLibre(text, lang, signal);
+	if (ll.length) return ll;
+	let files = pageFiles;
+	if (ownPage) {
+		const page = await wikitext(text, signal).catch(() => null);
+		files = page ? sectionAudio(page, lang.name) : [];
+	}
+	return verified(files.filter((f) => recordingSays(f, text)), text, signal);
+}
+
+/** Drops recordings whose Commons description says they contain more than `text`. */
+async function verified(files: string[], text: string, signal?: AbortSignal): Promise<string[]> {
+	if (!files.length) return [];
 	try {
 		const d = await api(
 			COMMONS,
-			{ action: 'query', list: 'search', srnamespace: '6', srlimit: '50', srsearch: `intitle:"(${lang.iso3})" intitle:"${word}"` },
+			{
+				action: 'query',
+				prop: 'imageinfo',
+				iiprop: 'extmetadata',
+				iiextmetadatafilter: 'ImageDescription',
+				titles: files.slice(0, 50).map((f) => `File:${f}`).join('|')
+			},
 			signal
 		);
-		const suffix = `-${word}.wav`.toLowerCase();
-		const hit = (d.query?.search ?? []).find(
-			(r: { title: string }) => r.title.startsWith('File:LL-') && r.title.toLowerCase().endsWith(suffix)
-		);
-		return hit?.title.slice('File:'.length);
+		const descriptions = new Map<string, string>();
+		for (const p of d.query?.pages ?? []) {
+			const html: string = p.imageinfo?.[0]?.extmetadata?.ImageDescription?.value ?? '';
+			descriptions.set(String(p.title).slice('File:'.length).replace(/_/g, ' '), html.replace(/<[^>]*>/g, ''));
+		}
+		return files.filter((f) => !descriptionAddsWords(descriptions.get(f.replace(/_/g, ' ')) ?? '', text));
 	} catch (e) {
 		if ((e as Error).name === 'AbortError') throw e;
-		return undefined;
+		return [];
+	}
+}
+
+/** Lingua Libre recordings "LL-Q… (fra)-<speaker>-<text>.wav" on Commons. */
+async function findLinguaLibre(text: string, lang: Language, signal?: AbortSignal): Promise<string[]> {
+	// Lucene regex on the title finds even very short words like "le" among thousands of phrases.
+	const re = text.replace(/[.?+*|{}[\]()"\\#@&<>~/]/g, '\\$&');
+	try {
+		const d = await api(
+			COMMONS,
+			{
+				action: 'query',
+				list: 'search',
+				srnamespace: '6',
+				srlimit: '500',
+				srprop: '',
+				srsearch: `intitle:"(${lang.iso3})" intitle:/-${re}\\.wav/i`
+			},
+			signal
+		);
+		return (d.query?.search ?? [])
+			.map((r: { title: string }) => r.title.slice('File:'.length))
+			.filter((f: string) => linguaLibreSpeaker(f, text) !== undefined);
+	} catch (e) {
+		if ((e as Error).name === 'AbortError') throw e;
+		return [];
 	}
 }
 

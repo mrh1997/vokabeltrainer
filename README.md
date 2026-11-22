@@ -7,7 +7,10 @@ The UI is German. Live: https://mrh1997.github.io/vokabeltrainer/
 
 - **Adding words** looks up German Wiktionary live from the browser: completion, translations
   (with gender and meaning), special forms from the inflection tables, and the pronunciation.
-  The mp3 comes from Wikimedia Commons, with Lingua Libre recordings as a fallback.
+  The mp3 comes from Wikimedia Commons (Lingua Libre preferred). If nobody recorded the whole
+  answer ("le chien", "je vais"), single-word recordings are joined, by one speaker where possible.
+  Cards without a recording (older ones, special forms) get one in the background while online.
+  Speech synthesis of the device is only the last resort.
 - **Everything is stored locally** in IndexedDB: cards, progress and audio recordings.
   The quiz therefore works offline. A service worker caches the app itself.
   Backup/restore is available as a JSON file on each language page.
@@ -21,7 +24,7 @@ The UI is German. Live: https://mrh1997.github.io/vokabeltrainer/
 | `src/lib/lookup/` | Wiktionary/Commons access, wikitext parsing, article rules and special forms |
 | `src/lib/db/` | IndexedDB storage of cards, progress, audio; backup |
 | `src/lib/quiz/` | Box rules, weighted random selection, answer check, calendar weeks |
-| `src/lib/audio/` | Playback (stored recording, otherwise speech synthesis) |
+| `src/lib/audio/` | Playback, joining word recordings, fetching missing recordings; speech synthesis as fallback |
 | `src/routes/` | Pages: language choice, language menu, add, quiz, Impressum |
 | `src/service-worker.ts` | Offline cache of the app shell |
 

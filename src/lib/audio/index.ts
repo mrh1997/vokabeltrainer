@@ -1,10 +1,11 @@
 /**
- * Pronunciation playback: the stored recording if there is one, otherwise
- * the device's built-in speech synthesis in the card's language.
+ * Pronunciation playback: the stored recording if there is one, else one
+ * fetched now (online), otherwise the device's built-in speech synthesis
+ * in the card's language.
  */
-import { getAudio } from '#lib/db/index.ts';
+import { getAudio, getCard, type Card } from '#lib/db/index.ts';
 import { findLanguage } from '#lib/languages.ts';
-import { recordingSays } from '#lib/lookup/recordings.ts';
+import { audioFits, ensureAudio } from './pronunciation';
 import { voiceStatus } from './voice-status.svelte.ts';
 
 let current: HTMLAudioElement | undefined;
@@ -67,13 +68,17 @@ export async function playBlob(blob: Blob): Promise<void> {
 
 /**
  * Plays a card's pronunciation. Never throws (autoplay restrictions etc.).
- * A recording is only used if it says the whole answer: for "a dog" a
- * recording of just "dog" is skipped in favour of speech synthesis.
+ * A recording is only used if it says the whole answer: for "le chien" a
+ * recording of just "chien" is skipped. A card without one gets it now if
+ * the device is online (whole-answer or joined word recordings); speech
+ * synthesis is the last resort.
  */
-export async function playCard(card: { audioId?: string; answer: string; lang: string }): Promise<void> {
+export async function playCard(card: Card): Promise<void> {
 	try {
-		const fits = card.audioId && recordingSays(card.audioId, card.answer);
-		const blob = fits ? await getAudio(card.audioId!) : undefined;
+		// The stored card may already have a recording the caller's copy lacks.
+		const fresh = (await getCard(card.id).catch(() => undefined)) ?? card;
+		let blob = audioFits(fresh) ? await getAudio(fresh.audioId!) : undefined;
+		blob ??= await ensureAudio(fresh, false, AbortSignal.timeout(6000));
 		if (blob) {
 			await playBlob(blob);
 			return;

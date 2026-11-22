@@ -10,6 +10,7 @@
 	import { listCards, recordAnswer, type Card } from '#lib/db/index.ts';
 	import { checkAnswer, pickNext } from '#lib/quiz/index.ts';
 	import { playCard } from '#lib/audio/index.ts';
+	import { fillMissingAudio } from '#lib/audio/pronunciation.ts';
 	import { addMissingPrompts } from '#lib/upgrade.ts';
 
 	let { data } = $props();
@@ -35,6 +36,8 @@
 		loaded = true;
 		session = { asked: 0, correct: 0 };
 		await next();
+		// cards without a recording get one in the background (online only)
+		fillMissingAudio(lang.code);
 		// older special-form cards: fetch their German prompt, then refresh what is shown
 		if (await addMissingPrompts(lang)) {
 			const fresh = await listCards(lang.code);

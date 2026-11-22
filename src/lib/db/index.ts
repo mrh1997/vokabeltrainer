@@ -33,6 +33,8 @@ export interface Card {
 	correct: number;
 	/** Key into the audio store; absent → speech synthesis. */
 	audioId?: string;
+	/** When recordings were last searched for this card (ms); avoids searching on every visit. */
+	audioCheckedAt?: number;
 }
 
 export interface LanguageEntry {
@@ -140,7 +142,8 @@ export async function addWord(w: NewWord): Promise<Card> {
 		pos: w.pos,
 		gender: w.gender,
 		createdAt,
-		audioId: w.audio?.id
+		audioId: w.audio?.id,
+		audioCheckedAt: createdAt
 	});
 	await tx.objectStore('cards').put(main);
 	for (const [order, f] of w.forms.entries()) {
@@ -214,14 +217,40 @@ export async function deleteCard(card: Card): Promise<void> {
 
 /** Applies the box rules after an answer and returns the updated card. */
 export async function recordAnswer(card: Card, correct: boolean): Promise<Card> {
+	const d = await db();
+	// Start from the stored card: a recording may have been attached meanwhile.
+	const stored = (await d.get('cards', card.id)) ?? card;
 	const updated: Card = {
-		...card,
+		...stored,
 		box: nextBox(card.box, correct),
 		asked: card.asked + 1,
 		correct: card.correct + (correct ? 1 : 0)
 	};
-	await (await db()).put('cards', updated);
+	await d.put('cards', updated);
 	return updated;
+}
+
+export async function getCard(id: string): Promise<Card | undefined> {
+	return (await db()).get('cards', id);
+}
+
+/**
+ * Attaches a pronunciation to a card (or, without `audio`, only notes that
+ * none was found). A recording no other card uses any more is removed.
+ */
+export async function setCardAudio(cardId: string, audio?: { id: string; blob: Blob }): Promise<void> {
+	const d = await db();
+	const card = await d.get('cards', cardId);
+	if (!card) return;
+	const old = card.audioId;
+	const tx = d.transaction(['cards', 'audio'], 'readwrite');
+	if (audio) await tx.objectStore('audio').put(audio);
+	await tx.objectStore('cards').put({ ...card, audioId: audio?.id ?? old, audioCheckedAt: Date.now() });
+	await tx.done;
+	if (old && audio && old !== audio.id) {
+		const users = (await d.getAll('cards')).filter((c) => c.audioId === old);
+		if (users.length === 0) await d.delete('audio', old);
+	}
 }
 
 export async function getAudio(id: string): Promise<Blob | undefined> {

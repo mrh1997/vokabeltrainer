@@ -13,7 +13,6 @@
 	import { addWord, deleteCard, listCards, setForms, type Card } from '#lib/db/index.ts';
 	import {
 		completeGerman,
-		downloadAudio,
 		getDetails,
 		getTranslations,
 		type FormCandidate,
@@ -21,6 +20,7 @@
 		type WordDetails
 	} from '#lib/lookup/index.ts';
 	import { playBlob, playCard, speak } from '#lib/audio/index.ts';
+	import { fetchPronunciation, fillMissingAudio } from '#lib/audio/pronunciation.ts';
 	import { connection } from '#lib/online.svelte.ts';
 	import { addMissingPrompts } from '#lib/upgrade.ts';
 
@@ -45,7 +45,7 @@
 	let foreignInput = $state<HTMLInputElement>();
 
 	// Step 3: special forms
-	let pending = $state<{ translation: Translation; details: WordDetails; audio?: Blob } | null>(null);
+	let pending = $state<{ translation: Translation; details: WordDetails; audio?: { id: string; blob: Blob } } | null>(null);
 	let editing = $state<{ card: Card; forms: FormCandidate[]; initial: FormCandidate[] } | null>(null);
 
 	let busy = $state(false);
@@ -60,6 +60,7 @@
 		lang.code;
 		reload().then(async () => {
 			if (await addMissingPrompts(lang)) await reload();
+			fillMissingAudio(lang.code);
 		});
 	});
 
@@ -150,8 +151,8 @@
 		error = '';
 		try {
 			const details = await getDetails(t, lang, chosenGerman);
-			const audio = details.audioFile ? await downloadAudio(details.audioFile) : undefined;
-			if (audio) playBlob(audio).catch(() => speak(details.answer, lang.code));
+			const audio = await fetchPronunciation(details.answer, lang, details.audioFiles);
+			if (audio) playBlob(audio.blob).catch(() => speak(details.answer, lang.code));
 			else speak(details.answer, lang.code);
 			if (details.forms.length) {
 				pending = { translation: t, details, audio };
@@ -167,7 +168,7 @@
 
 	// ---------- Step 3 / saving ----------
 
-	async function save(t: Translation, details: WordDetails, audio: Blob | undefined, forms: FormCandidate[]) {
+	async function save(t: Translation, details: WordDetails, audio: { id: string; blob: Blob } | undefined, forms: FormCandidate[]) {
 		const main = await addWord({
 			lang: lang.code,
 			german: chosenGerman,
@@ -176,7 +177,8 @@
 			word: t.word,
 			pos: details.pos,
 			gender: details.gender,
-			audio: audio && details.audioFile ? { id: details.audioFile, blob: audio } : undefined,
+			// a plain copy: pending state is a Svelte proxy, which IndexedDB cannot store
+			audio: audio && { id: audio.id, blob: audio.blob },
 			forms
 		});
 		notice = `„${chosenGerman}“ → „${main.answer}“ hinzugefügt${forms.length ? ` (+${forms.length} ${forms.length === 1 ? 'Form' : 'Formen'})` : ''}.`;
@@ -190,6 +192,8 @@
 		germanInput?.focus();
 		germanInput?.scrollIntoView({ block: 'nearest' });
 		await reload();
+		// recordings for the new special forms, so the quiz has them offline
+		fillMissingAudio(lang.code);
 	}
 
 	async function confirmForms(chosen: FormCandidate[]) {

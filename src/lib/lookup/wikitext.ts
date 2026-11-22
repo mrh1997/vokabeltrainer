@@ -244,6 +244,11 @@ function parseAudio(body: string): string[] {
 	return files;
 }
 
+/** All recordings linked in a language's section of a page ("Fr-le.ogg" on page "le"). */
+export function sectionAudio(wikitext: string, languageName: string): string[] {
+	return parseAudio(languageSections(wikitext, languageName));
+}
+
 /**
  * Reads the section of a foreign word (e.g. "maison", language "Französisch").
  * If the page has several word types, the one matching `preferredPos` wins.

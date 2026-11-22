@@ -68,6 +68,18 @@ test('add a word with forms, quiz it, delete it', async ({ page }) => {
 	await forms.press('Enter');
 
 	await expect(page.locator('.status')).toContainText('„gehen“ → „aller“ hinzugefügt (+2 Formen)');
+	// the recording of "aller" is stored with the card
+	const storedAudio = await page.evaluate(
+		() =>
+			new Promise<string[]>((resolve) => {
+				const r = indexedDB.open('vokabeltrainer');
+				r.onsuccess = () => {
+					const q = r.result.transaction('audio').objectStore('audio').getAllKeys();
+					q.onsuccess = () => resolve(q.result.map(String));
+				};
+			})
+	);
+	expect(storedAudio).toContain('Fr-aller.ogg');
 	await expect(german).toBeFocused();
 	const week = page.locator('section.week');
 	await expect(week.locator('.row')).toHaveCount(3);
