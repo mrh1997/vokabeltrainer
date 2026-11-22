@@ -215,7 +215,7 @@ export function parseTranslations(wikitext: string, code: string): Translation[]
 }
 
 /** Template parameters that are not inflected forms. */
-const NON_FORM_KEYS = /^(Genus|Bild.*|Hilfsverb|Weitere.*|Bemerkung.*|Kasus.*|Klasse.*|Typ.*|\d+)$/i;
+const NON_FORM_KEYS = /^(Genus|Bild.*|Hilfsverb|Elision|Weitere.*|Bemerkung.*|Kasus.*|Klasse.*|Typ.*|\d+)$/i;
 
 function parseOverview(body: string): { forms: RawForm[]; params: Map<string, string> } {
 	const forms: RawForm[] = [];

@@ -66,6 +66,8 @@ describe('buildFormCandidates', () => {
 		expect(forms('parler', 'fr', 'Französisch', 'parler', 'verb')).toEqual([]);
 		expect(forms('manger', 'fr', 'Französisch', 'manger', 'verb')).toEqual([]);
 		expect(forms('finir', 'fr', 'Französisch', 'finir', 'verb')).toEqual([]);
+		// "Elision=nein" in the table is a setting, not a form
+		expect(forms('sauter', 'fr', 'Französisch', 'sauter', 'verb')).toEqual([]);
 		expect(forms('hablar', 'es', 'Spanisch', 'hablar', 'verb')).toEqual([]);
 		expect(forms('casa', 'es', 'Spanisch', 'casa', 'noun')).toEqual([]);
 		expect(forms('parlare', 'it', 'Italienisch', 'parlare', 'verb')).toEqual([]);

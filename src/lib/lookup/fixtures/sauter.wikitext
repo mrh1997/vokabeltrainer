@@ -1,0 +1,40 @@
+{{Siehe auch|[[Sauter]]}}
+== sauter ({{Sprache|Französisch}}) ==
+=== {{Wortart|Verb|Französisch}} ===
+
+{{Französisch Verb Übersicht
+|Präsens 1. Person Singular=saute
+|Präsens 2. Person Singular=sautes
+|Präsens 3. Person Singular=saute
+|Präsens 1. Person Plural=sautons
+|Präsens 2. Person Plural=sautez
+|Präsens 3. Person Plural=sautent
+|Partizip II=sauté
+|Hilfsverb=avoir
+|Elision=nein
+}}
+
+{{Worttrennung}}
+:sau·ter
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|sote}}
+:{{Hörbeispiele}} {{Audio|Fr-sauter.ogg}}
+
+{{Bedeutungen}}
+:[1] [[springen]]
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=fr}}
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=springen|Ü-Liste=
+*{{de}}: {{Ü|de|springen}}
+}}
+
+{{Referenzen}}
+:[1] {{Ref-Pons|fr|sauter}}
+:[1] {{Ref-CNRTL|sauter}}
+:[1] {{Ref-Leo|fr|sauter}}
+
+{{Referenzen prüfen|Französisch}}
