@@ -1,0 +1,201 @@
+{{Siehe auch|[[Aller]], [[aller-]]}}
+== aller ({{Sprache|Deutsch}}) ==
+=== {{Wortart|Indefinitpronomen|Deutsch}} ===
+
+{{Pronomina-Tabelle
+|Nominativ Singular m=aller
+|Nominativ Singular f=alle
+|Nominativ Singular n=alles
+|Nominativ Plural=alle
+|Genitiv Singular m=alles
+|Genitiv Singular m*=allen
+|Genitiv Singular f=aller
+|Genitiv Singular n=alles
+|Genitiv Singular n*=allen
+|Genitiv Plural=aller
+|Dativ Singular m=allem
+|Dativ Singular f=aller
+|Dativ Singular n=allem
+|Dativ Plural=allen
+|Akkusativ Singular m=allen
+|Akkusativ Singular f=alle
+|Akkusativ Singular n=alles
+|Akkusativ Plural=alle
+}}
+
+{{Worttrennung}}
+:al·ler
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ˈalɐ}}
+:{{Hörbeispiele}} {{Audio|De-aller.ogg}}, {{Audio|De-aller2.ogg}}
+:{{Reime}} {{Reim|alɐ|Deutsch}}
+
+{{Grammatische Merkmale}}
+:*maskuline Singularform, Nominativ; feminine Singularform, Genitiv und Dativ; Pluralform, Genitiv des Indefinitpronomens '''[[all]]'''
+:*''siehe auch:'' [[alle]], [[alles]], [[allen]], [[allem]]
+
+{{Grundformverweis|all}}
+
+{{Beispiele}}
+:[1] Für die Versicherungsbranche war 2004 das teuerste Jahr ''aller'' Zeiten - und das schon vor der Tsunami-Katastrophe mit zehntausenden Toten in Asien.<ref>spiegel.de: [https://www.spiegel.de/wissenschaft/natur/0,1518,334787,00.html „Katastrophenjahr 2004 bricht alle Rekorde“, 30.12.2004]</ref>
+:[1] {{landsch.}} ''[[Sachsen]], [[Sachsen-Anhalt]], [[adverbiale Bestimmung]] der [[Zeit]]:'' „''Aller'' zwei Wochen, immer freitags um 16 Uhr findet die Ausbildung statt.“<ref>{{Internetquelle |url=http://www.mz-web.de/jessen/treffen-aller-zwei-wochen,20641004,18180632.html |titel=Treffen aller zwei Wochen |autor=Detlef Mayer |hrsg=Alfred Neven DuMont, Christian DuMont Schütte, Isabella Neven DuMont |werk=[http://www.mz-web.de/ Mitteldeutsche Zeitung] |datum=23. Februar 2009 |zugriff=2014-04-12 |sprache=de}}</ref>
+
+{{Redewendungen}}
+:[1] ''[[aller Anfang ist schwer]].''
+:[1] ''[[aller Welt Freund]]''
+:[1] ''[[aller guten Dinge sind drei]].''
+
+{{Quellen}}
+
+{{Ähnlichkeiten 1|[[Adler]], [[Allee]], [[Aller]], [[alter]], [[Alter]], [[Iller]]|Anagramme=[[ralle]], [[Ralle]]}}
+
+== aller ({{Sprache|Französisch}}) ==
+=== {{Wortart|Verb|Französisch}}, ''unregelmäßig'' ===
+
+{{Französisch Verb Übersicht
+|Präsens 1. Person Singular=vais
+|Präsens 2. Person Singular=vas
+|Präsens 3. Person Singular=va
+|Präsens 1. Person Plural=allons
+|Präsens 2. Person Plural=allez
+|Präsens 3. Person Plural=vont
+|Partizip II=allé
+|Hilfsverb=être
+}}
+
+{{Worttrennung}}
+:al·ler
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ale}}
+:{{Hörbeispiele}} {{Audio|}}
+:{{Reime}} {{Reim|e|Französisch}}
+
+{{Bedeutungen}}
+:[1] sich von einem [[Ort]] zu einem anderen [[fortbewegen]]
+:[2] aller + ''[[Infinitiv]]:'' ''sich eine zukünftige Aktion vorstellen''
+
+{{Synonyme}}
+:[1] [[rendre|se rendre]], [[déplacer|se déplacer]]
+
+{{Gegenwörter}}
+:[1] [[rester]]
+
+{{Oberbegriffe}}
+:[1] [[bouger]]
+
+{{Unterbegriffe}}
+:[1] [[aller d'un pas pesant]]
+
+{{Beispiele}}
+:[1] Je ''vais'' chez un ami.
+::Ich ''gehe'' zu einem Freund.
+:[1] Ce week-end, il ''ira'' dans le Jura.
+::Am Wochenende ''wird'' er in den Jura ''fahren.''
+:[2] Pour son anniversaire, je ''vais'' lui offrir un livre.
+::Für seinen Geburtstag ''werde'' ich ihm ein Buch schenken.
+
+{{Wortbildungen}}
+:[[aller chercher]], [[aller à cheval]], [[aller en boitant]]
+
+====Präpositionen, mit denen man das Verb verwendet====
+:aller [[chez]] qn. (bei Personen)
+:aller [[à]]/[[au]] qc. (bei Dingen)
+:aller [[en]] qc. (mit einem Fahrzeug)
+:''aber :'' [[à]] [[pied]], [[à]] [[cheval]], [[à]] [[vélo]]
+:aller [[en]] un lieu. (in ein Land, eine Region)
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=sich von einem Ort zu einem anderen fortbewegen|Ü-Liste=
+*{{de}}: {{Ü|de|gehen}}, {{Ü|de|fahren}}, {{Ü|de|fliegen}}, {{Ü|de|fortbewegen|sich fortbewegen}}
+*{{en}}: {{Ü|en|go}}, {{Ü|en|walk}}
+*{{fi}}: {{Ü|fi|kävellä}}, {{Ü|fi|kulkea}}
+*{{la}}: {{Ü|la|ire}}
+*{{sv}}: {{Ü|sv|gå}}
+*{{es}}: {{Ü|es|ir}}
+}}
+
+{{Ü-Tabelle|2|G=sich eine zukünftige Aktion vorstellen|Ü-Liste=
+*{{de}}: {{Ü|de|werden}}
+*{{sv}}: {{Ü|sv|komma}}
+}}
+
+{{Referenzen}}
+:[1] {{Ref-CNRTL|aller}}
+:[1] {{Ref-Leo|fr|aller}}
+:[1] {{Ref-Pons|fr|aller}}
+
+{{Referenzen prüfen|Französisch}}
+
+=== {{Wortart|Substantiv|Französisch}}, {{m}} ===
+
+{{Französisch Substantiv Übersicht
+|Genus=m
+|Singular=aller
+|Plural=allers
+}}
+
+{{Worttrennung}}
+:al·ler, {{Pl.}} al·lers
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ale}}
+:{{Hörbeispiele}} {{Audio|Fr-aller.ogg}}
+:{{Reime}} {{Reim|e|Französisch}}
+
+{{Bedeutungen}}
+:[1] [[Hinfahrt]]
+
+{{Herkunft}}
+:abgeleitet von dem französischen Verb [[aller#aller (Französisch)|aller]]
+
+{{Synonyme}}
+:[1] le [[trajet]] ''aller''
+
+{{Gegenwörter}}
+:[1] [[retour]] {{m}}
+
+{{Oberbegriffe}}
+:[1] [[trajet]], [[direction]], [[voyage]]
+
+{{Beispiele}}
+:[1] Nous avons eu beaucoup d'embouteillages à l’''aller,'' mais le retour s'est fait sans problème.
+::Wir haben auf der ''Hinfahrt'' viele Staus gehabt, aber die Rückfahrt gelang ohne Probleme.
+
+{{Charakteristische Wortkombinationen}}
+:un [[aller-retour]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Hinfahrt|Ü-Liste=
+*{{de}}: {{Ü|de|Hinfahrt}} {{f}}
+*{{es}}: {{Ü|es|}}
+}}
+
+{{Referenzen}}
+:[1] {{Ref-CNRTL|aller}}
+:[1] {{Ref-Leo|fr|aller}}
+:[1] {{Ref-Pons|fr|aller}}
+
+{{Ähnlichkeiten 1|[[allée]]|spr=fr}}
+
+== aller ({{Sprache|Niederländisch}}) ==
+
+{{Worttrennung}}
+:al·ler
+
+{{Grammatische Merkmale}}
+*Alte Genitivform, die nur in Idiomen verwendet wird.
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift||spr=nl}}
+:{{Hörbeispiele}} {{Audio|Nl-aller.ogg}}
+
+{{Synonyme}}
+:[1] van alle, voor alle
+
+{{Beispiele}}
+:[1] Dat is het beste boek '''aller''' tijden.
+::Das ist das beste Buch aller Zeiten.
+:[2] Jij bent mijn '''aller'''beste vriend.
+::Du bist mein aller bester Freund.

@@ -1,0 +1,90 @@
+{{erweitern|Beleg für [4]|Französisch}}
+== cheval ({{Sprache|Französisch}}) ==
+=== {{Wortart|Substantiv|Französisch}}, {{m}} ===
+
+{{Französisch Substantiv Übersicht
+|Genus=m
+|Singular=cheval
+|Plural=chevaux
+}}
+
+{{Worttrennung}}
+:le che·val, {{Pl.}} les che·vaux
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ʃəval}}, {{Pl.}} {{Lautschrift|ʃəvo}}
+:{{Hörbeispiele}} {{Audio|Fr-un cheval-fr.ogg}}, {{Pl.}} {{Audio|}}
+
+{{Bedeutungen}}
+:[1] ein [[Pferd]]
+:[2] eine familiäre Abkürzung von [[cheval-vapeur]] ([[Pferdestärke]])
+:[3] eine familiäre Abkürzung von [[cheval fiscal]] (Steuereinheit für [[Fahrzeug]]e in [[Frankreich]])
+:[4] ''umgangssprachlich:'' [[héroïne|Heroin]] ([[Droge]])
+
+{{Abkürzungen}}
+:[2] [[C.V.]]
+
+{{Herkunft}}
+:aus dem vulgärlateinischen Wort ''[[caballus]]'' (Pferd) anstatt des klassisch-lateinischen Worts ''[[equus]]''
+
+{{Synonyme}}
+:[1] [[canasson]] {{m}}, ''(kindisch)'' [[dada]] {{m}}
+
+{{Oberbegriffe}}
+:[1] [[équidé]] {{m}}, [[ongulé]] {{m}}, [[mammifère]] {{m}}, [[animal]] {{m}}
+
+{{Unterbegriffe}}
+::[1] [[cheval de trait]], cheval de [[course]], [[étalon]] {{m}},
+
+{{Beispiele}}
+:[1] ''Nous avons fait une randonnée à '''cheval''' le long de la plage.''
+
+{{Redewendungen}}
+:[[cheval de bataille]], être ou aller à cheval, [[monter sur ses grands chevaux]]
+
+{{Charakteristische Wortkombinationen}}
+:[1] [[jument]] {{f}}, [[étalon]] {{m}}, [[poulain]] {{m}}, [[pouliche]] {{f}}
+:[2] [[voiture]] {{f}}, [[moteur]] {{m}}, [[puissance]] {{f}}
+:[3] [[taxe]] {{f}}, [[vignette|vignette automobile]] {{f}}, [[assurance]] {{f}}
+
+{{Wortbildungen}}
+:[1] [[chevalin]], [[chevalet]] {{m}}, [[chevalier]] {{m}}, [[chevaleresque]], [[chevaleresquement]], [[chevalière]] {{f}},  [[chevaucher]], [[chevauchée]] {{f}}, [[chevauchement]] {{m}}, [[fer-à-cheval]] {{m}}, [[queue-de-cheval]] {{f}}
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=ein Pferd
+|Ü-Liste=
+*{{de}}: {{Ü|de|Pferd}} {{n}}
+*{{ca}}: {{Ü|ca|cavall}} {{m}}
+*{{mt}}: {{Ü|mt|ziemel}} {{m}}
+*{{nl}}: {{Ü|nl|paard}}
+*{{pl}}: {{Ü|pl|koń}} {{m}}
+*{{es}}: {{Ü|es|caballo}}
+}}
+
+{{Ü-Tabelle|2|G=eine familiäre Abkürzung von cheval-vapeur (Pferdestärke)
+|Ü-Liste=
+*{{en}}: {{Ü|en|}}
+*{{fr}}: {{Ü|fr|}}
+}}
+
+{{Ü-Tabelle|3|G=eine familiäre Abkürzung von cheval fiscal (Steuereinheit für Fahrzeuge in Frankreich)
+|Ü-Liste=
+*{{en}}: {{Ü|en|}}
+*{{fr}}: {{Ü|fr|}}
+}}
+
+{{Ü-Tabelle|4|G=umgangssprachlich: Heroin (Droge)
+|Ü-Liste=
+*{{en}}: {{Ü|en|}}
+*{{fr}}: {{Ü|fr|}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=fr|cheval}}
+:[1, 2] {{Ref-Leo|fr|cheval}}
+:[1–3] {{Ref-Pons|fr|cheval}}
+:[1] {{Ref-Littré|cheval}}
+:[1] {{Ref-CNRTL|cheval}}
+
+{{Ähnlichkeiten}}
+:[[Heval]]

@@ -1,0 +1,238 @@
+== Uhr ({{Sprache|Deutsch}}) ==
+=== {{Wortart|Substantiv|Deutsch}}, {{f}} ===
+
+{{Deutsch Substantiv Übersicht
+|Genus=f
+|Nominativ Singular=Uhr
+|Nominativ Plural=Uhren
+|Genitiv Singular=Uhr
+|Genitiv Plural=Uhren
+|Dativ Singular=Uhr
+|Dativ Plural=Uhren
+|Akkusativ Singular=Uhr
+|Akkusativ Plural=Uhren
+|Bild 1=Pocket watch with chain.jpg|mini|1|eine ''Uhr,'' genauer eine [[Taschenuhr]]
+|Bild 2=BadLiebenzellSonnenuhr P1120632.jpg|mini|1|eine ''Sonnenuhr''
+|Bild 3=Atomuhr CS4 caesium clock, Physikalisch-Technische Bundesanstalt, Braunschweig, 1992 - Braunschweigisches Landesmuseum - DSC04949.JPG|mini|1|''Atomuhr'' mit ''Digitaluhr''
+}}
+
+{{Worttrennung}}
+:Uhr, {{Pl.}} Uh·ren
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|uːɐ̯}}
+:{{Hörbeispiele}} {{Audio|De-Uhr.ogg}}, {{Audio|De-Uhr2.ogg}}, {{Audio|De-at-Uhr.ogg|spr=at}}
+:{{Reime}} {{Reim|uːɐ̯|Deutsch}}
+
+{{Bedeutungen}}
+:[1] [[Instrument]] zur [[Messung]] der [[Zeit]], [[Chronometer]]
+:[2] Zusatz zur ''(offiziellen)'' [[Zeitangabe]], zur [[Frage]] nach dem [[Zeitpunkt]]; ''siehe auch:'' [[Verzeichnis:Deutsch/Uhrzeit|Übersicht der Uhrzeiten im Deutschen]]
+:[3] ''fast ausschließlich in zusammengesetzten Substantiven:'' [[Gerät]] zur Messung der [[Durchflussmenge]], [[Durchströmmenge]] oder zur Anzeige des [[Flüssigkeitsstand]]s
+
+{{Herkunft}}
+:spätmittelhochdeutsch ''ur(r)'', im 14. Jahrhundert übernommen von mittelniederdeutsch ''ūr(e)'',  mittelniederländisch ''ure''. Das niederdeutsch-niederländische Wort geht über altfranzösisch ''(h)ore'' und lateinisch {{Ü|la|hora}} auf griechisch {{Üt|grc|ὥρα}} „[[Stunde]], [[Zeit]]“ zurück.<ref>{{Lit-Kluge: Etymologisches Wörterbuch|A=24}}, Stichwort: „Uhr“, Seite 939.</ref>
+
+{{Synonyme}}
+:[1] [[Chronometer]], [[Zeitmesser]]
+:[2] [[Stunde]]
+:[3] [[Durchflussmesser]], [[Durchströmmesser]]
+
+{{Oberbegriffe}}
+:[1] [[Zeitmessgerät]], [[Zeitanzeiger]], [[Zeiteisen]]
+:[2] [[Zeiteinheit]]
+:[3] [[Messgerät]], [[Messinstrument]]
+
+{{Unterbegriffe}}
+:[1] [[Analoguhr]], [[Antik-Uhr]], [[Armbanduhr]], [[Atomuhr]], [[Automatikuhr]], [[Bahnhofsuhr]], [[Bisamapfeluhr]], [[Blumenuhr]], [[Countdownuhr]], [[Damenuhr]], [[Digitaluhr]], [[Dosenuhr]], [[Drehpendeluhr]], [[Eieruhr]], [[Fitnessuhr]], [[Funkuhr]], [[Herrenuhr]], [[Kirchenuhr]], [[Kirchturmuhr]], [[Kirchuhr]], [[Klimauhr]], [[Küchenuhr]], [[Kuckucksuhr]], [[Kunststoffuhr]], [[Laufuhr]], [[Luxusuhr]], [[Marmoruhr]], [[Messinguhr]], [[Multifunktionsuhr]], [[Normaluhr]], [[Pendeluhr]], [[Plastikuhr]], [[Quarzuhr]], [[Rathausuhr]], [[Repetieruhr]], [[Sanduhr]], [[Schachuhr]], [[Schuluhr]], [[Sonnenuhr]], [[Spieluhr]], [[Sportuhr]], [[Standuhr]], [[Stechuhr]], [[Stoppuhr]], [[Stundenglas]], [[Stutzuhr]], [[Taschenuhr]], [[Taucheruhr]], [[Turmuhr]], [[Weckeruhr]], [[Weckuhr]], [[Wanduhr]], [[Weltzeituhr]], [[Zimmeruhr]]
+:[1] ''übertragen:'' [[Totenuhr]]
+:[1] [[Pendüle]], [[Regulator]], [[Wecker]]
+:[3] [[Benzinuhr]], [[Gasuhr]], [[Messuhr]], [[Parkuhr]], [[Tankuhr]], [[Wasseruhr]]
+
+{{Beispiele}}
+:[1] Ach du Schreck, meine ''Uhr'' ist stehen geblieben.
+:[1] Wo habe ich denn meine ''Uhr'' hingelegt?
+:[1] Die ''Uhr'' ist stehengeblieben.
+:[1] „In einem plötzlichen Wutanfall schleuderte er die ''Uhr'' weit hinaus in das Wasser.“<ref>{{Literatur| Autor=Jens Rehn, Nachwort von Ursula März |Titel=Nichts in Sicht |Auflage= |Verlag= Schöffling |Ort = Frankfurt/Main |Jahr= 2018| Seiten= 68. |ISBN= 978-3-89561-149-0}} Erstmals 1954 erschienen.</ref>
+:[1] „In einem der Flure gab es eine alte Pendeluhr, ich glaube im ersten Stock; die ''Uhr'' stand immer; eine echte Standuhr also.“<ref>{{Literatur | Autor=Hansi Sondermann | Titel=Hexentotentanz und andere Kriminalgeschichten | TitelErg=Anthologie | Verlag=Mecke Druck und Verlag | Ort=Duderstadt | Jahr=2019 | ISBN=978-3-86944-199-3 | Seiten=30}}.</ref>
+:[1] „Er sah nach der ''Uhr''.“<ref>{{Literatur | Autor= Theodor Fontane |Titel= Schach von Wuthenow | TitelErg= Erzählung aus der Zeit des Regiments Gendarmes | Verlag = Nymphenburger | Ort= München | Jahr=1969 | Seiten= 98.}} Entstanden 1878-82, erschienen 1882.</ref>
+:[1, 2, 4] „Gesundheit, Gewicht und Genuss: Wer sich richtig ernähren will, bringt die ''Uhr'' ins Spiel.“<ref>{{Literatur | Autor=Stefanie Kara | Titel=ZEIT Wissen; Mahl + Zeit | Auflage= | Verlag=ZEIT Wissen Zeitverlag Gerd Bucerius GmbH & Co. KG| Ort=Hamburg | Jahr=2017 | ISBN= | Seiten=49}}</ref>
+:[2] Um 10 ''Uhr'' stehe ich auf.
+:[2] Wie viel ''Uhr'' ist es?
+:[2] Es ist kurz vor vier ''Uhr''.
+:[2] Es ist dreizehn ''Uhr'' dreiunddreißig Minuten.
+:[2] „Es war bereits zwei ''Uhr'' nachmittags.“<ref>{{Literatur | Autor= Leo N. Tolstoi | Titel=Krieg und Frieden | TitelErg= Roman | Übersetzer=Werner Bergengruen | Verlag=Paul List Verlag | Ort= München | Jahr=1971 | Seiten=1173}}. Russische Urfassung 1867.</ref>
+:[3] „Eine ''Uhr'' zeigt an, wie lange man noch parken darf. Fünf Minuten vor Ablauf der Zeit wird der Nutzer benachrichtigt. Dann kann man (vom Büro aus oder von unterwegs) die Parkzeit bis zur Höchstdauer erweitern.“<ref>[https://www.wetterauer-zeitung.de/wetterau/friedberg-ort28695/statt-kleingeld-premiere-bargeldloses-parken-12156653.html App statt Kleingeld: Premiere für bargeldloses Parken]</ref>
+:[3] „Eine kleine ''Uhr'' zeigt anderen Nutzern, wie lange der Platz schon frei ist. Sie müssen dann selbst abschätzen, ob es sich noch lohnt, ihn anzusteuern.“<ref>[https://www.heise.de/hintergrund/Smarter-Parken-2427730.html Smarter Parken]</ref>
+:[3] „Uns dämmerte, dass wohl nicht das bereits abgeklemmte Radio oder die ebenfalls zur Vorsage abgeklemmte ''Uhr'' der Stromverbraucher an dem Van war, sondern das Standlicht, dass sich wahrscheinlich beim Tür zuschlagen irgendwie von selbst einschalten muss.“<ref>[https://context.reverso.net/%C3%BCbersetzung/deutsch-englisch/vorsage Uhr der Stromverbraucher]</ref>
+:[3] „Berechnete ''Uhr'' des Wasserverbrauchs zur Bestimmung der Leistung der Wasseraufbereitung und der entsprechenden Ausrüstung zum Füttern des Wärmeversorgungssystems sollte genommen werden [...]“<ref>[https://rolexforum.ru/de/snip-naruzhnye-teplovye-seti-zakonodatelnaya-baza-rossiiskoi.html Thermische Netzwerke im Freien]</ref>
+:[3] „Vergewissern Sie sich, dass der Stromausfall nicht langfristig ist. In diesem Fall fällt die ''Uhr'' des Wassererwärmers aus [...]“<ref>[https://www.sinclair-solutions.com/files/xx-deutsch-de/user-manuals-de/accesories/sinclair-um-swh-wired-controller-xk64-de.pdf Sinclair Wärmepumpe]</ref>
+:[3] „Neue Motoren haben einen Blowby von ca. 15 Litern/Minute. Motoren um die 300000 km stehen so bei 30 litern/Minute gemessen im Leerlauf und gegen Atmosphäre (kein Ansaugunterdruck an der ''Uhr'').“<ref>[http://archiv.mb100.de/index.php/Blow-by Blow-by]</ref>
+
+{{Redewendungen}}
+:[[Zeit von der Uhr nehmen|Zeit von der ''Uhr'' nehmen]]
+:[2] [[rund um die Uhr|rund um die ''Uhr'']]
+
+{{Sprichwörter}}
+:[[in Bayern gehen die Uhren anders|in Bayern gehen die ''Uhren'' anders]]
+:[[wer zwei Uhren hat, weiß nicht, wie spät es ist|wer zwei ''Uhren'' hat, weiß nicht, wie spät es ist]]
+
+{{Charakteristische Wortkombinationen}}
+:[1] [[astronomisch]]e ''Uhr'', [[golden]]e ''Uhr,'' nach [[mein]]er ''Uhr,'' eine [[kaputt]]e ''Uhr,'' die/eine ''Uhr'' [[aufziehen]], die [[inner]]e ''Uhr'', [[molekular]]e ''Uhr''
+:[2] [[nach]] achtzehn ''Uhr'', [[nicht]] [[vor]] drei ''Uhr'', [[um]] zehn ''Uhr,'' [[wieviel]] ''Uhr''
+
+{{Wortbildungen}}
+:[[Uhrarmband]]/[[Uhrenarmband]], [[Uhrband]], [[Uhrenaufzieher]], [[Uhrenbauer]], [[Uhrenfabrik]], [[Uhrenfabrikant]], [[Uhrenfabrikation]], [[Uhrengehäuse]], [[Uhrengeschäft]], [[Uhrengewicht]], [[Uhrenglas]], [[Uhrenhersteller]], [[Uhrenindustrie]], [[Uhrenladen]], [[Uhrenmuseum]], [[Uhrenradio]], [[Uhrenschlüssel]], [[Uhrensignal]], [[Uhrenstechkarte]], [[Uhrenverkäufer]], [[Uhrfeder]], [[Uhrgehäuse]], [[Uhrglas]], [[Uhrkasten]]/[[Uhrenkasten]], [[Uhrkette]], [[Uhrmacher]], [[Uhrpendel]], [[Uhrschlüssel]], [[Uhrtasche]], [[Uhrwerk]], [[Uhrzeiger]], [[Uhrzeit]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Instrument zur Messung der Zeit, Chronometer|Ü-Liste=
+*{{sq}}: {{Ü|sq|orë}} {{f}}
+*{{grc}}: {{Polytonisch|[[ὡρολόγιον]]}} (hōrológion)
+*{{ar}}: {{Üt|ar|ساعة|sāʕa}} {{f}}
+*{{an}}: {{Ü|an|reloch}}
+*{{ast}}: {{Ü|ast|reló}}
+*{{eu}}: {{Ü|eu|erloju}}
+*{{my}}: {{Üt|my|နာရီ|}}
+*{{bs}}: {{Ü|bs|sahat}} {{m}}, {{Ü|bs|sat}} {{m}}
+*{{br}}: {{Ü|br|horolaj}}
+*{{bg}}: {{Üt|bg|часовник}}
+*{{zh}}:
+**{{zh-tw}}: {{Üt|zh|鐘|zhōng}}, {{Üt|zh|時鐘|shízhōng}}
+**{{zh-cn}}: {{Üt|zh|钟|zhōng}}, {{Üt|zh|时钟|shízhōng}}
+*{{da}}: {{Ü|da|klokke}} {{u}}, {{Ü|da|ur}} {{n}}
+*{{en}}: {{Ü|en|clock}}, {{Ü|en|watch}}, {{Ü|en|timepiece}}
+*{{eo}}: {{Ü|eo|horloĝo}}
+*{{et}}: {{Ü|et|kell}}
+*{{fo}}: {{Ü|fo|klokka}} {{f}}, {{Ü|fo|ur}} {{n}}
+*{{fi}}: {{Ü|fi|kello}}
+*{{fr}}: {{Ü|fr|montre}} {{f}}, {{Ü|fr|horloge}} {{f}}
+*{{fur}}: {{Ü|fur|orloi}}
+*{{gl}}: {{Ü|gl|reloxo}} {{m}}
+*{{ka}}: {{Üt|ka|საათი|saati}}
+*{{el}}: {{Üt|el|ρολόι|rolói}} {{n}}, {{Üt|el|ώρα|óra}} {{f}}
+*{{kl}}: {{Ü|kl|nalunaaqutaq}}
+*{{ha}}: {{Ü|ha|agogo}}
+*{{io}}: {{Ü|io|horlojo}}
+*{{ia}}: {{Ü|ia|horologio}}
+*{{ga}}: {{Ü|ga|clog}} {{m}}
+*{{is}}: {{Ü|is|úr}}
+*{{it}}: {{Ü|it|orologio}} {{m}}
+*{{ja}}: {{Üt|ja|時計|とけい, tokei}}
+*{{ca}}: {{Ü|ca|rellotge}}
+*{{ko}}: {{Üt|ko|시계|shi-gae}}
+*{{kw}}: {{Ü|kw|klock}} {{m}}
+*{{co}}: {{Ü|co|orillogiu}}
+*{{hr}}: {{Ü|hr|sat}} {{m}}, {{Ü|hr|ura}} {{f}}
+*{{la}}: {{Ü|la|horologium}}, {{Ü|la|horologus}} {{m}}
+*{{lv}}: {{Ü|lv|pulkstenis}} {{m}}
+*{{lt}}: {{Ü|lt|laikrodis}} {{m}}
+*{{lb}}: {{Ü|lb|Auer}} {{f}}
+*{{mt}}: {{Ü|mt|arloġġ}}
+*{{gv}}: {{Ü|gv|clag}}
+*{{mr}}: {{Üt|mr|घड्याळ|}} {{n}}
+*{{mwl}}: {{Ü|mwl|reloijo}}
+*{{ne}}: {{Üt|ne|घडी|}}
+*{{nds}}: {{Ü|nds|Klock}} {{f}}
+*{{nl}}: {{Ü|nl|tijdklok}} {{n}}, {{Ü|nl|klok}} {{n}}
+*{{se}}: {{Ü|se|diibmu}}
+*{{no}}: {{Ü|no|klokke}} {{mf}}, {{Ü|no|ur}} {{n}}
+*{{oc}}: {{Ü|oc|relòtge}}
+*{{ps}}: {{Üt|ps|ساعت|}} {{m}}
+*{{fa}}: {{Üt|fa|ساعت|sâ'at}}
+*{{pl}}: {{Ü|pl|zegar}} {{m}}
+*{{pt}}: {{Ü|pt|relógio}} {{m}}
+*{{rm}}: {{Ü|rm|ura}} {{f}}
+*{{ro}}: {{Ü|ro|ceas}}, {{Ü|ro|ceasornic}} {{n}}
+*{{ru}}: {{Pl.}} {{Üt|ru|часы}}
+*{{gd}}: {{Ü|gd|cloc}} {{m}}, {{Ü|gd|gleoc}} {{m}}, {{Ü|gd|gloc}} {{m}}
+*{{sv}}: {{Ü|sv|klocka}} {{u}}, {{Ü|sv|ur}} {{n}}
+*{{sr}}: {{Üt|sr|сат}}
+*{{scn}}: {{Ü|scn|raloggiu}}, {{Ü|scn|ralogiu}}, {{Ü|scn|riloggiu}}, {{Ü|scn|rilogiu}}, {{Ü|scn|rologgiu}}, {{Ü|scn|rologiu}}, {{Ü|scn|ruloggiu}}, {{Ü|scn|rulogiu}}
+*{{sk}}: {{Ü|sk|hodinky}} ''pl''
+*{{sl}}: {{Ü|sl|ura}} {{f}}
+*{{wen}}:
+**{{dsb}}: {{Ü|dsb|zeger}}
+**{{hsb}}: {{Ü|hsb|časnik}}, {{ugs.|:}} {{Ü|hsb|zeger}}
+*{{es}}: {{Ü|es|reloj}} {{m}}
+*{{th}}: {{Üt|th|นาฬิกา|naa-lí-gaa}}
+*{{cs}}: {{Ü|cs|hodiny}}, {{Ü|cs|hodinky}}
+*{{tr}}: {{Ü|tr|saat}}
+*{{uk}}: {{Üt|uk|годинник}}, {{Üt|uk|дзиґар}}
+*{{hu}}: {{Ü|hu|óra}}
+*{{ur}}: {{Üt|ur|گھڑی|}} {{f}}
+*{{vi}}: {{Ü|vi|đồng hồ}}
+*{{cy}}: {{Ü|cy|cloc}} {{m}}
+*{{wa}}: {{Ü|wa|ôrlodje}}
+*{{fy}}: {{Ü|fy|klok}}, {{Ü|fy|oerwurk}}
+|Dialekttabelle=
+*Sächsisch: [?] [[Lupper]]
+}}
+
+{{Ü-Tabelle|2|G=Zusatz zur Zeitangabe|Ü-Liste=
+*{{bg}}: {{Üt|bg|час}}
+*{{zh}}:
+**{{zh-tw}}: {{Üt|zh|時|shí}}
+**{{zh-cn}}: {{Üt|zh|时|shí}}
+*{{en}}: {{Ü|en|o'clock}}, {{Ü|en|hour|hours}}
+*{{eo}}: {{Ü|eo|horo}}
+*{{fi}}: {{Ü|fi|kello}}
+*{{fr}}: {{Ü|fr|heure}} {{f}}
+*{{ka}}: {{Üt|ka|საათი|saati}}
+*{{io}}: {{Ü|io|kloko}}
+*{{is}}: {{Ü|is|klukka}}, {{Ü|is|klukkutími}}
+*{{it}}: {{Ü|it|ora}} {{f}}
+*{{ja}}: ~{{Üt|ja|時|~じ, ~ji}}
+*{{ko}}: {{Üt|ko|시|shi}}
+*{{la}}: {{Ü|la|hora}} {{f}}
+*{{lt}}: {{Ü|lt|valanda}}
+*{{lb}}: {{Ü|lb|Auer}} {{f}}
+*{{nds}}: {{Ü|nds|Klock}} {{f}}
+*{{nl}}: {{Ü|nl|uur}} {{n}}
+*{{no}}: {{Ü|no|klokka}}
+*{{pl}}: {{Ü|pl|godzina}} {{f}}
+*{{pt}}: {{Ü|pt|hora}} {{f}}
+*{{rm}}: {{Ü|rm|ura}} {{f}} ''(meist weggelassen)''
+*{{ro}}: {{Ü|ro|oră}} {{f}}
+*{{ru}}: {{Üt|ru|часов}}
+*{{sv}}: {{Ü|sv|klocka}} {{u}}
+*{{sr}}: {{Üt|sr|сат}}
+*{{sk}}: {{Ü|sk|hodiny}} ''pl''
+*{{sl}}: {{Ü|sl|ura|úra}}
+*{{wen}}:
+**{{dsb}}: {{Ü|dsb|zeger}}
+**{{hsb}}: {{Ü|hsb|hodź}}
+*{{es}}: {{Ü|es|hora}} {{f}}
+*{{th}}: ''tagsüber:'' {{Üt|th|โมง|moong}}, ''abends:'' {{Üt|th|ทุ่ม|tûm}}, ''nachts:'' {{Üt|th|ตี|dtii}}, ''formell:'' {{Üt|th|นาฬิกา|naa-lí-gaa}}
+*{{cs}}: {{Ü|cs|hodina}} {{f}}
+*{{tr}}: {{Ü|tr|saat}}
+*{{hu}}: {{Ü|hu|óra}}
+|Dialekttabelle=
+*Sächsisch: [?] [[Lupper]]
+}}
+
+{{Ü-Tabelle|3|G=in zusammengesetzten Substantiven: Gerät zur Messung einer Menge|Ü-Liste=
+*{{en}}: {{Ü|en|gauge}}, {{Ü|en|meter}}
+*{{eo}}: {{Ü|eo|tempmezurilo}}
+*{{it}}: {{Ü|it|misuratore}} {{m}}, {{Ü|it|contatore}} {{m}}
+*{{nds}}: {{Ü|nds|Klock}} {{f}}
+*{{nl}}: {{Ü|nl|meetklok}} {{n}}
+*{{cs}}: {{Ü|cs|hodiny}}, {{Ü|cs|hodinky}}
+*{{tr}}: {{Ü|tr|sayaç}}
+*{{hu}}: {{Ü|hu|óra}}
+|Dialekttabelle=
+*Sächsisch: [?] [[Lupper]]
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia}}
+:[1, 2] {{Ref-DWDS}}
+:[*] {{Ref-DWDS-Korpus}}
+:[*] {{Ref-OWID|elexiko|256520}}
+:[1, 2] {{Ref-FreeDictionary}}
+:[1, 2] {{Ref-Duden}}
+:[*] {{Ref-UniLeipzig}}
+:[1] {{Ref-PONS}}
+:[*] {{Ref-wissen.de|Wörterbuch}}
+
+{{Quellen}}
+
+{{Ähnlichkeiten 1|[[Ahr]], [[fuhr]], [[ihr]], [[Ohr]], [[Ruhr]], [[Uhu]], [[ur-]]|Homophone=[[Ur]]|Anagramme=[[hur]], [[ruh]], [[Ruh]]}}

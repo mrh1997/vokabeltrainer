@@ -1,0 +1,54 @@
+== child ({{Sprache|Englisch}}) ==
+=== {{Wortart|Substantiv|Englisch}} ===
+
+{{Englisch Substantiv Übersicht
+|Singular=child
+|Plural=children
+}}
+
+{{Worttrennung}}
+:child, {{Pl.}} child·ren
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|tʃaɪld|spr=en}}
+:{{Hörbeispiele}} {{Audio|LL-Q1860 (eng)-Back ache-child.wav}}, {{Audio|En-uk-child.ogg|spr=en}}, {{Audio|En-us-child.ogg|spr=us}}
+:{{Reime}} {{Reim|aɪld|Englisch}}
+
+{{Bedeutungen}}
+:[1] [[Kind]]
+:{{QS Bedeutungen|fehlen|spr=en}}
+
+{{Oberbegriffe}}
+:[1] [[human being]]
+
+{{Unterbegriffe}}
+:[?] [[schoolchild]]
+
+{{Beispiele}}
+:[1] I'm the father of two ''children.''
+::Ich bin der Vater zweier ''Kinder.''
+:[?] "They also relate that Zafir Khan said to his grandson, "Oh, my ''child'', you are in a great hurry; though if you had not done so, all I have was intended for you."<ref>ʻAlī Muḥammad Khān; The political and statistical history of Gujarát; R. Bentley, 1835 {{GBS|M58IAAAAQAAJ|PA184|Hervorhebung=grandson}}</ref>
+
+{{Wortbildungen}}
+:[[child education]], [[childless]], [[childlessness]], [[childhood]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Kind|Ü-Liste=
+*{{de}}: {{Ü|de|Kind}} {{n}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=en}}
+:[1] {{Ref-MWD}}
+:[1] {{Ref-MWT}}
+:[1] {{Ref-Dictionary}}
+:[1] {{Ref-Pons|en}}
+:[1] {{Ref-dictcc}}
+:[1] {{Ref-Leo|en}}
+:[1] {{Ref-LWU}}
+:[1] {{Ref-OEtymD}}
+
+{{Quellen}}
+
+{{Ähnlichkeiten}}
+:[[chill]]

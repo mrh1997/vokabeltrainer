@@ -1,0 +1,38 @@
+== maison ({{Sprache|Französisch}}) ==
+=== {{Wortart|Substantiv|Französisch}}, {{f}} ===
+
+{{Französisch Substantiv Übersicht
+|Genus=f
+|Singular=maison
+|Plural=maisons
+}}
+
+{{Worttrennung}}
+:mai·son, {{Pl.}} mai·sons
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|mɛzɔ̃}}, {{Pl.}} {{Lautschrift|mɛzɔ̃}}
+:{{Hörbeispiele}} {{Audio|Fr-une maison-fr-ouest.ogg}}, {{Pl.}} {{Audio|}}
+
+{{Bedeutungen}}
+:[1] [[Haus]]
+
+{{Oberbegriffe}}
+:[1] [[bâtiment]]
+
+{{Beispiele}}
+:[1] Dans quelle ''maison'' est-ce que tu habites?
+::In welchem ''Haus'' wohnst du?
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Haus|Ü-Liste=
+*{{de}}: {{Ü|de|Haus}} {{n}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=fr|maison}}
+:[1] {{Ref-Pons|fr}}
+:[1] {{Ref-CNRTL}}
+:[1] {{Ref-Leo|fr}}
+
+{{Ähnlichkeiten 2|[[Liaison]], [[raison]]}}

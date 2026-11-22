@@ -1,0 +1,51 @@
+== roof ({{Sprache|Englisch}}) ==
+=== {{Wortart|Substantiv|Englisch}} ===
+
+{{Englisch Substantiv Übersicht
+|Singular=roof
+|Plural=roofs
+|Bild 1=Rathaus Oberstadt Marburg Dach und Uhrturm mit Uhrzeit 20 Uhr 27 2016-07-15.jpg|mini|1|Slate ''roof'' of the town hall of Marburg.
+}}
+
+{{Worttrennung}}
+:roof, {{Pl.}} roofs
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ruːf}}
+:{{Hörbeispiele}} {{Audio|En-ca-roof.ogg|roof (Kanad.)}}, {{Audio|En-uk-roof.ogg|spr=uk}}, {{Audio|En-us-roof.ogg|spr=us}}
+:{{Reime}} {{Reim|uːf|Englisch}}
+
+{{Bedeutungen}}
+:[1] das [[Dach]]
+
+{{Unterbegriffe}}
+:[1] [[slate roof]], [[flat roof]]
+
+{{Beispiele}}
+:[1] The ''roof'' of the old factory collapsed under the heavy load.
+::Das ''Dach'' der alten Fabrik brach unter der hohen Belastung zusammen.
+
+{{Wortbildungen}}
+:[[roof antenna]]
+:[[roofing]]
+:[[roof-garden]] oder [[roof garden]]
+:[[roof-top]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=das Dach|Ü-Liste=
+*{{de}}: {{Ü|de|Dach}} {{n}}
+*{{nds}}: {{Ü|nds|Dack}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=en}}
+:[1] {{Ref-MWD}}
+:[1] {{Ref-MWT}}
+:[1] {{Ref-Dictionary}}
+:[1] {{Ref-Pons|en}}
+:[1] {{Ref-dictcc}}
+:[1] {{Ref-Leo|en}}
+{{Referenzen prüfen|Englisch}}
+
+{{Ähnlichkeiten}}
+:[[hoof]], [[rood]], [[rook]], [[room]], [[root]]

@@ -1,0 +1,131 @@
+== arbre ({{Sprache|Französisch}}) ==
+=== {{Wortart|Substantiv|Französisch}}, {{m}} ===
+
+{{Französisch Substantiv Übersicht
+|Genus=m
+|Singular=arbre
+|Plural=arbres
+}}
+
+{{Worttrennung}}
+:arbre
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|aʁbʁ}}
+:{{Hörbeispiele}} {{Audio|Fr-arbre.ogg}}, {{Audio|Fr-arbre-fr-Paris.ogg|arbre (Paris)}}
+:{{Reime}} {{Reim|aʁbʁ|Französisch}}
+
+{{Bedeutungen}}
+:[1] {{K|Botanik|spr=fr}} [[Baum]]
+:[2] {{K|Mechanik|spr=fr}} [[Welle]]
+
+{{Herkunft}}
+:von dem lateinischen Substantiv: [[arbor]]
+
+{{Oberbegriffe}}
+:[1] [[plante]]
+
+{{Beispiele}}
+:[1] Un rameau d'un ''arbre'' est moins âgé que sa tige, et son aubier que son tronc.
+
+{{Charakteristische Wortkombinationen}}
+:[1] [[abattre]], [[planter]]
+
+{{Wortbildungen}}
+:[1] [[arbre de Noël|''arbre'' de Noël]] = [[Weihnachtsbaum]]
+:[1] [[arbre généalogique|''arbre'' généalogique]] = [[Stammbaum]]
+:[2] ''arbre'' moteur = [[Antriebswelle]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Botanik|Ü-Liste=
+*{{de}}: {{Ü|de|Baum}} {{m}}
+}}
+
+{{Ü-Tabelle|2|G=Mechanik|Ü-Liste=
+*{{de}}: {{Ü|de|Welle}} {{f}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=fr}}
+:[2] {{Wikipedia|spr=fr|Arbre (mécanique)}}
+:[1, 2] {{Ref-Pons|fr}}
+:[1, 2] {{Ref-CNRTL}} ([1]: I.A; [2]: II.B2)
+:[1, 2] {{Ref-Leo|fr}}
+
+== arbre ({{Sprache|Katalanisch}}) ==
+=== {{Wortart|Substantiv|Katalanisch}}, {{m}} ===
+
+{{Katalanisch Substantiv Übersicht
+|Genus=m
+|Singular=arbre
+|Plural=arbres
+}}
+
+{{Worttrennung}}
+:ar·bre, {{Pl.}} ar·bres
+
+{{Aussprache}}
+:{{IPA}} ''östlich:'' {{Lautschrift|ˈarβɾə}}, ''westlich:'' {{Lautschrift|ˈaɾβɾe}}
+:{{Hörbeispiele}} {{Audio|LL-Q7026 (cat)-Unjoanqualsevol-arbre.wav}}
+
+{{Bedeutungen}}
+:[1] [[Botanik]]: [[Baum]] (eine bestimmte Wuchsform von Pflanzen mit einem dickem Stamm und ausladenden Ästen)
+:[2] [[Nautik]]: [[Mast]] eines Schiffes
+
+{{Herkunft}}
+:von dem lateinischen Substantiv: [[arbor]]
+
+{{Gegenwörter}}
+:[1] [[arbust]], [[bardissa]]
+
+{{Beispiele}}
+:[1] El bedoll és ''l'arbre'', que m'agrada més.
+::Die Birke ist der ''Baum,'' den ich am meisten mag.
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Baum mit einem dickem Stamm und ausladenden Ästen|Ü-Liste=
+*{{de}}: {{Ü|de|Baum}} {{m}}
+*{{en}}: {{Ü|en|tree}}
+*{{fa}}: {{Üt|fa|درخت|}}
+*{{es}}: {{Ü|es|árbol}} {{m}}
+}}
+
+{{Ü-Tabelle|2|G=Nautik: Mast eines Schiffes|Ü-Liste=
+*{{de}}: {{Ü|de|Mast}} (eines Schiffes)
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=ca|arbre}}
+:[1] {{Ref-DIEC2|arbre}}
+:[1] {{Ref-GranDiccionari}}
+
+== arbre ({{Sprache|Okzitanisch}}) ==
+=== {{Wortart|Substantiv|Okzitanisch}}, {{m}} ===
+
+{{Okzitanisch Substantiv Übersicht
+|Genus=m
+|Singular=arbre
+|Plural=arbres
+}}
+
+{{Worttrennung}}
+:ar·bre, {{Pl.}} ar·bres
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ˈaɾbɾe}}
+:{{Hörbeispiele}} {{Audio|LL-Q942602-Davidgrosclaude-arbre.wav|arbre (languedokisch)}}
+
+{{Bedeutungen}}
+:[1] ''[[Botanik]]:'' [[Baum]]
+
+{{Herkunft}}
+:von dem lateinischen Substantiv [[arbor]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Botanik: Baum|Ü-Liste=
+*{{de}}: {{Ü|de|Baum}} {{f}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=oc|arbre}}
+:[1] {{Lit-Balaguer: Diccionari Català - Occità / Occitan - Catalan}}, Seite 531

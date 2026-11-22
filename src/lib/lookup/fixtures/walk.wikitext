@@ -1,0 +1,242 @@
+== walk ({{Sprache|Deutsch}}) ==
+=== {{Wortart|Konjugierte Form|Deutsch}} ===
+
+{{Nebenformen}}
+:[[walke]]
+
+{{Worttrennung}}
+:walk
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|valk}}
+:{{Hörbeispiele}} {{Audio|De-walk.ogg}}
+:{{Reime}} {{Reim|alk|Deutsch}}
+
+{{Grammatische Merkmale}}
+*2. Person Singular Imperativ Präsens Aktiv des Verbs '''[[walken#Verb|walken]]'''
+
+{{Grundformverweis Konj|walken|Abschnitt=Verb}}
+
+=== {{Wortart|Konjugierte Form|Deutsch}} ===
+
+{{Nebenformen}}
+:[[walke]]
+
+{{Worttrennung}}
+:walk
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|wɔːk}}
+:{{Hörbeispiele}} {{Audio|De-walk2.ogg}}
+:{{Reime}} {{Reim|ɔːk|Deutsch}}
+
+{{Grammatische Merkmale}}
+*2. Person Singular Imperativ Präsens Aktiv des Verbs '''[[walken#Verb_2|walken]]'''
+
+{{Grundformverweis Konj|walken|Abschnitt=Verb_2}}
+
+== walk ({{Sprache|Englisch}}) ==
+=== {{Wortart|Substantiv|Englisch}} ===
+
+{{Englisch Substantiv Übersicht
+|Singular=walk
+|Plural=walks
+}}
+
+{{Worttrennung}}
+:walk, {{Pl.}} walks
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|wɔːk}}, {{Pl.}} {{Lautschrift|wɔːks}}; ''amerikanisch auch:'' {{Lautschrift|wɑk}}, {{Pl.}} {{Lautschrift|wɑks}}
+:{{Hörbeispiele}} {{Audio|En-uk-walk.ogg|spr=uk}}, {{Audio|En-us-walk.ogg|spr=us}}
+:{{Reime}} {{Reim|ɔːk|Englisch}}
+
+{{Bedeutungen}}
+:[1] [[Spaziergang]]
+:[2] der [[Gang]], die [[Schrittart]]
+:[3] [[Spazierweg]], die [[Länge]] oder [[Dauer]] des Spaziergangs
+:[4] ''umgangssprachlich, amerikanisch:'' [[Bürgersteig]], [[Gehweg]], [[Gehsteig]]
+
+{{Synonyme}}
+:[1] [[promenade]], [[stroll]] (kurz, langsam), [[hike]] (lange, grosse Tour), [[trek]] (lang)
+:[2] [[gait]]
+:[3] [[route]], [[hike]] (lange, grosse Tour), [[trek]] (lang)
+:[4] [[pavement]] (Britisch), [[sidewalk]] (Amerikanisch), [[footpath]]
+
+{{Gegenwörter}}
+:[1] [[trip]], [[journey]], [[excursion]], [[flight]]
+:[4] [[pavement]] (amerikanisch), [[road surface]]
+
+{{Beispiele}}
+:[1] I take a ''walk'' every day around the block with my kids.
+::Ich ''gehe'' jeden Tag mit meinen Kindern um den Block ''spazieren''.
+::Ich mache jeden Tag mit meinen Kindern einen ''Spaziergang'' um den Block.
+:[2] He has a ''walk'' very paculiar to him.
+::Er hat einen sehr speziellen ''Gang''.
+:[3] It's a long ''walk'' from the doctor's office to the drugstore.
+::Es ''dauert'' sehr lang von der Praxis zur Apotheke.
+:[4] Sweetheart, don't step off the ''walk,'' 'cos the cars will hit you.
+::Mein Liebchen, trete nicht vom ''Bürgersteig,'' weil die Autos dich anfahren werden.
+
+{{Charakteristische Wortkombinationen}}
+:[[take a walk|take a ''walk'']] – [[spazieren]] ([[spazieren gehen|gehen]])
+
+{{Wortbildungen}}
+:[[crossroad]] – [[Kreuzweg]], [[Querstraße]]
+:[[crossroads]] (britisch; nur Plural) – [[Kreuzung]]
+:[[crosswalk]] (amerikanisch) – [[Zebrastreifen]], [[Fußgängerübergang]]
+:[[sidewalk]] (amerikanisch) – [[Bürgersteig]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Spaziergang|Ü-Liste=
+*{{de}}: {{Ü|de|Spaziergang}} {{m}}
+*{{fr}}: {{Ü|fr|f|promenade}}
+*{{hu}}: {{Ü|hu|séta}}, {{Ü|hu|gyaloglás}}
+}}
+
+{{Ü-Tabelle|2|G=der Gang, die Schrittart|Ü-Liste=
+*{{de}}: {{Ü|de|Gang}} {{m}}
+*{{hu}}: {{Ü|hu|járás}}, {{Ü|hu|járásmód}}
+}}
+
+{{Ü-Tabelle|3|G=Spazierweg, die Länge oder Dauer des Spaziergangs|Ü-Liste=
+*{{de}}: {{Ü|de|Spazierweg}} {{m}}
+*{{hu}}: {{Ü|hu|séta}}, {{Ü|hu|gyalogút}}
+}}
+
+{{Ü-Tabelle|4|G=umgangssprachlich, amerikanisch: Bürgersteig, Gehweg, Gehsteig|Ü-Liste=
+*{{de}}: {{Ü|de|Bürgersteig}} {{m}}, {{Ü|de|Gehsteig}} {{m}}, {{Ü|de|Gehweg}} {{m}}
+*{{hu}}: {{Ü|hu|járda}}, {{Ü|hu|gyalogút}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=en|walk}}
+:[1–4] {{Ref-Leo|en|walk}}
+:[1–4] {{Ref-Pons|en|walk}}
+:[1–4] {{Ref-MWD|walk}}
+:[1, 3] {{Ref-MWT|walk}}
+:[1–4] {{Ref-Dictionary|walk}}
+:[1–4] {{Ref-dictcc|walk}}
+
+=== {{Wortart|Verb|Englisch}} ===
+
+{{Englisch Verb Übersicht
+|present_I=walk
+|present_he, she, it=walks
+|past_simple_I=walked
+|present participle=walking
+|past participle=walked
+|Weitere_Konjugationen=walk (Konjugation)
+|Bild=Muybridge horse walking animated.gif|200px|1|A horse ''walking'' – Ein ''trottendes'' Pferd
+}}
+
+{{Worttrennung}}
+:walk, walks, {{PPerf.}} walked, {{PPräs.}} walk·ing
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|wɔːk}}
+:Amerikanisch auch: {{Lautschrift|wɑk}}
+:{{Hörbeispiele}} {{Audio|En-uk-walk.ogg|spr=uk}}, {{Audio|En-us-walk.ogg|spr=us}}
+:{{Reime}} {{Reim|ɔːk|Englisch}}
+
+{{Bedeutungen}}
+*{{K|intrans.|spr=en}}
+:[1] [[gehen]], [[laufen]], [[trotten]], [[spazieren gehen]]
+:[2] ''[[Recht]], umgangssprachlich:'' [[freigelassen]] werden, während [[schuldig]] sein
+:[3] ''[[Euphemismus]], umgangssprachlich:'' (ein Objekt) [[wegkommen]], [[stehlen|gestohlen]] werden
+:[4] ''umgangssprachlich:'' [[weggehen]], [[verlassen]], [[resignieren]]
+*{{K|trans.|spr=en}}
+:[5] zu Fuß (einen Abstand) fahren, gehen, spazieren
+:[6] spazieren/gehen/spazieren gehen/laufen/trotten mit + Dativ (typische Objekte sind beispielsweise Mäderl und Hunde)
+:[7] ein Fahrzeug neben einem herschieben
+
+{{Synonyme}}
+:[1] [[stroll]] (kurz, langsam), [[hike]] (lange, grosse [[Tour]]), [[trek]] (lang), [[go]] (gehen), [[march]] ([[marschieren]]), [[step]] ([[treten]]), [[promenade]] (spazieren (gehen)), [[wander]] ([[wandern]]), [[trudge]] (trotten)
+:[2] go free, be [[acquit]]ted, [[get off]]
+:[3] be/get [[steal|stolen]], be/get [[pinch]]ed, ''britisch:'' be/get [[nick]]ed
+
+{{Beispiele}}
+:[1] He ''walks'' across the road very slowly.
+::Er ''läuft'' sehr langsam über die Straße.
+:[2] If you can’t [[present]] a better [[case]], that robber is going to ''walk.''
+::Wenn Sie keinen besseren Fall präsentieren können, wird jener Räuber freigelassen werden.
+:[3] If you leave your [[wallet]] lying around, it’s going to ''walk.''
+::Wenn du nicht auf deine Brieftasche aufpasst, wird sie wegkommen.
+:[4] He will ''walk'', [[unless]] you [[pay]] him more.
+::Er wird resignieren, wenn du ihm nicht mehr bezahlst.
+:[5] I ''walk'' one hour and 4 kilometres to school every day.
+::Ich gehe jeden Tag eine Stunde und 4 Kilometer zur Schule.
+:[5] I ''walk'' my dog every day.
+::Ich gehe mit meinem Hund jeden Tag spazieren
+:[5] Will you ''walk'' me home? I hate to go home alone in the dark.
+::Wirst du mit mir nach Hause gehen? Ich hasse allein in der Dunkelheit nach Hause zu gehen.
+:[6] {{Beispiele fehlen|spr=en}}
+:[7] My bag was too heavy, so I put it on my bike, and I ''walked'' my bike.
+::Meine Tasche war zu schwer, deshalb habe ich sie auf mein Fahrrad gehängt, und ich schob das Fahrrad.
+
+{{Redewendungen}}
+:[[walk the line|''walk'' the line]] – auf dem rechten Weg sein ''(siehe auch: [[toe the line]])''
+
+{{Charakteristische Wortkombinationen}}
+:''walk'' down the [[aisle]] – vor den [[Altar]] treten
+:''walk'' down the aisle with somebody – mit jemandem zum Altar treten
+:''walk'' the [[plank]] – über eine Schiffsplanke ins Wasser getrieben werden
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=gehen, laufen, trotten, spazieren gehen|Ü-Liste=
+*{{de}}: {{Ü|de|gehen}}, {{Ü|de|laufen}}, {{Ü|de|trotten}}, {{Ü|de|spazieren}}, {{Ü|de|spazieren gehen}}
+*{{hu}}: {{Ü|hu|sétál}}, {{Ü|hu|gyalogol}}
+}}
+
+{{Ü-Tabelle|2|G=Recht, umgangssprachlich: freigelassen werden, während schuldig sein|Ü-Liste=
+*{{de}}: freigelassen werden
+*{{hu}}: {{Ü|hu|szabadon engedtetik}}, {{Ü|hu|szabadlábra helyeztetik}}, {{Ü|hu|szabadon távozik}} (de bűnös), 
+}}
+
+{{Ü-Tabelle|3|G=Euphemismus, umgangssprachlich: (ein Objekt) wegkommen, gestohlen werden|Ü-Liste=
+*{{de}}: {{Ü|de|wegkommen}}, gestohlen werden
+*{{hu}}: {{Ü|hu|eltűnik}}
+}}
+
+{{Ü-Tabelle|4|G=umgangssprachlich: weggehen, verlassen, resignieren|Ü-Liste=
+*{{de}}: {{Ü|de|gehen}}, {{Ü|de|laufen}}, {{Ü|de|spazieren}}
+*{{hu}}: {{Ü|hu|gyalogol}}, {{Ü|hu|sétál}}, umgangssprach., nur mit der Länge, nicht der Dauer: {{Ü|hu|legyalogol}}, umgangssprach., nur mit der Länge, nicht der Dauer: {{Ü|hu|lesétál}}
+}}
+
+{{Ü-Tabelle|5|G=zu Fuß (einen Abstand) fahren, gehen, spazieren|Ü-Liste=
+*{{de}}: einen Hund Gassi {{Ü|de|führen}}, jmdn {{Ü|de|begleiten}}
+*{{hu}}: {{Ü|hu|sétáltat}} (Hund, Kind), {{Ü|hu|kísér}} (jmdn begleiten), {{Ü|hu|hazakísér}} (jmdn nach Hause begleiten), 
+}}
+
+{{Ü-Tabelle|6|G=spazieren/gehen/spazieren gehen/laufen/trotten mit + Dativ|Ü-Liste=
+*{{de}}: {{Ü|de|weggehen}}, {{Ü|de|verlassen}}, {{Ü|de|resignieren}}
+*{{hu}}: {{Ü|hu|elmegy}}, {{Ü|hu|kilép}}, {{Ü|hu|lemond}}
+}}
+
+{{Ü-Tabelle|7|G=ein Fahrzeug neben einem herschieben|Ü-Liste=
+*{{de}}: ''ein Fahrzeug (z. B. ein Fahrrad)'' {{Ü|de|schieben}}
+*{{hu}}: {{Ü|hu|tol}} (pl.: biciklit, motort)
+}}
+
+{{Referenzen}}
+:[1, 4, 5] {{Ref-Leo|en|walk}}
+:[1, 4, 5] {{Ref-Pons|en|walk}}
+:[1, 2, 4, 5, 7] {{Ref-MWD|walk}}
+:[1, 4, 5] {{Ref-MWT|walk}}
+:[1–7] {{Ref-Dictionary|walk}}
+:[1, 3–5, 7] {{Ref-dictcc|walk}}
+
+== walk ({{Sprache|Polnisch}}) ==
+=== {{Wortart|Deklinierte Form|Polnisch}} ===
+
+{{Worttrennung}}
+:walk
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|valk}}
+:{{Hörbeispiele}} {{Audio|}}
+
+{{Grammatische Merkmale}}
+* Genitiv Plural des Substantivs '''[[walka]]'''
+
+{{Grundformverweis Dekl|walka|spr=pl}}

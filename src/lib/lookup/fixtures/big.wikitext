@@ -1,0 +1,49 @@
+== big ({{Sprache|Englisch}}) ==
+=== {{Wortart|Adjektiv|Englisch}} ===
+
+{{Englisch Adjektiv Übersicht
+|Positiv=big
+|Komparativ=bigger
+|Superlativ=biggest
+}}
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|bɪɡ}}
+:{{Hörbeispiele}} {{Audio|LL-Q1860 (eng)-Back ache-big.wav}}, {{Audio|En-uk-big.ogg|spr=uk}}, {{Audio|En-us-big.ogg|spr=us}}
+:{{Reime}} {{Reim|ɪɡ|Englisch}}
+
+{{Bedeutungen}}
+:[1] groß
+:[2] wichtig
+
+{{Synonyme}}
+:[1] [[huge]], [[large]], [[massive]]
+
+{{Gegenwörter}}
+:[1] [[little]], [[small]], [[tiny]]
+
+{{Beispiele}}
+:[1] Elephants are ''big'' animals.
+::Elefanten sind ''große'' Tiere.
+:[2] What's so ''big'' about that?
+::Was ist daran so ''wichtig?''
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=groß|Ü-Liste=
+*{{de}}: {{Ü|de|groß}}
+*{{fr}}: {{Ü|fr|grand}}
+}}
+
+{{Ü-Tabelle|2|G=wichtig|Ü-Liste=
+*{{de}}: {{Ü|de|wichtig}}
+}}
+
+{{Referenzen}}
+:[1] {{Ref-MWD|big}}
+:[1] {{Ref-MWT|big}}
+:[1] {{Ref-Dictionary|big}}
+:[1] {{Ref-Pons|en|big}}
+:[1] {{Ref-dictcc|big}}
+:[1] {{Ref-Leo|en|big}}
+
+{{Referenzen prüfen|Englisch}}

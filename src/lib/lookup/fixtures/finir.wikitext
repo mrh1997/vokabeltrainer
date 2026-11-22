@@ -1,0 +1,39 @@
+== finir ({{Sprache|Französisch}}) ==
+=== {{Wortart|Verb|Französisch}}, regelmäßig ===
+
+{{Französisch Verb Übersicht
+|Präsens 1. Person Singular=finis
+|Präsens 2. Person Singular=finis 
+|Präsens 3. Person Singular=finit 
+|Präsens 1. Person Plural=finissons 
+|Präsens 2. Person Plural=finissez 
+|Präsens 3. Person Plural=finissent 
+|Maskulinum Singular=fini 
+|Femininum Singular=finie 
+|Maskulinum Plural=finis 
+|Femininum Plural=finies 
+|Hilfsverb=avoir
+
+}}
+
+{{Worttrennung}}
+:fi·nir
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|finiʁ}}
+:{{Hörbeispiele}} {{Audio|Fr-finir.ogg}}
+
+{{Bedeutungen}}
+:[1] [[beenden]], [[aufhören]]
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=fr}}
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=beenden, aufhören|Ü-Liste=
+:{{Übersetzungen umleiten|1|beenden|1}}, {{Übersetzungen umleiten||aufhören|1}}
+}}
+
+{{Referenzen}}
+:[1] {{Ref-Leo|fr|finir}}
+:[1] {{Ref-Pons|fr|finir}}

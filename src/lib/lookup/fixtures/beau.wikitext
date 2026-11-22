@@ -1,0 +1,63 @@
+{{Siehe auch|[[Beau]]}}
+== beau ({{Sprache|Französisch}}) ==
+=== {{Wortart|Adjektiv|Französisch}} ===
+
+{{Französisch Adjektiv Übersicht
+|Maskulinum Singular=beau / bel
+|Femininum Singular=belle
+|Maskulinum Plural=beaux
+|Femininum Plural=belles
+}}
+
+{{Anmerkung}}
+:Im Maskulinum Singular sagt man vor mit einem Vokal oder einem stummen ''h'' beginnenden Substantiv ''bel'' statt ''beau.''
+
+{{Worttrennung}}
+:beau
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|bo}}
+:{{Hörbeispiele}} {{Audio|Fr-beau.ogg}}
+:{{Reime}} {{Reim|o|Französisch}}
+
+{{Bedeutungen}}
+:[1] [[schön]], [[gut]], [[angenehm]]
+
+{{Beispiele}}
+:[1] Il fait ''beau'', aujourd'hui
+::Heute ist das Wetter ''schön.''
+:[1] Ce joueur de cornemuse est un ''bel'' homme.
+::Dieser Dudelsackspieler ist ein ''schöner'' Mann.
+:[1] Il n'y a pas de doute, c'est bien toi la plus ''belle.''
+::Das steht fest: du bist ja die ''Schönste.''
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=schön, gut, angenehm|Ü-Liste=
+*{{de}}: {{Ü|de|schön}}, {{Ü|de|gut}}, {{Ü|de|angenehm}}
+*{{en}}: {{Ü|en|beautiful}}
+*{{fa}}: {{Üt|fa|قشنگ|}}, {{Üt|fa|زيبا|}}
+}}
+
+{{Referenzen}}
+:[1] {{Ref-Pons|fr|beau}}
+:[1] {{Ref-CNRTL|beau}}
+:[1] {{Ref-Leo|fr|beau}}
+{{Referenzen prüfen|Französisch}}
+
+== beau ({{Sprache|Rumänisch}}) ==
+=== {{Wortart|Konjugierte Form|Rumänisch}} ===
+
+{{Worttrennung}}
+:beau
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|be̯aw}}
+:{{Hörbeispiele}} {{Audio|LL-Q7913 (ron)-Andreea Teodoraa-beau.wav}}
+
+{{Grammatische Merkmale}}
+* 1. Person Singular Indikativ Präsens Aktiv des Verbs '''[[bea]]'''
+* 3. Person Plural Indikativ Präsens Aktiv des Verbs '''[[bea]]'''
+* 1. Person Singular Konjunktiv Präsens Aktiv des Verbs '''[[bea]]'''
+* 3. Person Plural Imperfekt Präsens Aktiv des Verbs '''[[bea]]'''
+
+{{Grundformverweis Konj|bea|spr=ro}}

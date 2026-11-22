@@ -1,0 +1,84 @@
+== chien ({{Sprache|Französisch}}) ==
+=== {{Wortart|Substantiv|Französisch}}, {{m}} ===
+
+{{Französisch Substantiv Übersicht
+|Genus=m
+|Singular=chien
+|Plural=chiens
+|Bild=Azawakh bitch Shira-tb.jpg|mini|1|un ''chien''
+}}
+
+{{Worttrennung}}
+:chien, {{Pl.}} chiens
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ʃjɛ̃}}, {{Pl.}} {{Lautschrift|ʃjɛ̃}}
+:{{Hörbeispiele}} {{Audio|Fr-chien.ogg}}, {{Pl.}} {{Audio|}}
+
+{{Bedeutungen}}
+:[1] [[Hund]] {{m}}; [[Haushund]] {{m}}; ein [[Säugetier]] der Familie der [[Hunde]]
+:[2] ''Jägersprache:'' [[Hahn]] {{m}}; eine [[Vorrichtung]] an [[Feuerwaffen]] zum [[Auslösen]] des [[Schusses]]
+:[3] Beim [[Tarockspiel]], Karten, die nach der Verteilung übrig sind.
+
+{{Herkunft}}
+:vom lateinischen Wort „''[[canis]]''“ (Hund). {{QS Herkunft|unbelegt|spr=fr}}
+
+{{Synonyme}}
+:[1] ''familiär'' [[cabot]], [[clébard]], [[clebs]], [[molosse]] (böser Hund)
+:[1] ''kindisch'' oder ''liebevoll'' [[toutou]]
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=fr}}
+
+{{Redewendungen}}
+* entre [[chien]] et loup
+::"zwischen Hund und Wolf": in der Dämmerung
+* un temps de [[chien]]
+::ein Sauwetter: schlechtes Wetter
+* malade comme un [[chien]]
+::"krank wie ein Hund": sehr krank (Das sagt man nur für eine heilbare Krankheit)
+* un mal de [[chien]]
+::"soviel Mühe wie ein Hund": alle Mühe
+* avoir du '''chien'''
+::"etwas von einem Hund haben": viel Charme haben, oder einen eher starken Charakter haben.
+
+{{Sprichwörter}}
+* [[chien qui aboie ne mord pas|''chien'' qui aboie ne mord pas]]
+::''Hunde'', die bellen, beißen nicht
+
+{{Charakteristische Wortkombinationen}}
+:# un [[chien]]-loup
+::ein Hund, der wie ein Wolf aussieht, wie ein [[Huskie]]
+
+{{Wortbildungen}}
+:[[chienne]] {{f}}, [[chiot]] {{m}}
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=ein Säugetier der Familie der Hunde|Ü-Liste=
+*{{de}}: {{Ü|de|Hund}} {{m}}, {{Ü|de|Haushund}} {{m}}
+*{{en}}: {{Ü|en|dog}}
+*{{eo}}: {{Ü|eo|hundo}}
+*{{it}}: {{Ü|it|cane}}  {{m}}
+*{{mt}}: {{Ü|mt|kelb}} {{m}}
+*{{tr}}: {{Ü|tr|köpek}}
+}}
+
+{{Ü-Tabelle|2|G=eine Vorrichtung an Feuerwaffen zum Auslösen des Schusses|Ü-Liste=
+*{{de}}: {{Ü|de|Hahn}} {{m}}
+}}
+
+{{Ü-Tabelle|3|G=beim Tarockspiel, Karten, die nach der Verteilung übrig sind|Ü-Liste=
+*{{de}}: {{Ü|de|}} {{m}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=fr}}
+:[1, 2] {{Ref-CNRTL}}
+:[1, 2] {{Ref-Leo|fr}}
+:[1, 2] {{Ref-Pons|fr}}
+
+{{Ähnlichkeiten Umschrift
+|劍|spr1=zh|U1=chien|anm1=„Schwert“
+|錢|spr2=zh|U2=ch’ien|anm2=„Geld“
+|剑|spr3=zh|U3=chien|anm3=„Schwert“
+|钱|spr4=zh|U4=ch’ien|anm4=„Geld“}}

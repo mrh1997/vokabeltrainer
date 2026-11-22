@@ -1,0 +1,160 @@
+{{Siehe auch|[[House]]}}
+== house ({{Sprache|Englisch}}) ==
+=== {{Wortart|Substantiv|Englisch}} ===
+
+{{erweitern|Referenzen für Bedeutungen 6 und 7|Englisch}}
+{{Englisch Substantiv Übersicht
+|Singular=house
+|Plural=houses
+|Bild 1=HT village house 2.jpg|mini|1|Typical village ''house'' from 1747. Høje Taastrup, Denmark.
+|Bild 2=Viennese zodiac.jpeg|mini|9|the twelve ''houses''
+}}
+
+{{Worttrennung}}
+:house, {{Pl.}} hou·ses
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|haʊs|spr=en}}
+:{{Hörbeispiele}} {{Audio|LL-Q1860 (eng)-Nattes à chat-house.wav}}, {{Audio|En-uk-house.ogg|spr=uk}}
+:{{Reime}} {{Reim|aʊs|Englisch}}
+
+{{Bedeutungen}}
+:[1] Wohnort des Menschen; Gebäude, das errichtet wurde, um in ihm zu wohnen
+:[2] ein [[Musikgenre]]
+:[3] eine komplette Sammlung von Nummern in [[Bingo]]
+:[4] Vortragssaal des Theaters, oder das Theater selbst
+:[5] Debattierzimmer der Regierung
+:[6] eine reale oder virtuelle Errichtung (z. B. eine Website)
+:[7] ein inneres Werk, z. B. das Uhrwerk
+:[8] eine [[Dynastie]], z. B. das Royal House.
+:[9] {{K|Astrologie|spr=en}} astrologischer Begriff (Erstes bis Zwölftes Haus)
+:[10] früherer Alternativname von Bingo.
+:[11] das Haus/ Gehäuse eines Tiers (das Schneckenhaus)
+
+{{Herkunft}}
+:[1] Von mittelengl. ''h(o)us'' aus altengl. ''hūs'' ([[Haus]], [[Schutz]], Wohnsitz) von germ. ''*khusan'' {{QS Herkunft|unbelegt|spr=en}}
+:[2] Aus ''[[Warehouse]],'' der Geburtsstätte der Housemusik. Menschen unterhielten sich über die neue Musik, indem sie sagten, dass ''the music in the house down the street'' geil wäre. {{QS Herkunft|unbelegt|spr=en}}
+
+{{Synonyme}}
+:[8] [[line]], [[clan]]
+
+{{Beispiele}}
+:[1] In this ''house'' lives a strange family.
+::In diesem ''Haus'' lebt eine merkwürdige Familie.
+:[1] "Mrs. Hurst and her sister scarcely opened their mouths, except to complain of fatigue, and were evidently impatient to have the house to themselves." <ref>Austen, Jane; Pride and Prejudice</ref>
+:{{Beispiele fehlen|spr=en}}
+
+{{Redewendungen}}
+:a ''house'' built on sand
+:to [[eat somebody of house and home|eat somebody of ''house'' and home]]
+:to collapse like a ''house'' of cards
+:like a ''house'' on fire
+:men make ''houses'', women make homes
+
+{{Charakteristische Wortkombinationen}}
+:to buy a ''house'' - ein ''Haus'' kaufen
+
+{{Wortbildungen}}
+:[1] [[lighthouse]], [[house arrest]], [[household]], [[housemaid]]
+:[[houseful]], [[house-agent]], [[houseboat]], [[house-bound]], [[housebreaking]], [[housebreaker]], [[housecoat]], [[housecraft]], [[house-dog]], [[house-father]], [[house-fly]], [[householder]], [[household troops]], [[housekeeper]], [[housekeeping]], [[house lights]], [[houseman]], [[house-martin]], [[housemaster]], [[housemother]], [[house of cards]], [[House of Commons]], [[House of God]], [[house of Lords]], [[House of Representatives]], [[house party]], [[house physician]], [[house-proud]], [[house-room]], [[House of Parliament]], [[house-sparrow]], [[house-surgeon]], [[house-to-house]], [[house-tops]], [[house-trained]], [[house-warming]], [[housewife]], [[housework]], [[housing]], [[housing association]], [[housing estate]]
+:[[house music]], [[house-train]], [[house wine]], [[housework]], [[acid house]], [[full house]]
+:[[boarding house]], [[gatehouse]], [[guesthouse]], [[brew-house]], [[hot-house]], [[victualing-house]], [[slaughter house]]
+:[[housy]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Wohnort des Menschen; Gebäude, das errichtet wurde, um in ihm zu wohnen|Ü-Liste=
+*{{de}}: {{Ü|de|Haus}} {{n}}
+*{{ga}}: {{Ü|ga|teach}}
+*{{nds}}: {{Ü|nds|Huus}} {{n}}
+}}
+
+{{Ü-Tabelle|2|G=ein Musikgenre|Ü-Liste=
+*{{de}}: {{Ü|de|House}} {{m}}
+}}
+
+{{Ü-Tabelle|3|G=eine komplette Sammlung von Nummern in Bingo|Ü-Liste=
+*{{de}}: {{Ü|de|}}
+}}
+
+{{Ü-Tabelle|4|G=Vortragssaal des Theaters, oder das Theater selbst|Ü-Liste=
+*{{de}}: {{Ü|de|}}
+}}
+
+{{Ü-Tabelle|5|G=Debattierzimmer der Regierung|Ü-Liste=
+*{{de}}: {{Ü|de|}}
+}}
+
+{{Ü-Tabelle|6|G=eine reale oder virtuelle Errichtung (z. B. eine Website)|Ü-Liste=
+*{{de}}: {{Ü|de|}}
+}}
+
+{{Ü-Tabelle|7|G=ein inneres Werk|Ü-Liste=
+*{{de}}: {{Ü|de|}}
+}}
+
+{{Ü-Tabelle|8|G=eine Dynastie|Ü-Liste=
+*{{de}}: {{Ü|de|}}
+}}
+
+{{Ü-Tabelle|9|G=(Astrologie) astrologischer Begriff (Erstes bis Zwölftes Haus)|Ü-Liste=
+*{{de}}: {{Ü|de|}}
+}}
+
+{{Ü-Tabelle|10|G=früherer Alternativname von Bingo|Ü-Liste=
+*{{de}}: {{Ü|de|}}
+}}
+
+{{Ü-Tabelle|11|G=das Haus/ Gehäuse eines Tiers (das Schneckenhaus)|Ü-Liste=
+*{{de}}: {{Ü|de|}}
+}}
+
+{{Referenzen}}
+:[1, 2, 8, 9] {{Wikipedia|spr=en}}
+:[1–5, 8, 11] {{Ref-MWD}}
+:[1, 8] {{Ref-MWT}}
+:[1, 4, 5, 8–10] {{Ref-Dictionary}}
+:[1, 2, 4, 5, 8, 9] {{Ref-Pons|en}}
+:[1, 4, 8] {{Ref-dictcc}}
+:[1, 8] {{Ref-Leo|en}}
+:[1, 2, 4, 5, 8, 9, 11] [http://www.thefreedictionary.com/house The Free Dictionary]
+
+{{Quellen}}
+
+== house ({{Sprache|Französisch}}) ==
+=== {{Wortart|Substantiv|Französisch}}, {{f}} ===
+
+{{Französisch Substantiv Übersicht
+|Singular=la house
+|Plural=les house
+}}
+
+{{Worttrennung}}
+:house, {{Pl.}} house
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|aus}}<ref>{{Lit-Robert: Petit Robert|A=2009}}, Seite 1254.</ref>, {{Lautschrift|aws}}<ref>{{Lit-Larousse: Petit Larousse|A=2010}}, Seite 509.</ref>, {{Pl.}} {{Lautschrift|aus}}, {{Lautschrift|aws}}
+:{{Hörbeispiele}} {{Audio|}}, {{Pl.}} {{Audio|}}
+
+{{Bedeutungen}}
+:[1] {{K|Musik|spr=fr}} House, Housemusic
+
+{{Synonyme}}
+:[1] [[house music]]
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=Französisch}}
+
+{{Lemmaverweis|house music}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=fr|house music}}
+:[1] {{Ref-LarousseFr|house}}
+:[1] {{Lit-Robert: Petit Robert|A=2009}}, Seite 1254.
+:[1] {{Lit-Larousse: Petit Larousse|A=2010}}, Seite 509.
+
+{{Quellen}}
+
+{{Ähnlichkeiten}}
+:[[mouse]]
+
+[[Kategorie:Entlehnung aus dem Englischen (Französisch)]]

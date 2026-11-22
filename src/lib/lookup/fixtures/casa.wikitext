@@ -1,0 +1,395 @@
+{{Siehe auch|[[casă]]}}
+== casa ({{Sprache|Italienisch}}) ==
+=== {{Wortart|Substantiv|Italienisch}}, {{f}} ===
+
+{{Italienisch Substantiv Übersicht
+|Genus=f
+|Singular=casa
+|Plural=case
+}}
+
+{{Worttrennung}}
+:ca·sa, {{Pl.}} ca·se
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ˈkasa}}, {{Lautschrift|ˈkaza}}
+:{{Hörbeispiele}} {{Audio|}}, {{Audio|It-casa.ogg}}
+
+{{Bedeutungen}}
+:[1] das [[Haus]], das [[Zuhause]]
+:[2] das [[Heim]], die [[Anstalt]]
+:[3] {{K|Wirtschaft|spr=it}} die [[Firma]]
+:[4] {{K|Wirtschaft|spr=it}} Ort für Handel; [[Handelshaus]]
+:[5] {{K|Politik|spr=it}} das [[Herrscherhaus]]
+:[6] {{K|Sport|spr=it}} eigene Spielstätte einer Mannschaft
+
+{{Herkunft}}
+:von dem lateinischen Substantiv ''{{Ü|la|casa}}''
+
+{{Synonyme}}
+:[2] [[istituto]]
+
+{{Oberbegriffe}}
+:[1] [[edificio]]
+
+{{Unterbegriffe}}
+:[1] [[casa da gioco|''casa'' da gioco]]
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=it}}
+
+{{Redewendungen}}
+:[1] a ''casa'' del [[diavolo]] (am [[Arsch der Welt]])
+
+{{Charakteristische Wortkombinationen}}
+:[1] a ''casa'' – daheim; nach Hause; zu Hause; [[essere]] di ''casa'' – heimisch sein
+:[6] [[giocare]] in ''casa'' – zu Hause spielen; [[giocare]] [[fuori]] ''casa'' – auswärts spielen
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=das Haus, das Zuhause
+|Ü-Liste=
+:{{Übersetzungen umleiten|1|Haus|?}}, {{Übersetzungen umleiten||Zuhause|?}}
+:{{Übersetzungen umleiten|2|Heim|?}}, {{Übersetzungen umleiten||Anstalt|?}}
+}}
+
+{{Ü-Tabelle|2|G=das Heim, die Anstalt
+|Ü-Liste=
+:{{Übersetzungen umleiten|1|Haus|?}}, {{Übersetzungen umleiten||Zuhause|?}}
+:{{Übersetzungen umleiten|2|Heim|?}}, {{Übersetzungen umleiten||Anstalt|?}}
+}}
+
+{{Ü-Tabelle|3|G=Wirtschaft: die Firma
+|Ü-Liste=
+:{{Übersetzungen umleiten|1|Haus|?}}, {{Übersetzungen umleiten||Zuhause|?}}
+:{{Übersetzungen umleiten|2|Heim|?}}, {{Übersetzungen umleiten||Anstalt|?}}
+:{{Übersetzungen umleiten|3|Firma|?}}
+}}
+
+{{Ü-Tabelle|4|G=Wirtschaft; Ort für Handel: das Handelshaus
+|Ü-Liste=
+:{{Übersetzungen umleiten|1|Haus|?}}, {{Übersetzungen umleiten||Zuhause|?}}
+:{{Übersetzungen umleiten|2|Heim|?}}, {{Übersetzungen umleiten||Anstalt|?}}
+:{{Übersetzungen umleiten|4|Handelshaus|?}}
+}}
+
+{{Ü-Tabelle|5|G=Politik: das Herrscherhaus
+|Ü-Liste=
+:{{Übersetzungen umleiten|1|Haus|?}}, {{Übersetzungen umleiten||Zuhause|?}}
+:{{Übersetzungen umleiten|2|Heim|?}}, {{Übersetzungen umleiten||Anstalt|?}}
+:{{Übersetzungen umleiten|5|Herrscherhaus|?}}
+}}
+
+{{Ü-Tabelle|6|G=Sport: eigene Spielstätte einer Mannschaft
+|Ü-Liste=
+:{{Übersetzungen umleiten|1|Haus|?}}, {{Übersetzungen umleiten||Zuhause|?}}
+:{{Übersetzungen umleiten|2|Heim|?}}, {{Übersetzungen umleiten||Anstalt|?}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=it|casa}}
+:[1–6] {{Ref-Pons|it|casa}}
+:[1] {{Ref-Leo|it|casa}}
+{{Referenzen prüfen|Italienisch}}
+
+== casa ({{Sprache|Katalanisch}}) ==
+=== {{Wortart|Substantiv|Katalanisch}}, {{f}} ===
+
+{{Katalanisch Substantiv Übersicht
+|Genus=f
+|Singular=casa
+|Plural=cases
+}}
+
+{{Worttrennung}}
+:ca·sa
+
+{{Aussprache}}
+:{{IPA}} ''östlich:'' {{Lautschrift|ˈkazə}}, ''westlich:'' {{Lautschrift|ˈkaza}}
+:{{Hörbeispiele}} {{Audio|LL-Q7026 (cat)-Unjoanqualsevol-casa.wav}}
+
+{{Bedeutungen}}
+:[1] das [[Haus]]
+:[2] das [[Zuhause]], das [[Daheim]], das [[Heim]]
+:[3] die [[Wohngemeinschaft]], der [[Haushalt]]
+:[4] ''Wirtschaft:'' die [[Firma]]
+:[5] ''Zoologie:'' das [[Gehäuse]]
+
+{{Herkunft}}
+:von dem lateinischen Substantiv ''{{Ü|la|casa}}''
+
+{{Synonyme}}
+:[1] [[edifici]]
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=ca}}
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=das Haus
+|Ü-Liste=
+*{{de}}: {{Ü|de|Haus}} {{n}}
+*{{en}}: {{Ü|en|house}}
+*{{ia}}: {{Ü|ia|casa}}
+*{{it}}: {{Ü|it|casa}} {{f}}
+*{{es}}: {{Ü|es|casa}}, la {{f}}
+}}
+
+{{Ü-Tabelle|2|G=das Zuhause, das Daheim, das Heim
+|Ü-Liste=
+*{{en}}: {{Ü|en|}}
+*{{fr}}: {{Ü|fr|}}
+}}
+
+{{Ü-Tabelle|3|G=die Wohngemeinschaft, der Haushalt
+|Ü-Liste=
+*{{en}}: {{Ü|en|}}
+*{{fr}}: {{Ü|fr|}}
+}}
+
+{{Ü-Tabelle|4|G=Wirtschaft: die Firma
+|Ü-Liste=
+*{{en}}: {{Ü|en|}}
+*{{fr}}: {{Ü|fr|}}
+}}
+
+{{Ü-Tabelle|5|G=Zoologie: das Gehäuse
+|Ü-Liste=
+*{{en}}: {{Ü|en|}}
+*{{fr}}: {{Ü|fr|}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=ca}}
+:[1–5] {{Ref-DIEC2}}
+:[1–5] {{Ref-GranDiccionari}}
+
+== casa ({{Sprache|Latein}}) ==
+=== {{Wortart|Substantiv|Latein}}, {{f}} ===
+
+{{Latein Substantiv Übersicht|casa|cas|ae}}
+
+{{Worttrennung}}
+:ca·sa, {{Gen.}} ca·sae
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift||spr=la}}
+:{{Hörbeispiele}} {{Audio|La-cls-casa.ogg|spr=cls}}
+
+{{Bedeutungen}}
+:[1] {{K|spr=la|klassischlateinisch}} einfaches [[Häuschen]], [[Hütte]]
+:[2] {{K|spr=la|klassischlateinisch}} [[Landut]], [[Gutshof]]
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=la}}
+
+{{Wortbildungen}}
+:''Diminutive:'' [[casula]], [[casella]]
+:[[casalis]], [[casa dei]] (deutsch: Kirche)
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=einfaches Häuschen, Hütte
+|Ü-Liste=
+*{{de}}: {{Ü|de|Haus}} {{n}}, {{Ü|de|Hütte}} {{f}}
+*{{en}}: {{Ü|en|}}
+*{{ia}}: {{Ü|ia|casa}}
+}}
+{{Ü-Tabelle|2|G=Landugt, Gutshof |Ü-Liste=
+*{{de}}: {{Ü|de|Landgut}}, {{Ü|de|Gutshof}}
+}}
+
+{{Referenzen}}
+:[*] {{Wikipedia-Suche|spr=la}}
+:[1, 2] {{Ref-Georges}}
+:[1, 2] {{Ref-Pons|la}}
+:[1, 2] {{Lit-Habel: Mittellateinisches Glossar|A=2}}, Spalte 50, Eintrag „casa“
+
+=== {{Wortart|Konjugierte Form|Latein}} ===
+
+{{Worttrennung}}
+:ca·sa
+
+{{Grammatische Merkmale}}
+* Partizip Perfekt Passiv (PPP), Nominativ Singular Femininum des Verbs '''[[cadere]]'''
+
+{{Grundformverweis Konj|cadere|spr=la}}
+
+== casa ({{Sprache|Okzitanisch}}) ==
+=== {{Wortart|Substantiv|Okzitanisch}}, {{f}} ===
+
+{{Okzitanisch Substantiv Übersicht
+|Genus=f
+|Singular=casa
+|Plural=casas
+}}
+
+{{Worttrennung}}
+:ca·sa
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ˈkazo}}
+:{{Hörbeispiele}} {{Audio|LL-Q14185 (oci)-Davidgrosclaude-casa.wav}}
+
+{{Bedeutungen}}
+:[1] [[Haus]]
+
+{{Herkunft}}
+:von dem lateinischen Substantiv ''{{Ü|la|casa}}'' {{QS Herkunft|unbelegt|spr=oc}}
+
+{{Synonyme}}
+:[1] [[ostal]]
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=oc}}
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=das Haus
+|Ü-Liste=
+*{{de}}: {{Ü|de|Haus}} {{n}}
+*{{en}}: {{Ü|en|house}}
+*{{ia}}: {{Ü|ia|casa}}
+*{{it}}: {{Ü|it|casa}} {{f}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=oc}}
+:[1] {{Lit-Balaguer: Diccionari Català - Occità / Occitan - Catalan}}, Seite 584
+
+== casa ({{Sprache|Portugiesisch}}) ==
+=== {{Wortart|Substantiv|Portugiesisch}}, {{f}} ===
+
+{{Portugiesisch Substantiv Übersicht
+|Genus=f
+|Plural=casas
+}}
+
+{{Worttrennung}}
+:ca·sa
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ˈkasa}}
+:{{Hörbeispiele}} {{Audio|Pt-pt-casa.ogg}}
+
+{{Bedeutungen}}
+:[1] das [[Haus]]
+:[2] die [[Wohnung]]
+:[3] der [[Haushalt]]
+:[4] das [[Heim]]
+
+{{Herkunft}}
+:von dem lateinischen Substantiv ''{{Ü|la|casa}}'' {{QS Herkunft|unbelegt|spr=pt}}
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=pt}} A casa de Karl Marx fica em Tréveris, na Alemanha.
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=das Haus
+|Ü-Liste=
+*{{de}}: {{Ü|de|Haus}} {{n}}
+*{{ia}}: {{Ü|ia|casa}}
+*{{it}}: {{Ü|it|casa}} {{f}}
+}}
+
+{{Ü-Tabelle|2|G=die Wohnung
+|Ü-Liste=
+*{{de}}: {{Ü|de|Wohnung}} {{f}}
+}}
+
+{{Ü-Tabelle|3|G=der Haushalt
+|Ü-Liste=
+*{{de}}: {{Ü|de|Haushalt}} {{m}}
+}}
+
+{{Ü-Tabelle|4|G=das Heim
+|Ü-Liste=
+*{{de}}: {{Ü|de|Haus}} {{n}}, {{Ü|de|Heim}} {{n}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=pt}}
+{{Referenzen prüfen|Portugiesisch}}
+
+== casa ({{Sprache|Rumänisch}}) ==
+=== {{Wortart|Deklinierte Form|Rumänisch}} ===
+
+{{Worttrennung}}
+:ca·sa
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ˈkasa}}
+:{{Hörbeispiele}} {{Audio|}}
+
+{{Grammatische Merkmale}}
+* Nominativ-Akkusativ Singular des Substantivs '''[[casă]]''' mit Artikel
+
+{{Grundformverweis Dekl|casă|spr=ro}}
+
+== casa ({{Sprache|Spanisch}}) ==
+=== {{Wortart|Substantiv|Spanisch}}, {{f}} ===
+
+{{Spanisch Substantiv Übersicht
+|Genus=f
+|Plural=casas
+}}
+
+{{Worttrennung}}
+:ca·sa
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ˈkasa}}
+:{{Hörbeispiele}} {{Audio|Es-bo-casa.oga|spr=bo}}
+
+{{Bedeutungen}}
+:[1] das [[Haus]]
+:[2] die [[Wohnung]]
+:[3] der [[Haushalt]]
+:[4] das [[Heim]]
+:[5] ''Wirtschaft:'' [[Firma]]
+:[6] [[Herrscherhaus]], [[Haus]]
+
+{{Herkunft}}
+:von dem lateinischen Substantiv ''{{Ü|la|casa}}''
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=es}}
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=das Haus
+|Ü-Liste=
+*{{de}}: {{Ü|de|Haus}} {{n}}
+*{{ia}}: {{Ü|ia|casa}}
+*{{it}}: {{Ü|it|casa}} {{f}}
+}}
+
+{{Ü-Tabelle|2|G=die Wohnung
+|Ü-Liste=
+*{{de}}: {{Ü|de|Wohnung}} {{f}}
+}}
+
+{{Ü-Tabelle|3|G=der Haushalt
+|Ü-Liste=
+*{{de}}: {{Ü|de|Haushalt}} {{m}}
+}}
+
+{{Ü-Tabelle|4|G=das Heim
+|Ü-Liste=
+*{{de}}: {{Ü|de|Heim}} {{n}}
+}}
+
+{{Ü-Tabelle|5|G=Wirtschaft: Firma
+|Ü-Liste=
+*{{de}}: {{Ü|de|Firma}} {{f}}
+}}
+
+{{Ü-Tabelle|6|G=Herrscherhaus, Haus
+|Ü-Liste=
+*{{de}}: {{Ü|de|Haus}} {{n}}, {{Ü|de|Herrscherhaus}} {{n}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=es}}
+:[1] {{Ref-DLE}}
+{{Referenzen prüfen|Spanisch}}
+
+{{Quellen}}
+
+{{Ähnlichkeiten}}
+:[[case]], [[caser]], [[cash]]

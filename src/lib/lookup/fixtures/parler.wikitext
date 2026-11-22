@@ -1,0 +1,52 @@
+== parler ({{Sprache|Französisch}}) ==
+=== {{Wortart|Verb|Französisch}} ===
+
+{{Französisch Verb Übersicht
+|Präsens 1. Person Singular=parle
+|Präsens 2. Person Singular=parles
+|Präsens 3. Person Singular=parle
+|Präsens 1. Person Plural=parlons
+|Präsens 2. Person Plural=parlez
+|Präsens 3. Person Plural=parlent
+|Partizip II=parlé
+|Hilfsverb=avoir
+}}
+
+{{Worttrennung}}
+:, {{PPerf.}}
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|paʁ.le}}
+:{{Hörbeispiele}} {{Audio|Fr-parler.ogg}}
+
+{{Bedeutungen}}
+:[1] [[sprechen]], [[reden]]
+
+{{Beispiele}}
+:[1] Je ''parle'' français.
+::Ich ''spreche'' französisch.
+
+{{Redewendungen}}
+:[1] ''parler'' [[français]] comme une [[vache]] [[espagnol]]e ([[Französisch]] [[radebrechen]])
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=sprechen, reden|Ü-Liste=
+*{{de}}: {{Ü|de|sprechen}}, {{Ü|de|reden}}
+*{{en}}: {{Ü|en|speak}}, {{Ü|en|talk}}
+*{{eo}}: {{Ü|eo|paroli}}
+*{{it}}: {{Ü|it|parlare}}, {{Ü|it|dire}}
+*{{ca}}: {{Ü|ca|parlar}}
+*{{nl}}: {{Ü|nl|spreken}}
+*{{pt}}: {{Ü|pt|falar}}
+*{{ru}}: {{Üt|ru|говорить}}, {{Üt|ru|поговорить}}, {{Üt|ru|разговаривать}}
+*{{es}}: {{Ü|es|hablar}}
+*{{tr}}: {{Ü|tr|konuşmak}}
+}}
+
+{{Referenzen}}
+:[1] {{Ref-CNRTL|parler}}
+:[1] {{Ref-DVLF|parler}}
+:[1] {{Ref-GDT|parler}}
+:[1] {{Ref-Pons|fr|parler}}
+:[1] {{Ref-Leo|fr|parler}}
+{{Referenzen prüfen|Französisch}}

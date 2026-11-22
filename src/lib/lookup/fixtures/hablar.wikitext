@@ -1,0 +1,46 @@
+== hablar ({{Sprache|Spanisch}}) ==
+=== {{Wortart|Verb|Spanisch}} ===
+
+{{Spanisch Verb Übersicht
+|Präsens 1. Person Singular=hablo
+|Präsens 2. Person Singular=hablas
+|Präsens 3. Person Singular=habla
+|Präsens 1. Person Plural=hablamos
+|Präsens 2. Person Plural=habláis
+|Präsens 3. Person Plural=hablan
+|Partizip II=hablado
+}}
+
+{{Worttrennung}}
+:ha·blar
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|aˈβlaɾ}}
+:{{Hörbeispiele}} {{Audio|}}
+:{{Reime}} {{Reim|aɾ|Spanisch}}
+
+{{Bedeutungen}}
+:[1] etwas in menschlicher Sprache sagen; sprechen
+:[2] etwas mündlich von sich geben; reden
+
+{{Gegenwörter}}
+:[2] [[callar]]
+
+{{Beispiele}}
+:[1] ''Hablo'' español.
+::''Ich spreche'' Spanisch.
+:[2] Como siempre Paco ''habla'' mucho.
+:: Wie immer ''redet'' Paco viel.
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=etwas in menschlicher Sprache sagen; sprechen|Ü-Liste=
+*{{de}}: {{Ü|de|sprechen}}
+}}
+
+{{Ü-Tabelle|2|G=etwas mündlich von sich geben; reden|Ü-Liste=
+*{{de}}: {{Ü|de|reden}}
+}}
+
+{{Referenzen}}
+:[1, 2] {{Ref-DLE}}
+:[1, 2] {{Ref-Pons|es}}

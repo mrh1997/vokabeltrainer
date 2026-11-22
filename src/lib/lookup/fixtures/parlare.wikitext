@@ -1,0 +1,158 @@
+== parlare ({{Sprache|Italienisch}}) ==
+
+=== {{Wortart|Substantiv|Italienisch}}, {{m}} ===
+
+{{Italienisch Substantiv Übersicht
+|Genus=m
+|Singular=parlare
+|Plural=—
+}}
+
+{{Worttrennung}}
+:par·la·re, {{kPl.}}
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|par.ˈla.re}}
+:{{Hörbeispiele}} {{Audio|It-parlare.ogg}}
+
+{{Bedeutungen}}
+:[1] das [[Gerede]]
+:[2] die [[Sprechweise]]
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=it}}
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=das Gerede|Ü-Liste=
+*{{de}}: {{Ü|de|Gerede}} {{n}}
+}}
+
+{{Ü-Tabelle|2|G=die Sprechweise|Ü-Liste=
+*{{de}}: {{Ü|de|Sprechweise}} {{f}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=it|parlare}}
+:[1] {{Ref-Pons|it|parlare}}
+:[1] {{Ref-Leo|it|parlare}}
+:[1] {{Ref-TheFreeDictionary|it|parlare}}
+{{Referenzen prüfen|Italienisch}}
+
+=== {{Wortart|Verb|Italienisch}}, regelmäßig, {{intrans.}} ===
+
+{{Italienisch Verb Übersicht
+|Gegenwart_io=parlo
+|Gegenwart_tu=parli
+|Gegenwart_lui, lei=parla
+|Gegenwart_noi=parliamo
+|Gegenwart_voi=parlate
+|Gegenwart_loro=parlano
+|Imperfekt_io=parlavo
+|Historisches Perfekt=parlai
+|Partizip II=parlato
+|Konjunktiv II_io=parlassi
+|Befehl_tu=parla
+|Befehl_voi=parlate
+|Hilfsverb=avere
+}}
+
+{{Worttrennung}}
+:par·la·re
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|par.ˈla.re}}
+:{{Hörbeispiele}} {{Audio|It-parlare.ogg}}
+
+{{Bedeutungen}}
+:[1] [[reden]], [[sprechen]]
+:[2] ''[[übertragen]]:'' [[sprechen]]
+:[3] ''[[übertragen]]:'' [[berichten]], [[beschreiben]], [[erzählen]]
+:[4] [[sich]] [[verständigen]]
+
+{{Synonyme}}
+:[1] [[interloquire]], [[chiacchierare]], [[discutere]]
+
+{{Gegenwörter}}
+:[1] [[tacere]] ([[schweigen]])
+
+{{Beispiele}}
+:[1] Chi ha ''parlato''?
+:: Wer hat gesprochen?
+:[1] Lui ha ''parlato'' del più e del meno.
+:: Er hat über dies und jenes ''gesprochen''.
+
+{{Redewendungen}}
+:[1] ''parlare'' col [[cuore]] in [[mano]] (ganz offen reden; ''wörtlich:'' mit dem [[Herz]]en in der [[Hand]] [[reden]]); ''parlare'' [[italiano]] ([[deutlich]] [[sprechen]]; [[klar]] [[sprechen]]); ''parlare'' [[perchè]] si ha la [[lingua]] ([[Unsinn]] [[reden]]; ''wörtlich:'' [[reden]], weil man eine [[Zunge]] hat)
+
+{{Wortbildungen}}
+:[1] [[parlamento]], [[parlarsi]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=reden, sprechen|Ü-Liste=
+*{{de}}: {{Ü|de|reden}}, {{Ü|de|sprechen}}
+}}
+
+{{Ü-Tabelle|2|G=übertragen: sprechen|Ü-Liste=
+*{{de}}: {{Ü|de|sprechen}}
+}}
+
+{{Ü-Tabelle|3|G=übertragen: berichten, beschreiben, erzählen|Ü-Liste=
+*{{de}}: {{Ü|de|berichten}}, {{Ü|de|beschreiben}}, {{Ü|de|erzählen}}
+}}
+
+{{Ü-Tabelle|4|G=sich verständigen|Ü-Liste=
+*{{de}}: {{Ü|de|sich}} {{Ü|de|verständigen}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=it|parlare}}
+:[1] {{Ref-Pons|it|parlare}}
+:[1] {{Ref-Leo|it|parlare}}
+:[1] {{Ref-TheFreeDictionary|it|parlare}}
+{{Referenzen prüfen|Italienisch}}
+
+=== {{Wortart|Verb|Italienisch}}, regelmäßig, {{trans.}} ===
+
+{{Italienisch Verb Übersicht
+|Gegenwart_io=parlo
+|Gegenwart_tu=parli
+|Gegenwart_lui, lei=parla
+|Gegenwart_noi=parliamo
+|Gegenwart_voi=parlate
+|Gegenwart_loro=parlano
+|Imperfekt_io=
+|Historisches Perfekt=
+|Partizip II=parlato
+|Konjunktiv II_io=
+|Befehl_tu=
+|Befehl_voi=
+|Hilfsverb=avere
+}}
+
+{{Worttrennung}}
+:par·la·re
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift||spr=it}}
+:{{Hörbeispiele}} {{Audio|}}
+
+{{Bedeutungen}}
+:[1] [[sprechen]], [[sich]] [[ausdrücken]]
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=it}}
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=sprechen, sich ausdrücken|Ü-Liste=
+*{{de}}: {{Ü|de|sprechen}}, {{Ü|de|sich}} {{Ü|de|ausdrücken}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=it|parlare}}
+:[1] {{Ref-Pons|it|parlare}}
+:[1] {{Ref-Leo|it|parlare}}
+:[1] {{Ref-TheFreeDictionary|it|parlare}}
+{{Referenzen prüfen|Italienisch}}
+
+{{Ähnlichkeiten}}
+:[[parler]]

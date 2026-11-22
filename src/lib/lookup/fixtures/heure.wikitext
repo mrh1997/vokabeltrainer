@@ -1,0 +1,66 @@
+== heure ({{Sprache|Deutsch}}) ==
+=== {{Wortart|Konjugierte Form|Deutsch}} ===
+
+{{Nebenformen}}
+:''2. Person Singular Imperativ Präsens Aktiv:'' [[heuer]]
+:''1. Person Singular Indikativ Präsens Aktiv:'' [[heuer]]
+:''2. Person Singular Imperativ Präsens Aktiv:'' [[heuere]]
+:''1. Person Singular Indikativ Präsens Aktiv:'' [[heuere]]
+:''1. Person Singular Konjunktiv I Präsens Aktiv:'' [[heuere]]
+:''3. Person Singular Konjunktiv I Präsens Aktiv:'' [[heuere]]
+
+{{Worttrennung}}
+:heu·re
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ˈhɔɪ̯ʁə}}
+:{{Hörbeispiele}} {{Audio|}}
+:{{Reime}} {{Reim|ɔɪ̯ʁə|Deutsch}}
+
+{{Grammatische Merkmale}}
+*2. Person Singular Imperativ Präsens Aktiv des Verbs '''[[heuern]]'''
+*1. Person Singular Indikativ Präsens Aktiv des Verbs '''[[heuern]]'''
+*1. Person Singular Konjunktiv I Präsens Aktiv des Verbs '''[[heuern]]'''
+*3. Person Singular Konjunktiv I Präsens Aktiv des Verbs '''[[heuern]]'''
+
+{{Grundformverweis Konj|heuern}}
+
+{{Ähnlichkeiten 1|Anagramme=[[heuer]], [[Heuer]]}}
+
+== heure ({{Sprache|Französisch}}) ==
+=== {{Wortart|Substantiv|Französisch}}, {{f}} ===
+
+{{Französisch Substantiv Übersicht
+|Genus=f
+|Singular=heure
+|Plural=heures
+}}
+
+{{Worttrennung}}
+:{{Worttrennung fehlt|spr=fr}}
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|œʁ}}
+:{{Hörbeispiele}} {{Audio|Fr-heure.ogg}}
+
+{{Bedeutungen}}
+:[1] {{K|Zeit|spr=fr}} Summe von sechzig Minuten; [[Stunde]]
+:[2] {{K|Zeit|spr=fr}} fester Zeitpunkt innerhalb eines Tages; [[Uhrzeit]]
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=fr}}
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Summe von sechzig Minuten|Ü-Liste=
+*{{de}}: {{Ü|de|Stunde}} {{f}}
+}}
+
+{{Ü-Tabelle|2|G=fester Zeitpunkt innerhalb eines Tages|Ü-Liste=
+*{{de}}: {{Ü|de|Uhrzeit}} {{f}}
+}}
+
+{{Referenzen}}
+:[1, 2] {{Wikipedia|spr=fr}}
+:[1, 2] {{Ref-Pons|fr}}
+:[1, 2] {{Ref-CNRTL}}
+:[1, 2] {{Ref-Leo|fr}}

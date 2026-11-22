@@ -1,0 +1,199 @@
+{{Siehe auch|[[Stop]]}}
+== stop ({{Sprache|Deutsch}}) ==
+=== {{Wortart|Interjektion|Deutsch}} ===
+
+{{Nebenformen}}
+:[[stopp]]
+
+{{Worttrennung}}
+:stop
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|}}
+:{{Hörbeispiele}} {{Audio|}}
+
+{{Bedeutungen}}
+:[1] Aufforderung auf Verkehrszeichen, Drucktasten oder dergleichen zum Anhalten beziehungsweise zum sofortigen Beenden von etwas
+:[2] {{K|ft=bei [[Telegramm]]en}} Punkt
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=de}}
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Aufforderung zum Halten beziehungsweise zum sofortigen Beenden von etwas|Ü-Liste=
+*{{en}}: {{Ü|en|}}
+*{{fr}}: {{Ü|fr|}}
+*{{it}}: {{Ü|it|}}
+*{{es}}: {{Ü|es|}}
+}}
+{{Ü-Tabelle|2|G=Punkt in Telegrammen|Ü-Liste=
+*{{en}}: {{Ü|en|}}
+*{{fr}}: {{Ü|fr|}}
+*{{it}}: {{Ü|it|}}
+*{{es}}: {{Ü|es|}}
+}}
+
+{{Referenzen}}
+:[1] {{Ref-Duden}}
+:[1, 2] {{Ref-wissen.de|Fremdwort}}
+
+{{Ähnlichkeiten 1|Anagramme=[[post]], [[Post]], [[Spot]], [[Tops]]}}
+
+== stop ({{Sprache|Englisch}}) ==
+=== {{Wortart|Verb|Englisch}} ===
+
+{{Englisch Verb Übersicht
+|present_I=stop
+|present_he, she, it=stops
+|past_simple_I=stopped
+|present participle=stopping
+|past participle=stopped
+}}
+
+{{Worttrennung}}
+:stop
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|stɒp}}
+:{{Hörbeispiele}} {{Audio|En-uk-a stop.ogg|a stop|spr=uk}}, {{Audio|En-us-stop.ogg|spr=us}}
+:{{Reime}} {{Reim|ɒp|Englisch}}
+
+{{Bedeutungen}}
+*{{K|trans.|spr=en}}
+:[1] {{K|ft=im Kontext einer Bewegung}} [[anhalten]], [[stoppen]]
+:[2] {{K|übertragen|spr=en}} [[beenden]], [[abbrechen]]
+*{{K|intrans.|spr=en}}
+:[3] {{K|ft=im Kontext einer Bewegung}} [[anhalten]], [[halten]], [[stoppen]]
+:[4] {{K|übertragen|spr=en}} [[aufhören]]
+
+{{Beispiele}}
+:[1] The police officers ''stopped'' me because I drove too fast.
+::Die Polizisten ''hielten'' mich ''an,'' da ich zu schnell fuhr.
+:[2] The referees ''stopped'' the fight.
+::Die Schiedsrichter ''beendeten'' den Kampf.
+:[3] I ''stopped'' at the traffic lights.
+::Ich ''hielt'' an der Ampel ''an.''
+:[4] It will ''stop'' raining soon.
+::Es wird bald ''aufhören'' zu regnen.
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=im Kontext einer Bewegung: anhalten, stoppen|Ü-Liste=
+*{{de}}: {{Ü|de|anhalten}}, {{Ü|de|stoppen}}
+*{{fr}}: {{Ü|fr|}}
+}}
+
+{{Ü-Tabelle|2|G=übertragen: beenden, abbrechen|Ü-Liste=
+*{{de}}: {{Ü|de|beenden}}, {{Ü|de|abbrechen}}
+}}
+
+{{Ü-Tabelle|3|G=im Kontext einer Bewegung: anhalten, halten, stoppen|Ü-Liste=
+*{{de}}: {{Ü|de|anhalten}}, {{Ü|de|halten}}, {{Ü|de|stoppen}}
+}}
+
+{{Ü-Tabelle|4|G=übertragen: aufhören|Ü-Liste=
+*{{de}}: {{Ü|de|aufhören}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=en}}
+:[1] {{Ref-MWD}}
+:[1] {{Ref-MWT}}
+:[1] {{Ref-Dictionary}}
+:[1] {{Ref-Pons|en}}
+:[1] {{Ref-dictcc}}
+:[1] {{Ref-Leo|en}}
+{{Referenzen prüfen|Englisch}}
+
+=== {{Wortart|Interjektion|Englisch}} ===
+
+{{Worttrennung}}
+:stop
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|stɒp}}
+:{{Hörbeispiele}} {{Audio|}}
+:{{Reime}} {{Reim|ɒp|Englisch}}
+
+{{Bedeutungen}}
+:[1] [[Halt]]! [[Stopp]]!
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Halt! Stopp!|Ü-Liste=
+*{{ar}}: {{Üxx5|ar|qif|قِفْ|قف}}!
+*{{de}}: {{Ü|de|Halt}}! {{Ü|de|Stopp}}!
+*{{tr}}: {{Ü|tr|dur}}!
+}}
+
+{{Referenzen}}
+
+=== {{Wortart|Substantiv|Englisch}} ===
+
+{{Englisch Substantiv Übersicht
+|Singular=stop
+|Plural=stops
+}}
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|stɒp}}, {{Pl.}} {{Lautschrift|stɒps}}
+:{{Hörbeispiele}} {{Audio|En-uk-a stop.ogg|a stop|spr=uk}}, {{Audio|En-us-stop.ogg|spr=us}}
+:{{Reime}} {{Reim|ɒp|Englisch}}
+
+{{Bedeutungen}}
+:[1] [[Haltestelle]]
+:[2] [[Pause]], [[Unterbrechung]]
+:[3] {{K|Tennis}} [[Stoppball]] (kurz hinter das Netz geschlagener Ball)
+:[4] {{K|Phonetik}} [[Verschlusslaut]]
+
+{{Beispiele}}
+:[1] They saw each other at the bus ''stop.''
+::Sie sahen sich gegenseitig an der ''Bushaltestelle.''
+:[2] That ''stop'' was not planned.
+::Diese ''Pause'' war nicht geplant.
+:[3] {{Beispiele fehlen|spr=en}}
+:[4] {{Beispiele fehlen|spr=en}}
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Haltestelle|Ü-Liste=
+*{{de}}: {{Ü|de|Haltestelle}}
+*{{fr}}: {{Ü|fr|arrêt}} {{m}}
+}}
+
+{{Ü-Tabelle|2|G=Pause, Unterbrechung|Ü-Liste=
+*{{de}}: {{Ü|de|Pause}}, {{Ü|de|Unterbrechung}}
+*{{fr}}: {{Ü|fr|arrêt}} {{m}}
+}}
+
+{{Ü-Tabelle|3|G=Tennis: Stoppball (kurz hinter das Netz geschlagener Ball)|Ü-Liste=
+*{{de}}: {{Ü|de|Stoppball}}
+}}
+
+{{Ü-Tabelle|4|G=Phonetik: Verschlusslaut|Ü-Liste=
+*{{de}}: {{Ü|de|Verschlusslaut}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=en}}
+:[1] {{Ref-MWD}}
+:[1] {{Ref-MWT}}
+:[1] {{Ref-Dictionary}}
+:[1] {{Ref-Pons|en}}
+:[1] {{Ref-dictcc}}
+{{Referenzen prüfen|Englisch}}
+
+== stop ({{Sprache|Tschechisch}}) ==
+=== {{Wortart|Deklinierte Form|Tschechisch}} ===
+
+{{Worttrennung}}
+:stop
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|stɔp}}
+:{{Hörbeispiele}} {{Audio|}}
+:{{Reime}} {{Reim|ɔp|Tschechisch}}
+
+{{Grammatische Merkmale}}
+*Genitiv Plural des Substantivs '''[[stopa]]'''
+
+{{Grundformverweis Dekl|stopa|spr=cs}}
+
+[[Kategorie:Entlehnung aus dem Englischen (Deutsch)]]

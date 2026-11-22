@@ -1,0 +1,246 @@
+{{Siehe auch|[[Go]], [[GO]], [[gô]], [[gö]], [[gō]], [[gỗ]]}}
+== go ({{Sprache|Englisch}}) ==
+=== {{Wortart|Verb|Englisch}}, ''unregelmäßig'' ===
+
+{{Englisch Verb Übersicht
+|present_I=go
+|present_he, she, it=goes
+|past_simple_I=went
+|present participle=going
+|past participle=gone
+}}
+
+{{Worttrennung}}
+:go, goes, went, go·ing, gone
+
+{{Aussprache}}
+:{{IPA|BE}} {{Lautschrift|ɡəʊ}}, {{IPA|AE}} {{Lautschrift|ɡoʊ}}
+:{{Hörbeispiele}} {{Audio|En-uk-to go.ogg|go|spr=uk}}, {{Audio|En-us-go.ogg|go|spr=us}}, {{Audio|LL-Q1860 (eng)-Nattes à chat-go.wav}}, {{Audio|En-au-go.ogg|go (australisch)}}
+:{{Reime}} {{Reim|əʊ|Englisch}}
+
+{{Bedeutungen}}
+:[1] [[gehen]], sich [[fortbewegen]]: gehen, fahren, fliegen…
+:[2] ''go by (something):'' mit (etwas) [[fahren]]/[[fliegen]]
+:[3] ''go by (X):'' (X) [[heißen]], unter dem [[Name]]n (X) [[gehen]] / [[bekannt]] sein
+:[4] [[gehen]], [[weggehen]]: einen [[Ort]] oder eine Zusammenkunft [[verlassen]]
+:[5] ''Befehlsform (Imperativ) bei Rennen, Wettkämpfen:'' [[los]]!
+
+{{Synonyme}}
+:[1] [[move]], [[travel]], [[fare]], [[journey]]
+:[3] be [[called]], be [[known]] as
+:[4] [[leave]], [[depart]]
+
+{{Sinnverwandte Wörter}}
+:[1] [[run]], [[swim]]
+:[1] [[advance]], [[proceed]]; [[depart]]; [[roam]], [[wend]]; [[pass]], [[reach]]
+:[1, 2] [[walk]], [[fly]], [[drive]], [[ride]], [[bike]], [[sail]]
+
+{{Oberbegriffe}}
+:[1] [[move]], [[travel]]
+
+{{Beispiele}}
+:[1] Yesterday I ''went'' to school very early.
+::Gestern ''ging'' ich sehr früh zur Schule.
+:[1] At Easter George and I ''went'' to Ireland for the weekend with John and Cynthia Lennon. We flew from Heathrow to Shannon […]<ref>Pattie Boyd, Penny Junor, ''Wonderful Tonight: George Harrison, Eric Clapton, and Me'' (2008), Seite 63</ref>
+::Zum Osterwochenende ''flogen / reisten'' George und ich nach Irland mit John und Cynthia Lennon. We waren von Heathrow nach Shannon geflogen […]
+:[2] He doesn’t ''go'' to school ''by train''.
+::Er ''fährt'' nicht ''mit dem Zug'' zur Schule.
+:[2] In Mesopotamia able-bodied travelers normally ''went by foot''. Apparently even civil servants usually walked, as analysis of ration lists for government officials shows; only the most important persons were supplied with animals for riding […]<ref>Geoffrey W. Bromiley, ''The international standard Bible encyclopedia'' (1995), Seite 892</ref>
+:[3] His name is Joachim, but he ''goes by'' Achim.
+:[3] He doesn't disclose the fact that he ''goes by the name of'' John Hall Williams at any time, yet he sues in that name.<ref>''Reports of Cases determined by the Supreme Court of the State of Missouri'', 251. Band, April 1913, Seite 151</ref>
+:[3] "Speed bump, road hump, sleeping policeman – they ''go by'' many names but they all serve the same purpose – to slow down traffic."<ref>{{Internetquelle | url=https://www.saga.co.uk/magazine/motoring/cars/using/speed-bumps | titel=The story behind speed bumps | autor=Amanda Angus| werk=SAGA | datum=2018-05-17 | zugriff=2023-10-01}}</ref>
+:[4] "I have to ''go'' now." — "No, please don't ''go''! I can't bear to be without you!"
+:[4] Folks were always coming and ''going''.<ref>Cupcake Brown, ''A Piece of Cake: A Memoir'' (2006)</ref>
+:[5] On your mark(s), get set, ''go''!
+::Achtung, fertig, ''los!'' / Auf die Plätze, fertig, ''los!''
+
+{{Charakteristische Wortkombinationen}}
+:[1, 4] (to) ''go'' away — [[weggehen]]
+:(to) ''go'' about, (to) ''go'' around („a sickness is going around“) — [[umgehen]], [[umhergehen]]
+:(to) ''go'' about (doing something) — (etwas) [[angehen]]
+:<!--?-->(to) ''go'' upon (someone) — sich [[richten]] nach (jemandem)
+:<!--?-->(to) ''go'' in (something) — (etwas) [[betreten]], in (etwas) [[eintreten]]
+:[2] to ''go'' on [[foot]] / by foot = to [[walk]] — (zu Fuß) ''[[gehen]]''
+:[2] to ''go'' by [[air]] / by [[plane]] = to [[fly]] — (mit dem Flugzeug) ''[[fliegen]]''
+:[2] to ''go'' by [[car]] / by [[truck]] = to [[drive]], to [[ride]] — mit dem Auto / dem Wagen [[fahren]]
+:[2] to ''go'' by [[horse]] = to [[ride]] — [[reiten]]
+:[2] to ''go'' by [[train]] — mit dem Zug [[fahren]]
+:[2] to ''go'' by [[bike]] = to [[bike]] — mit dem Fahrrad fahren
+:[2] to ''go'' by [[bus]] = to [[ride]] — mit dem Bus fahren
+:[2] to ''go'' by [[sea]] ≈ to [[sail]] — mit dem Schiff / dem Boot fahren, auf dem Seeweg reisen
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=gehen, sich fortbewegen|Ü-Liste=
+*{{de}}: {{Ü|de|gehen}}
+}}
+
+{{Ü-Tabelle|2|G=go by (something): mit (etwas) fahren/fliegen|Ü-Liste=
+*{{de}}: {{Ü|de|}}
+}}
+
+{{Ü-Tabelle|3|G=go by (X): (X) heißen, unter dem Namen (X) gehen / bekannt sein|Ü-Liste=
+*{{de}}: {{Ü|de|}}
+}}
+
+{{Ü-Tabelle|4|G=gehen, weggehen: einen Ort oder eine Zusammenkunft verlassen|Ü-Liste=
+*{{de}}: {{Ü|de|}}
+}}
+
+{{Ü-Tabelle|5|G=Befehlsform (Imperativ) bei Rennen, Wettkämpfen|Ü-Liste=
+*{{de}}: {{Ü|de|los}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=en|Go (verb)}}
+:[1–4] {{Ref-MWD}}
+:[1–5] {{Ref-Dictionary}}
+:[1–4] {{Ref-Pons|en}}
+:[1–5] {{Ref-Leo|en}}
+:[1–5] {{Ref-dictcc|en}}
+
+{{Quellen}}
+
+== go ({{Sprache|Französisch}}) ==
+=== {{Wortart|Substantiv|Französisch}}, {{m}} ===
+
+{{Französisch Substantiv Übersicht
+|Genus=m
+|Singular=go
+|Plural=—
+}}
+
+{{Worttrennung}}
+:go
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ɡo}}
+:{{Hörbeispiele}} {{Audio|LL-Q150 (fra)-GrandCelinien-go.wav}}
+
+{{Bedeutungen}}
+:[1] ''[[Spiel]]:'' Go
+
+{{Herkunft}}
+:seit dem Ende des 19. Jahrhunderts in der Schreibweise ''gô'' und seit den 1960er-Jahren in der heutigen Form bezeugte [[Entlehnung]] aus dem [[japanisch]]en {{Üt|ja|碁|ご, go}}<ref>{{Ref-CNRTL|go}}</ref><ref>{{Lit-Robert: Petit Robert|A=2009}}, Seite 1163.</ref>
+
+{{Oberbegriffe}}
+:[1] [[jeu]]
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=fr}}
+
+{{Charakteristische Wortkombinationen}}
+:[1] [[jouer]] [[à|au]] ''go''
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Spiel: Go|Ü-Liste=
+*{{de}}: {{Ü|de|Go}} {{n}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=fr|jeu de go}}
+:[1] {{Ref-CNRTL}}
+:[1] {{Ref-LarousseFr}}
+:[1] {{Lit-Robert: Petit Robert|A=2009}}, Seite 1163
+:[1] {{Lit-Larousse: Petit Larousse|A=2010}}, Seite 470
+
+{{Quellen}}
+
+== go ({{Sprache|Polnisch}}) ==
+=== {{Wortart|Deklinierte Form|Polnisch}} ===
+
+{{Polnisch Personalpronomen 3m}}
+
+{{Anmerkung|zur Verwendung}}
+:Die Form ''go'' wird nur in unbetonter Stellung verwendet und sollte somit nie am Satzanfang stehen. In betonter Stellung wird ''[[jego]]'' und nach [[Präposition]]en ''[[niego]]'' (oder veraltet das Suffix ''[[-ń]])'' verwendet.
+
+{{Worttrennung}}
+:go
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ɡɔ}}
+:{{Hörbeispiele}} {{Audio|Pl-go.ogg}}
+:{{Reime}} {{Reim|ɔ|Polnisch}}
+
+{{Grammatische Merkmale}}
+:[1] Genitiv Singular Maskulinum des Pronomens '''[[on]]'''
+:[2] Akkusativ Singular belebtes Maskulinum des Pronomens '''[[on]]'''
+:[3] Genitiv Singular Neutrum des Pronomens '''[[on]]'''
+
+{{Grundformverweis Dekl|on|spr=pl}}
+
+{{Beispiele}}
+:[1] Zobacz jaki mały pies tam biegnie! – Gdzie? Nie widzę ''go.''
+::Schau was für ein kleiner Hund dort läuft! – Wo? Ich sehe ''ihn'' nicht.
+:[2] Dostałeś list, który ci napisałam? – Tak. Zaraz ''go'' przeczytałem.
+::Hast du den Brief erhalten, den ich dir geschickt habe? – Ja. Ich habe ''ihn'' sofort durchgelesen.
+:[3] To pismo, nie pokazuj ''go'' nikomu!
+::Dieses Schreiben, zeige ''es'' niemandem!
+
+=== {{Wortart|Substantiv|Polnisch}}, {{n}} ===
+
+{{Polnisch Substantiv Übersicht
+|Nominativ Singular=go
+|Genitiv Singular=go
+|Dativ Singular=go
+|Akkusativ Singular=go
+|Instrumental Singular=go
+|Lokativ Singular=go
+|Vokativ Singular=go
+|Nominativ Plural=—
+|Genitiv Plural=—
+|Dativ Plural=—
+|Akkusativ Plural=—
+|Instrumental Plural=—
+|Lokativ Plural=—
+|Vokativ Plural=—
+}}
+
+{{Worttrennung}}
+:go, {{kPl.}}
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ɡɔ}}
+:{{Hörbeispiele}} {{Audio|}}
+:{{Reime}} {{Reim|ɔ|Polnisch}}
+
+{{Bedeutungen}}
+:[1] ''[[Spiel]]:'' Go
+
+{{Oberbegriffe}}
+:[1] [[gra]]
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=pl}}
+
+{{Charakteristische Wortkombinationen}}
+:[1] [[grać]] [[w]] ''go''
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Spiel: Go|Ü-Liste=
+*{{de}}: {{Ü|de|Go}} {{n}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=pl|go}}
+:[1] {{Ref-Pons|pl}}
+:[1] {{Ref-SJP-PWN|go}}
+:[1] {{Ref-SWO-PWN|9853}}
+:[1] {{Ref-SO-PWN|go}}
+
+== go ({{Sprache|Umschrift}}) ==
+{| cellpadding="4" style="width: 100%; border: 1px solid #aab1bb;"
+| colspan="2" style="background-color: #f9f9f9; border-bottom: 1px solid #aaaaaa; color: black;" | '''Japanisch''' ([[Hilfe:Hepburn-shiki|Hepburn-shiki]])
+|----
+| style="width: 50%;" | [[五]] → [[Fünf]]
+| style="width: 50%;" | [[呉]] → [[Geben]]
+|----
+| [[御]] → [[ehrenhaft]]
+| [[碁]] → [[Go]] (das Brettspiel)
+|----
+| [[語]] → [[Sprache]], [[Wort]]
+|}
+
+{{Ähnlichkeiten Umschrift|Zeichen=1|Titel=nein
+|ご|spr1=ja|anm1=([[Hiragana]])|ゴ|spr2=ja|anm2=([[Katakana]])|고|spr3=ko}}
+
+[[Kategorie:Entlehnung aus dem Japanischen (Französisch)]]

@@ -1,0 +1,99 @@
+== manger ({{Sprache|Englisch}}) ==
+=== {{Wortart|Substantiv|Englisch}} ===
+
+{{Englisch Substantiv Übersicht
+|Singular=manger
+|Plural=mangers
+|Bild=Rack - Hay (PSF).png|mini|1|''manger''
+}}
+
+{{Worttrennung}}
+:man·ger, {{Pl.}} man·gers
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ˈmeɪn(d)ʒə(r)}}
+:{{Hörbeispiele}} {{Audio|En-au-manger.ogg|manger (australisch)}}, {{Audio|En-uk-manger.ogg|spr=uk}}
+
+{{Bedeutungen}}
+:[1] {{K|veraltend|biblisch|spr=en}} [[Futtertrog]], [[Krippe]]
+
+{{Herkunft}}
+:belegt seit dem frühen 14. Jahrhundert; von altfranzösisch ''mangeure'' (siehe französisch ''{{Ü|fr|mangeoire}}''), abgeleitet von altfranzösisch ''mangier'' „essen“ (siehe französisch ''{{Ü|fr|manger}}''), von dem (spät-)lateinischen Verb (davon auch englisch ''{{Ü|en|manducate}}'') ''{{Ü|la|manducare|mandūcāre}}'' „kauen, kauend essen“, dies abgeleitet von dem Verb ''{{Ü|la|mandere, mandī, mānsum}}'' „kauen, kauend verzehren“<ref>{{Ref-OEtymD}}</ref>
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=en}}
+
+{{Redewendungen}}
+:[1] a [[dog in the manger|dog in the ''manger'']]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=veraltend, biblisch: Futtertrog, Krippe|Ü-Liste=
+*{{de}}: {{Ü|de|Futtertrog}} {{m}}, {{Ü|de|Krippe}} {{f}}
+*{{fr}}: {{Ü|fr|}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=en|manger}}
+:[1] {{Ref-MWD|manger}}
+:[1] {{Ref-Dictionary|manger}}
+:[1] {{Ref-Pons|en|manger}}
+:[1] {{Ref-dictcc|manger}}
+:[1] {{Ref-Leo|en|manger}}
+
+{{veraltender Wortschatz|Englisch}}
+
+{{Quellen}}
+
+== manger ({{Sprache|Französisch}}) ==
+=== {{Wortart|Verb|Französisch}}, ''regelmäßig'' ===
+
+{{Französisch Verb Übersicht
+|Präsens 1. Person Singular=mange
+|Präsens 2. Person Singular=manges
+|Präsens 3. Person Singular=mange
+|Präsens 1. Person Plural=mangeons
+|Präsens 2. Person Plural=mangez
+|Präsens 3. Person Plural=mangent
+|Maskulinum Singular=mangé
+|Femininum Singular=mangée
+|Maskulinum Plural=mangés
+|Femininum Plural=mangées
+|Hilfsverb=avoir
+}}
+
+{{Worttrennung}}
+:man·ger
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|mɑ̃ʒe|spr=fr}}
+:{{Hörbeispiele}} {{Audio|Fr-manger.ogg}}
+
+{{Bedeutungen}}
+:[1] [[essen]], [[fressen]]
+
+{{Herkunft}}
+:von dem lateinischen Verb ''{{Ü|la|manducare}}'' „kauen, kauend essen“,<ref>{{Lit-Meyer-Lübke: Romanisches etymologisches Wörterbuch|A=6}}, 5292. mandūcāre</ref> [[Denominativum]] von ''{{Ü|la|manducus}}'' „Vielfraß“, einer Bildung zu dem Verb ''{{Ü|la|mandere}}'' „kauen, beißen; essen“<ref>{{Lit-Langenscheidt: Großes Schulwörterbuch Latein|A=7}} siehe măndūcō, măndūcŭs, măndō<sup>2</sup></ref>
+
+{{Gegenwörter}}
+:[1] [[boire]]
+
+{{Oberbegriffe}}
+:[1] [[consommer]]
+
+{{Beispiele}}
+:[1] Je ''mange'' une pomme.
+::Ich ''esse'' einen Apfel.
+
+{{Sprichwörter}}
+:[1] [[faute de grives on mange des merles|faute de grives on ''mange'' des merles]] — [[in der Not frisst der Teufel Fliegen]] 
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=essen, fressen|Ü-Liste=
+*{{de}}: {{Ü|de|essen}}
+}}
+
+{{Referenzen}}
+:[1] {{Ref-Leo|fr}}
+:[1] {{Ref-Pons|fr}}
+
+{{Quellen}}
