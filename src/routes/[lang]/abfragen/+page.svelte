@@ -10,6 +10,7 @@
 	import { listCards, recordAnswer, type Card } from '#lib/db/index.ts';
 	import { checkAnswer, pickNext } from '#lib/quiz/index.ts';
 	import { playCard } from '#lib/audio/index.ts';
+	import { addMissingPrompts } from '#lib/upgrade.ts';
 
 	let { data } = $props();
 	const lang = $derived(data.language);
@@ -34,6 +35,13 @@
 		loaded = true;
 		session = { asked: 0, correct: 0 };
 		await next();
+		// older special-form cards: fetch their German prompt, then refresh what is shown
+		if (await addMissingPrompts(lang)) {
+			const fresh = await listCards(lang.code);
+			const byId = new Map(fresh.map((c) => [c.id, c]));
+			cards = cards.map((c) => (byId.get(c.id) ? { ...c, prompt: byId.get(c.id)!.prompt } : c));
+			if (current) current = { ...current, prompt: byId.get(current.id)?.prompt };
+		}
 	}
 
 	async function next() {
@@ -113,8 +121,9 @@
 			<span class="muted asked">{current.asked}× abgefragt</span>
 		</div>
 
-		<p class="prompt" lang="de">{current.german}</p>
-		{#if current.formLabel}
+		<!-- special forms ask their German counterpart ("ich gehe"); older cards fall back to word + description -->
+		<p class="prompt" lang="de">{current.prompt || current.german}</p>
+		{#if current.parentId && !current.prompt && current.formLabel}
 			<p class="form-label">{current.formLabel}</p>
 		{:else if current.meaning}
 			<p class="form-label muted">{current.meaning}</p>

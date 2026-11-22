@@ -7,8 +7,8 @@
  */
 import type { Language } from '#lib/languages.ts';
 import { buildFormCandidates, buildMainAnswer, type FormCandidate } from './answers';
-import { recordingSays, spokenName } from './recordings';
-import { parseForeignEntry, parseTranslations, type Gender, type Pos, type Translation } from './wikitext';
+import { recordingSays } from './recordings';
+import { overviewParams, parseForeignEntry, parseTranslations, type Gender, type Pos, type Translation } from './wikitext';
 
 export type { FormCandidate, Translation, Pos, Gender };
 
@@ -81,18 +81,23 @@ export interface WordDetails {
 	audioFile?: string;
 }
 
-/** Looks up the foreign word's own page: gender, forms, pronunciation. */
-export async function getDetails(t: Translation, lang: Language, signal?: AbortSignal): Promise<WordDetails> {
-	const text = await wikitext(t.word, signal);
+/**
+ * Looks up the foreign word's own page: gender, forms, pronunciation.
+ * `german` is the German word it translates; its inflection table supplies
+ * the German prompts for the special forms ("ich gehe" for "je vais").
+ */
+export async function getDetails(t: Translation, lang: Language, german?: string, signal?: AbortSignal): Promise<WordDetails> {
+	const [text, germanText] = await Promise.all([wikitext(t.word, signal), german ? wikitext(german, signal) : null]);
 	const entry = text ? parseForeignEntry(text, lang.name, t.word, t.pos) : null;
+	const germanTable = german && germanText ? { word: german, table: overviewParams(germanText, 'Deutsch', t.pos) } : undefined;
 	const gender = t.gender ?? entry?.gender;
 	const answer = buildMainAnswer(lang.code, t.word, t.pos, gender);
 	return {
 		answer,
 		pos: t.pos,
 		gender,
-		forms: entry ? buildFormCandidates(lang.code, t.word, entry) : [],
-		audioFile: await findRecording(answer, t.word, entry?.audioFiles ?? [], lang, signal)
+		forms: entry ? buildFormCandidates(lang.code, t.word, entry, germanTable) : [],
+		audioFile: await findRecording(answer, entry?.audioFiles ?? [], lang, signal)
 	};
 }
 
@@ -103,21 +108,13 @@ export async function getDetails(t: Translation, lang: Language, signal?: AbortS
  */
 async function findRecording(
 	answer: string,
-	word: string,
 	files: string[],
 	lang: Language,
 	signal?: AbortSignal
 ): Promise<string | undefined> {
 	const exact = files.find((f) => recordingSays(f, answer));
 	if (exact) return exact;
-	const fromLinguaLibre = await findLinguaLibre(answer, lang, signal);
-	if (fromLinguaLibre) return fromLinguaLibre;
-	// Bare words (adjectives, French verbs…): accept a recording that contains the word.
-	if (answer === word) {
-		const w = word.toLowerCase();
-		return files.find((f) => spokenName(f).split(/[-\s]/).includes(w));
-	}
-	return undefined;
+	return findLinguaLibre(answer, lang, signal);
 }
 
 /** Searches Commons for a Lingua Libre recording "LL-Q… (fra)-<speaker>-<word>.wav". */

@@ -23,6 +23,13 @@
 		oneditforms: (card: Card) => void;
 	} = $props();
 
+	/** Card whose delete button was pressed and awaits confirmation (in-page; browser dialogs may be blocked). */
+	let confirming = $state<string | null>(null);
+
+	function formCount(card: Card) {
+		return cards.filter((c) => c.parentId === card.id).length;
+	}
+
 	interface Entry {
 		createdAt: number;
 		main: Card;
@@ -50,7 +57,7 @@
 		<BoxBadge box={card.box} />
 		<div class="text">
 			<span class="german">
-				{#if isForm}<span class="form-label">{card.formLabel}</span>{:else}{card.german}{/if}
+				{#if isForm}<span class="form-label" class:prompt={!!card.prompt}>{card.prompt || card.formLabel}</span>{:else}{card.german}{/if}
 				{#if !isForm && card.meaning}<span class="meaning">({card.meaning})</span>{/if}
 			</span>
 			<span class="answer" {lang}>{card.answer}</span>
@@ -67,8 +74,17 @@
 					onclick={() => oneditforms(card)}>✎</button
 				>
 			{/if}
-			<button class="icon-btn delete" aria-label={`${card.answer} löschen`} onclick={() => ondelete(card)}>🗑</button>
+			<button class="icon-btn delete" aria-label={`${card.answer} löschen`} onclick={() => (confirming = card.id)}>🗑</button>
 		</div>
+		{#if confirming === card.id}
+			<div class="confirm" role="alertdialog" aria-label={`${card.answer} löschen?`}>
+				<span>
+					„{card.answer}“{formCount(card) ? ` und ${formCount(card)} Sonderform(en)` : ''} löschen?
+				</span>
+				<button class="btn danger" onclick={() => { confirming = null; ondelete(card); }}>Löschen</button>
+				<button class="btn secondary" onclick={() => (confirming = null)}>Abbrechen</button>
+			</div>
+		{/if}
 	</li>
 {/snippet}
 
@@ -170,6 +186,11 @@
 		margin-left: 0.3rem;
 	}
 
+	.form-label.prompt {
+		color: var(--text);
+		font-size: 0.95rem;
+	}
+
 	.asked {
 		text-align: right;
 		color: var(--muted);
@@ -189,6 +210,30 @@
 
 	.delete:hover {
 		color: var(--bad);
+	}
+
+	.confirm {
+		grid-column: 1 / -1;
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		justify-content: flex-end;
+		gap: 0.5rem;
+		padding: 0.5rem 0.7rem;
+		border-radius: 10px;
+		background: var(--bad-soft);
+	}
+
+	.confirm span {
+		margin-right: auto;
+	}
+
+	.danger {
+		background: var(--bad);
+	}
+
+	.danger:hover {
+		background: color-mix(in srgb, var(--bad) 85%, black);
 	}
 
 	.empty {

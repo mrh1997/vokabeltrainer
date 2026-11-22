@@ -7,10 +7,13 @@
  */
 import type { ForeignEntry, Gender, Pos } from './wikitext';
 import { formKind, isStandardForm, type FormKind } from './regular';
+import { germanPrompt } from './german';
 
 export interface FormCandidate {
-	/** German label shown in the checklist and quiz, e.g. "Plural". */
+	/** Grammatical description, e.g. "Präsens: ich" (fallback display, identifies the form). */
 	label: string;
+	/** German counterpart shown in the quiz, e.g. "ich gehe" (absent if unknown). */
+	prompt?: string;
 	/** Exact text to type, e.g. "les chevaux". */
 	answer: string;
 }
@@ -149,7 +152,16 @@ function describeForm(lang: string, k: FormKind, key: string, value: string, ent
  * roofs is left out, child → children is offered). Alternatives like
  * "beau / bel" use the first spelling; forms equal to the main word are dropped.
  */
-export function buildFormCandidates(lang: string, word: string, entry: ForeignEntry): FormCandidate[] {
+export function buildFormCandidates(
+	lang: string,
+	word: string,
+	entry: ForeignEntry,
+	german?: { word: string; table: Map<string, string> }
+): FormCandidate[] {
+	const withPrompt = (c: FormCandidate, k: FormKind): FormCandidate => {
+		const prompt = german && germanPrompt(k, german.table, german.word, entry.pos);
+		return prompt ? { ...c, prompt } : c;
+	};
 	const forms = entry.forms
 		.map((f) => ({ key: f.key, value: f.value.split(/\s*\/\s*/)[0].trim(), kind: formKind(f.key, entry.pos) }))
 		.filter((f) => f.value);
@@ -164,14 +176,15 @@ export function buildFormCandidates(lang: string, word: string, entry: ForeignEn
 	for (const f of forms) {
 		if (f.value === word) continue;
 		if (isStandardForm(lang, entry.pos, word, f.kind, f.value, byKind)) continue;
-		add(describeForm(lang, f.kind, f.key, f.value, entry));
+		add(withPrompt(describeForm(lang, f.kind, f.key, f.value, entry), f.kind));
 	}
 	if (lang === 'fr' && entry.pos === 'verb' && entry.auxiliary) {
 		const participle = byKind.get('participle');
 		if (participle) {
 			const withEtre = entry.auxiliary.startsWith('ê');
 			const standard = !withEtre && isStandardForm('fr', 'verb', word, { kind: 'participle' }, participle);
-			if (!standard) add({ label: 'Passé composé: er/sie/es', answer: `il ${withEtre ? 'est' : 'a'} ${participle}` });
+			if (!standard)
+				add(withPrompt({ label: 'Passé composé: er/sie/es', answer: `il ${withEtre ? 'est' : 'a'} ${participle}` }, { kind: 'perfect3S' }));
 		}
 	}
 	return result;

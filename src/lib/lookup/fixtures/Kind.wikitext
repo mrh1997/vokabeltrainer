@@ -1,0 +1,341 @@
+{{Siehe auch|[[kind]]}}
+{{Wort der Woche|4|2007}}
+== Kind ({{Sprache|Deutsch}}) ==
+=== {{Wortart|Substantiv|Deutsch}}, {{n}} ===
+
+{{Deutsch Substantiv Übersicht
+|Genus=n
+|Nominativ Singular=Kind
+|Nominativ Plural=Kinder
+|Genitiv Singular=Kindes
+|Genitiv Singular*=Kinds
+|Genitiv Plural=Kinder
+|Dativ Singular=Kind
+|Dativ Singular*=Kinde
+|Dativ Plural=Kindern
+|Akkusativ Singular=Kind
+|Akkusativ Plural=Kinder
+|Bild=Iraqi girls living next to Daurra Oil Refinery in Iraq.jpg|mini|1|''Kinder''
+}}
+
+{{Worttrennung}}
+:Kind, {{Pl.}} Kin·der
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|kɪnt}}
+:{{Hörbeispiele}} {{Audio|De-Kind.ogg}}, {{Audio|De-Kind2.ogg}}
+:{{Reime}} {{Reim|ɪnt|Deutsch}}
+
+{{Bedeutungen}}
+:[1] [[heranwachsend]]er [[Mensch]], aber noch kein [[Jugendlicher]]
+:[2] Mensch, mit Bezug auf seine [[familiär]]e [[Zugehörigkeit]] (Beziehung der [[Abkommenschaft]])
+:[3] vertrauliche [[Anrede]]
+
+{{Herkunft}}
+:[[mittelhochdeutsch]] ''{{Ü|gmh|kint}}'', [[althochdeutsch]] ''{{Ü|goh|kind}},'', [[germanisch]] *''{{Ü|gem|kinþa-}}'' {{n}}, ursprünglich von der [[urindogermanisch]]en [[Wortwurzel]] ''*{{Ü|ine|g’enə-}}'' „[[Leben]] [[schenken]]“; seit dem 8. Jahrhundert bezeugt.<ref>{{Lit-Duden: Herkunftswörterbuch|A=4}}, Seite 405.</ref><ref>{{Lit-Kluge: Etymologisches Wörterbuch|A=24}}, Seite 488.</ref>
+
+{{Synonyme}}
+:[1] [[Kid]], [[Kiddi]], [[Knirps]], [[Wicht]], [[Wurm]], [[Zögling]]; ''[[Masematte]]:'' [[Koten]]; {{österr.|,}} {{ugs.|:}} [[Gschrapp]]; {{abw.|:}} [[Blag]], [[Blage]], [[Gör]], [[Göre]], [[Kröte]], [[Plagegeist]], [[Quälgeist]]
+:[2] [[Abkömmling]], [[Nachkomme]], [[Nachwuchs]], [[Nachgeborener]], [[Spross]], [[Sprössling]]
+
+{{Sinnverwandte Wörter}}
+:[1] [[Söhnchen]], [[Töchterchen]]
+
+{{Gegenwörter}}
+:[1] [[Erwachsener]], [[Jugendlicher]]
+:[2] [[Eltern]], [[Großeltern]], [[Urgroßeltern]]
+
+{{Verkleinerungsformen}}
+:[[Kindchen]], [[Kinderlein]], [[Kindlein]]
+
+{{Oberbegriffe}}
+:[1] [[Mensch]]
+:[2] [[Nachkomme]], [[Verwandter]]
+:[3] [[Anrede]]
+
+{{Unterbegriffe}}
+:[1] ''nach Geschlecht:'' [[Bub]]/[[Bube]], [[Junge]], [[Knabe]], [[Mädchen]]
+:[1] [[6-Monat-Kind]], [[Achtmonatskind]], [[Adamskind]], [[ADHS-Kind]], [[Adoptivkind]], [[Akademikerkind]], [[Alleinkind]], [[Arbeiterkind]], [[Arztkind]], [[Asylbewerberkind]], [[Auflaufkind]], [[Ausländerkind]], [[Aussiedlerkind]], [[Bahnhofskind]], [[Ballkind]], [[Bauernkind]], [[Beamtenkind]], [[Beichtkind]], [[Besatzungskind]], [[Bescherkind]], [[Bettelkind]], [[Blumenkind]], [[Blumenstreukind]], [[Bonuskind]], [[Brautkind]], [[Bruderkind]], [[Brustkind]], [[Bürgerkind]], [[Chorkind]], [[Christenkind]], [[Christkind]], [[Christuskind]], [[Computerkind]], [[Contergankind]], [[DDR-Kind]], [[Diplomatenkind]], [[Dorfkind]], [[Dritte-Welt-Kind]], [[Durchschnittskind]], [[Einkind]], [[Einlaufkind]], [[Einwandererkind]], [[Einzelkind]], [[Elfenkind]], [[Emigrantenkind]], [[Engelskind]], [[Enkelkind]], [[Erdenkind]], [[Erstkommunionkind]], [[Eskortenkind]], [[Fatschenkind]], [[Ferienkind]], [[Fernsehkind]], [[Findelkind]], [[Flaschenkind]], [[Flüchtlingskind]], [[Frühkind]], [[Fürstenkind]], [[Gastarbeiterkind]], [[Gastkind]], [[Geburtstagskind]], [[Geisteskind]], [[Geschwisterkind]], [[Ghettokind]], [[Glückskind]], [[Goldkind]], [[Götterkind]], [[Gotteskind]], [[Großkind]], [[Großstadtkind]], [[Grundschulkind]], [[Haltekind]], [[Hätschelkind]], [[Heimkind]], [[Herzenskind]], [[Hexenkind]], [[Hortkind]], [[Hurenkind]], [[Immigrantenkind]], [[Indianerkind]], [[Inklusionskind]], [[Integrationskind]], [[Jesuskind]], [[Kaderkind]], [[Kannkind]], [[Kellerkind]], [[Kindergartenkind]], [[Kindeskind]], [[Klaukind]], [[Kleinkind]], [[Kleinstkind]], [[Kommunionkind]], [[Königskind]], [[Krabbelkind]], [[Kriegskind]], [[Krippenkind]], [[Kuckuckskind]], [[Künstlerkind]], [[Landeskind]], [[Landkind]], [[Liebeskind]], [[Liebkind]], [[Lieblingskind]], [[Mamakind]], [[Mantelkind]], [[Marienkind]], [[Mauerkind]], [[Medienkind]], [[Menschenkind]], [[Migrantenkind]], [[Mischlingskind]], [[Mitarbeiterkind]], [[Mittelschichtkind]], [[Mittelstandskind]], [[Mitternachtskind]], [[Mohrenkind]], [[Monsterkind]], [[Müllkind]], [[Musenkind]], [[Musskind]], [[Musterkind]], [[Mutterkind]], [[Nachbarskind]], [[Nachkriegskind]], [[Namenstagskind]], [[Naturkind]], [[Negerkind]], [[Oberschichtkind]], [[Ostkind]], [[Palästinenserkind]], [[Papakind]], [[Patenkind]], [[Pflegekind]], [[Polizistenkind]], [[Priesterkind]], [[Prachtkind]], [[Problemkind]], [[Proletarierkind]], [[Protektionskind]], [[Puppenkind]], [[Retortenkind]], [[Risikokind]], [[Sandwichkind]], [[Scheidungskind]], [[Scheißkind]], [[Schlüsselkind]], [[Schmerzenskind]], [[Schmetterlingskind]], [[Schmuddelkind]], [[Schoßkind]], [[Schreikind]], [[Schulkind]], [[Schwabenkind]], [[Schwesterkind]], [[Schwiegerkind]], [[Siebenmonatskind]], [[Siedlerkind]], [[Slumkind]], [[Soldatenkind]], [[Sonnenkind]], [[Sonntagskind]], [[Sorgenkind]], [[Spätkind]], [[Spenderkind]], [[Spielkind]], [[Stadtkind]], [[Sternenkind]], [[Stiefkind]], [[Straßenkind]], [[Suchkind]], [[Tageskind]], [[Täterkind]], [[Tenniskind]], [[Theaterkind]], [[Tochterkind]], [[Trennungskind]], [[Trümmerkind]], [[Türkenkind]], [[Turnkind]], [[Unglückskind]], [[Unterschichtkind]], [[Urenkelkind]], [[Vaterkind]], [[Vorschulkind]], [[Vorstadtkind]], [[Vorzeigekind]], [[Vorzugskind]], [[Wahlkind]], [[Waisenkind]], [[Waldkind]], [[Wasserkind]], [[Weihnachtskind]], [[Weltkind]], [[Wendekind]], [[Westkind]], [[Wickelkind]], [[Wirtschaftswunderkind]], [[Wohlstandskind]], [[Wolfskind]], [[Wunderkind]], [[Wunschkind]], [[Zehnmonatskind]], [[Ziehkind]], [[Zigeunerkind]], [[Zirkuskind]], [[Zuwandererkind]], [[Zwillingskind]]
+:[1] ''(andere) Lebewesen:'' [[Affenkind]], [[Bärenkind]], [[Elefantenkind]], [[Katzenkind]], [[Löwenkind]], [[Storchenkind]], [[Tierkind]], [[Vogelkind]]
+:[1] ''Objekte:'' [[Puppenkind]]
+:[2] [[Sohn]], [[Tochter]], [[Stiefsohn]], [[Stieftochter]], [[Adoptivsohn]], [[Adoptivtochter]], [[Pflegesohn]], [[Pflegetochter]]
+
+{{Beispiele}}
+:[1] Die ''Kinder'' spielten im Garten.
+:[1] „Bei einem Auftritt in Odessa präsentierte er [Petro Poroschenko] die brutale Maßnahme als Garantie für den Sieg: ‘Wir werden Renten haben, sie keine. Bei uns werden die ''Kinder'' in die Schule gehen, bei ihnen werden sie in den Kellern sitzen. So, und nur so gewinnen wir den Krieg.‘ “<ref>{{Per-Spiegel Online|Online=https://www.spiegel.de/politik/ausland/ukraine-warum-kiew-den-krieg-nicht-gewinnen-kann-a-1016567.html|Autor=Uwe Klußmann|Titel=Ukraine-Konflikt: Warum Kiew den Krieg nicht gewinnen kann|Tag=5|Monat=Februar|Jahr=2015|Seiten=|Zugriff=15. Januar 2016 }}</ref>
+:[1] „Die Ankömmlinge sind meist so verblüfft, daß sie ihre schlimmen Vorsätze vergessen, mitunter sogar sich in herumalbernde große ''Kinder'' verwandeln.“<ref>{{Literatur | Autor=Christian Graf von Krockow | Titel=Die Stunde der Frauen |TitelErg=Bericht aus Pommern 1944 bis 1947. Nach einer Erzählung von Libussa Fritz-Krockow | Auflage= 11.|Verlag=Deutsche Verlags-Anstalt | Ort=Stuttgart/München | Jahr=2000 | ISBN=3-421-06396-6}}, Seite 76. Erstauflage 1988.</ref>
+:[1] „Wir haben hier zu unterscheiden zwischen dem Kinderwitz, das heißt dem von ''Kindern'' für ''Kinder'' produzierten Witz, den ''Kinder'' selbst erzählen und lustig finden, und dem sogenannten Kindermundwitz, der wirklichen oder vermeintlichen unfreiwilligen Komik ernstgemeinter kindlicher Aussagen für Erwachsene.“<ref>{{Literatur| Autor= Lutz Röhrich |Titel=Der Witz |TitelErg= Seine Formen und Funktionen. Mit tausend Beispielen in Wort und Bild |Verlag= Deutscher Taschenbuch Verlag |Ort= München |Jahr=1980 | Seiten= 80.| ISBN= 3-423-01564-0}} Abkürzungen aufgelöst.</ref>
+:[1] „Sie atment wie ein müdes ''Kind'' neben mir.“<ref>{{Literatur|Autor=Erich Maria Remarque|Titel=Der schwarze Obelisk|TitelErg=Geschichte einer verspäteten Jugend. Roman|Auflage=5.|Verlag=Kiepenheuer & Witsch|Ort=Köln|Jahr=2003|ISBN=3-462-02725-5|Seiten=149.}} Erstmals 1956 erschienen.</ref>
+:[2] Er war das zweitgeborene ''Kind'' in der Familie.
+:[2] „Jetzt lebten sechs von seinen sieben ''Kindern'', Enkelkindern und Urenkeln ebenfalls hier.“<ref>{{Literatur | Autor=Huldar Breiðfjörð | Titel=Schafe im Schnee | TitelErg=Ein Färöer-Roman|Verlag=Aufbau | Ort=Berlin | Jahr= 2013 | Seiten =119 | ISBN=978-3-351-03534-1}}, Isländisches Original 2009.</ref>
+:[2] „Denn ein ''Kind'' ist ein mächtiger Fixpunkt für Eltern, man kann sich da schnell untereinander aus den Augen verlieren.“<ref>{{Literatur| Autor= Mathias Schneider| Titel= Beziehungsfalle Kind |Sammelwerk= Stern| Nummer= Heft 6| Jahr=2017}}, Seite 44-51, Zitat Seite 51.</ref>
+:[3] „Mein ''Kind'' komm her!“
+
+{{Redewendungen}}
+:[[sich lieb Kind machen|sich lieb ''Kind'' machen]] – einschmeicheln
+:[[das Kind schon schaukeln|das ''Kind'' schon schaukeln]] – etwas trotz schwieriger Umstände voraussichtlich gut bewerkstelligen (Optimismus)
+:[[das Kind mit dem Bade ausschütten|das ''Kind'' mit dem Bade ausschütten]] – vorschnell reagieren
+:[[das Kind beim Namen nennen|das ''Kind'' beim Namen nennen]] – unverblümt reden
+:[[das Kind im Manne|das ''Kind'' im Manne]]
+:[[ein Kind des Todes sein|ein ''Kind'' des Todes sein]]
+:[[er ist wie ein großes Kind|er ist wie ein großes ''Kind'']] – Erwachsener, der gerne spielt
+:[[ein Kind erwarten|ein ''Kind'' erwarten]] – schwanger sein
+:jemanden [[an Kindes statt annehmen|an ''Kindes'' statt annehmen]] – jemanden adoptieren
+:[[jemandes Geistes Kind sein|jemandes Geistes ''Kind'' sein]] – dasselbe Gedankengut haben wie jemand anderer
+:[[mit Kind und Kegel|mit ''Kind'' und Kegel]]
+:[[zu etwas kommen wie die Jungfrau zum Kind|zu etwas kommen wie die Jungfrau zum ''Kind'']]
+
+{{Sprichwörter}}
+:[[aus Kindern werden Leute|aus ''Kindern'' werden Leute]]
+
+{{Charakteristische Wortkombinationen}}
+:[1] ''mit [[Adjektiv]]:'' ein [[erwünscht]]es ''Kind'' ({{Audio|De-ein erwünschtes Kind.ogg|Audio}}), ein [[gewollt]]es ''Kind'' ({{Audio|De-ein gewolltes Kind.ogg|Audio}}), [[vorehelich]]es ''Kind'' ({{Audio|De-voreheliches Kind.ogg|Audio}})
+
+{{Wortbildungen}}
+:''[[Adjektiv]]e/[[Adverb]]ien:'' [[kinderfeindlich]], [[kinderfreundlich]], [[kinderleicht]], [[kinderlos]], [[kindgemäß]], [[kindgerecht]], [[kindisch]], [[kindlich]]
+:''[[Substantiv]]e:'' [[Einkindfamilie]], [[Eltern-Kind-Zentrum]], [[Kindbett]], [[Kindelei]], [[Kinderarbeit]], [[Kinderarmut]], [[Kinderarzt]], [[Kinderarztpraxis]], [[Kinderaufzucht]], [[Kinderauge]], [[Kinderausweis]], [[Kinderauto]], [[Kinderball]], [[Kindermaskenball]], [[Kinderbadeanzug]], [[Kinderbadekappe]], [[Kinderbecken]], [[Kinderbein]], [[Kinderbekleidung]], [[Kinderbetreuung]], [[Kinderbett]], [[Kinderbibel]], [[Kinderbuch]], [[Kinderchirurg]], [[Kinderchor]], [[Kinderdarsteller]], [[Kinderdorf]], [[Kinderehe]], [[Kindererziehung]], [[Kinderfahrrad]], [[Kinderfasching]], [[Kinderfastnacht]], [[Kinderferienlager]], [[Kinderfernsehen]], [[Kinderfest]], [[Kinderficker]], [[Kinderfilm]], [[Kinderflüchtling]], [[Kinderfrage]], [[Kinderfrau]], [[Kinderfräulein]], [[Kinderfreibetrag]], [[Kinderfreund]], [[Kinderfriedhof]], [[Kinderfriseur]], [[Kinderfunk]], [[Kinderfürsorge]], [[Kinderfuß]], [[Kindergarten]], [[Kindergeburtstag]], [[Kindergeisel]], [[Kindergelächter]], [[Kindergeld]], [[Kindergeschrei]], [[Kindergesicht]], [[Kinderglaube]], [[Kindergottesdienst]], [[Kindergrab]], [[Kindergruppe]], [[Kinderhandel]], [[Kinderhandschuh]], [[Kinderheim]], [[Kinderheirat]], [[Kinderhilfsorganisation]], [[Kinderhilfswerk]], [[Kinderhort]], [[Kinderhospital]], [[Kinderhospiz]], [[Kinderhotel]], [[Kinderjahr]], [[Kinderkanal]], [[Kinderkleidung]], [[Kinderklinik]], [[Kindkönig]], [[Kinderkonzert]], [[Kinderkopf]], [[Kinderkörper]], [[Kinderkrankenhaus]], [[Kinderkrankenschwester]], [[Kinderkrankheit]], [[Kinderkrebspatient]], [[Kinderkreuzzug]], [[Kinderkriminalität]], [[Kinderkrippe]], [[Kinderlachen]], [[Kinderlager]], [[Kinderland]], [[Kinderlähmung]], [[Kinderleben]], [[Kinderleiche]], [[Kinderlied]], [[Kinderliteratur]], [[Kindermädchen]], [[Kindermärchen]], [[Kindermesse]], [[Kindermöbel]], [[Kindermodel]], [[Kindermörder]], [[Kindesmörder]], [[Kindernothilfe]], [[Kinderohr]], [[Kinderopfer]], [[Kinderparadies]], [[Kinderpate]], [[Kinderpause]], [[Kinderpflege]], [[Kinderpornografie]], [[Kinderportion]], [[Kinderprogramm]], [[Kinderprostitution]], [[Kinderpsychiatrie]], [[Kinderpsychologe]], [[Kinderpunsch]], [[Kinderrecht]], [[Kinderrechtsaktivist]], [[Kinderrechtskonvention]], [[Kinderreim]], [[Kinderrutsche]], [[Kinderschändung]], [[Kinderschauspieler]], [[Kinderschreibtisch]], [[Kinderschrift]], [[Kinderschuh]], [[Kinderschwester]], [[Kinderseite]], [[Kindersendung]], [[Kinderserie]], [[Kindersitz]], [[Kindersocke]], [[Kindersoldat]], [[Kinderspiel]], [[Kinderspielplatz]], [[Kinderspielzeug]], [[Kinderspital]], [[Kindersprache]], [[Kinderstar]], [[Kinderstation]], [[Kinderstimme]], [[Kinderstirn]], [[Kinderstube]], [[Kinderstuhl]], [[Kindertag]], [[Kindertagesstätte]], [[Kindertee]], [[Kinderteller]], [[Kindertheater]], [[Kindertoilette]], [[Kindervers]], [[Kindervorstellung]], [[Kinderwagen]], [[Kinderwärter]], [[Kinderwäsche]], [[Kinderwelt]], [[Kinderwindel]], [[Kinderwunsch]], [[Kinderzahl]], [[Kinderzahn]], [[Kinderzahncreme]], [[Kinderzahnheilkunde]], [[Kinderzahnmedizin]], [[Kinderzeichnung]], [[Kinderzeit]], [[Kinderzeltlager]], [[Kinderzimmer]], [[Kindesalter]], [[Kindesbein]], [[Kindesentführer]], [[Kindesliebe]], [[Kindesmissbrauch]], [[Kindesmisshandlung]], [[Kindesmord]], [[Kindesunterschiebung]], [[Kindesvergewaltigung]], [[Kindeswohl]], [[Kindfrau]], [[Kindheit]], [[Kindsbewegung]], [[Kindschaft]], [[Kindskopf]], [[Kindslage]], [[Kindsmord]], [[Kindsmörder]], [[Kindsmutter]], [[Kindspech]], [[Kindstaufe]], [[Kindsteil]], [[Kindstod]], [[Kindstötung]], [[Kindsvater]], [[Mehrkinderfamilie]], [[Menschenskind]]
+:''[[Verb]]en:'' [[abkindern]], [[kindeln]], [[kindschen]], [[verkindlichen]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=heranwachsender Mensch, aber noch kein Jugendlicher|Ü-Liste=
+*{{sq}}: {{Ü|sq|fëmijë}} {{f}}
+*{{grc}}: {{Üt|grc|παῖς}} {{mf}}
+*{{ar}}: {{Üt|ar|طفل|ṭifl}} {{m}}
+*{{hy}}: {{Üt|hy|երեխա|erexa}}
+*{{az}}: {{Ü|az|uşaq}}
+*{{as}}: {{Üt|as|শিশু|xixu}}
+*{{ban}}: {{Ü|ban|panak}}
+*{{ba}}: {{Üt|ba|бала|}}
+*{{eu}}: {{Ü|eu|haur}}
+*{{bn}}: {{Üt|bn|শিশু|śiśu}}
+*{{bs}}: {{Üt|bs|дијете}} {{n}}, {{Üt|bs|чедо}} {{n}}
+*{{br}}: {{Ü|br|bugel}}
+*{{bg}}: {{Üt|bg|дете}}
+*{{zh}}: {{Üt|zh|孩子|háizi}}, {{Üt|zh|儿童|értóng}}
+*{{da}}: {{Ü|da|barn}} {{n}}
+*{{en}}: {{Ü|en|child}}, {{Ü|en|kid}}, ''Slang:'' {{Ü|en|kiddo}}
+*{{eo}}: {{Ü|eo|infano}}
+*{{et}}: {{Ü|et|laps}}
+*{{fo}}: {{Ü|fo|barn}} {{n}}
+*{{fi}}: {{Ü|fi|lapsi}}
+*{{fr}}: {{Ü|fr|enfant}} {{m}}, {{Ü|fr|gosse}} {{m}}
+*{{fur}}: {{Ü|fur|frut}} {{m}}
+*{{ff}}: {{Ü|ff|ɓiɗɗo}}
+*{{gl}}: {{Ü|gl|neno}} {{m}}
+*{{ka}}: {{Üt|ka|ბავშვი|bavshvi}}
+*{{el}}: {{Üt|el|παιδί|pedí}} {{n}}
+*{{kl}}: {{Ü|kl|meeraq}}
+*{{gu}}: {{Üt|gu|બાળક|bāḷka}}
+*{{ha}}: {{Ü|ha|yaro}} {{m}}
+*{{he}}: {{Üt|he|ילד|yéled}} {{m}}
+*{{hi}}: {{Üt|hi|बच्चा|baccā}}
+*{{io}}: {{Ü|io|infanto}}, {{Ü|io|puero}}
+*{{id}}: {{Ü|id|anak}}
+*{{ia}}: {{Ü|ia|infante}}
+*{{iu}}: {{Üt|iu|ᐱᐊᕋᖅ|piaraq}}
+*{{ga}}: {{Ü|ga|gasúr}} {{m}}, {{Ü|ga|leanbh}} {{m}}, {{Ü|ga|páiste}} {{m}}
+*{{is}}: {{Ü|is|barn}}, {{Ü|is|krakki}}
+*{{it}}: {{Ü|it|bambino}} {{m}}, {{Ü|it|bambina}} {{f}}, {{Ü|it|bimbo}} {{m}}, {{Ü|it|bimba}}, {{f}}
+*{{sah}}: {{Üt|sah|оҕо|}}
+*{{ja}}: {{Üt|ja|子|こ, ko}}, {{Üt|ja|子供|こども, kodomo}}, {{Üt|ja|小人|しょうにん, shōnin}}, {{Üt|ja|児童|じどう, jidō}}, {{Üt|ja|童|わらべ, warabe}}
+*{{yi}}: {{Üt|yi|קינד|kind}}
+*{{kn}}: {{Üt|kn|ಮಗು|magu}}
+*{{kk}}: {{Üt|kk|бала|}}
+*{{csb}}: {{Ü|csb|dzeckò}}
+*{{ks}}: {{Üt|ks|شُر|šur}}
+*{{ca}}: {{Ü|ca|nen}} {{m}}, {{Ü|ca|nin}} {{m}}, {{Ü|ca|nena}} {{f}}, {{Ü|ca|nina}} {{f}}, {{Ü|ca|criatura}} {{f}}, {{Ü|ca|infant}} {{m}}
+*{{km}}: {{Üt|km|កូន|}}
+*{{ky}}: {{Üt|ky|бала|}}
+*{{tlh}}: {{Ü|tlh|puq}}
+*{{ko}}: {{Üt|ko|아이|ai}}, {{Üt|ko|어린이|eorini}}
+*{{kw}}: {{Ü|kw|flogh}} {{m}}
+*{{co}}: {{Ü|co|ziteddu}}, {{Ü|co|zitellu}}
+*{{crh}}: {{Ü|crh|bala}}
+*{{hr}}: {{Ü|hr|dijete}} {{n}}, ''regional:'' {{Ü|hr|dite}} {{n}}
+*{{ku}}:
+**{{kmr}}: {{Ü|kmr|zarok}}
+*{{la}}: {{Ü|la|infans|īnfāns}}, {{Ü|la|puer}}
+*{{ltg}}: {{Ü|ltg|bārns}} {{m}}
+*{{lv}}: {{Ü|lv|bērns}} {{m}}
+*{{lt}}: {{Ü|lt|vaikas}}
+*{{lb}}: {{Ü|lb|Kand}}
+*{{ml}}: {{Üt|ml|കുട്ടി|kuṭṭi}}
+*{{dv}}: {{Üt|dv|ކުއްޖާ|kujjā}}
+*{{mt}}: {{Ü|mt|tifel}} {{m}}
+*{{gv}}: {{Ü|gv|lhiannoo}}, {{Ü|gv|paitçhey}}
+*{{mr}}: {{Üt|mr|बालक|bālak}}
+*{{mk}}: {{Üt|mk|дете}} {{n}}
+*{{mnw}}: {{Ü|mnw|ကောန်}}
+*{{mn}}: {{Üt|mn|хүүхэд|}}
+*{{ne}}: {{Üt|ne|बालक|baalak}}
+*{{nl}}: {{Ü|nl|kind}} {{n}}
+*{{nso}}: {{Ü|nso|ngwana}}
+*{{se}}: {{Ü|se|mánná}}
+*{{no}}:
+**{{nb}}: {{Ü|nb|barn}} {{n}}
+**{{nn}}: {{Ü|nn|barn}}
+*{{oc}}: {{Ü|oc|enfant}} {{m}}
+*{{or}}: {{Üt|or|ଶିଶୁ|śiśu}}
+*{{os}}: {{Üt|os|сывӕллон}}
+*{{pa}}: {{Üt|pa|ਬੱਚਾ|baccā}}
+*{{ps}}: {{Üt|ps|ماشوم|māšūm}}
+*{{fa}}: {{Üt|fa|بچه|bæt͡ʃt͡ʃɛ}}
+*{{pl}}: {{Ü|pl|dziecię}} {{n}}, {{Ü|pl|dziecko}}
+*{{pt}}: {{Ü|pt|criança}} {{f}}
+*{{rm}}: {{Ü|rm|uffant}}
+*{{ro}}: {{Ü|ro|copil}} {{m}}
+*{{ru}}: {{Üt|ru|ребёнок}} {{m}}
+*{{sa}}: {{Üt|sa|कुमार|kumārá}}
+*{{gd}}: {{Ü|gd|patach}} {{m}}, {{Ü|gd|pàiste}} {{m}}
+*{{sv}}: {{Ü|sv|barn}} {{n}}
+*{{sco}}: {{Ü|sco|bairn}}
+*{{sr}}: {{Üt|sr|дете}} {{n}}, {{Üt|sr|чедо}} {{n}}, {{Üt|sr|чељаде}} {{n}}
+*{{sh}}: {{Üt|sh|дете}} {{n}}, {{Üt|sh|дијете}} {{n}}, {{Üt|sh|чедо}} {{n}}, {{Üt|sh|чељаде}} {{n}}
+*{{st}}: {{Ü|st|ngwana}} (Südafrika), {{Ü|st|ngoana}} (Lesotho)
+*{{sn}}: {{Ü|sn|mwana}}
+*{{sd}}: {{Üt|sd|ٻار|ɓāri}}
+*{{si}}: {{Üt|si|ළමයා|ḷamayā}}
+*{{scn}}: {{Ü|scn|picciriddu}} {{m}}
+*{{sk}}: {{Ü|sk|dieťa}} {{n}}
+*{{sl}}: {{Ü|sl|dete|déte}} {{n}}, {{Ü|sl|otrok|otròk}} {{m}}
+*{{wen}}:
+**{{dsb}}: {{Ü|dsb|góle}}, {{Ü|dsb|źiśe}}
+**{{hsb}}: {{Ü|hsb|dźěćo}}
+*{{es}}: {{Ü|es|niño}} {{m}}, {{Ü|es|niña}} {{f}}
+*{{srn}}: {{Ü|srn|buku}}
+*{{tg}}: {{Üt|tg|кӯдак}}
+*{{ta}}: {{Üt|ta|பிள்ளை|piḷḷai}}
+*{{tt}}: {{Üt|tt|бала}}
+*{{te}}: {{Üt|te|పిల్ల|pilla}}, {{Üt|te|పాప|pāpa}}, {{Üt|te|బిడ్డ|biḍḍa}}
+*{{tet}}: {{Ü|tet|labarik}}
+*{{th}}: {{Üt|th|เด็ก|dèk}}
+*{{bo}}: {{Üt|bo|ཕྲུ་གུ|phru gu}}
+*{{cs}}: {{Ü|cs|dítě}} {{n}}
+*{{ce}}: {{Üt|ce|бер}}
+*{{cv}}: {{Üt|cv|ача}}
+*{{tr}}: {{Ü|tr|çocuk}}
+*{{tk}}: {{Ü|tk|çaga}}
+*{{ug}}: {{Üt|ug|بالا|bala}}
+*{{uk}}: {{Üt|uk|дитина}}
+*{{hu}}: {{Ü|hu|gyerek}}
+*{{ur}}: {{Üt|ur|طفل|tifl}} {{m}}
+*{{uz}}: {{Ü|uz|bola}}
+*{{vo}}: {{Ü|vo|cil}}
+*{{cy}}: {{Ü|cy|plant}} {{m}}
+*{{wa}}: {{Ü|wa|efant}}
+*{{be}}: {{Üt|be|дзіця}} {{n}}
+*{{fy}}: {{Ü|fy|bern}}
+*{{yo}}: {{Ü|yo|ọmọ}}
+|Dialekttabelle=
+*[[Bairisch]]: [?] [[Kindl]], <small>''abwertend:''</small> Schraaz, Gschropp
+*[[Berlinisch]]: [[Gör]], [[Göre]], [[Bolle]]
+*[[Düsseldorferisch]]: [?] Panz, Kengk
+*[[Eiflerisch]]: King, Puht
+*[[Fränkisch]]: [?] [[Kindla]]
+*[[Hamburgisch]]: Buttjer
+*[[Kölsch]]: [?] Kind, Panz, Puut, Stropp, (''Pl.:'' Kinder, [[Pänz]], Puute, Ströpp)
+*[[Masematte]]: Koten
+*[[Mölmsch]]: [?] Poos, Puut, Stüppke (''Pl.:'' Pööste, Puute)
+*[[Ruhrdeutsch]]: Blag [bla:χ] (''Pl.:'' Blagen, Blagens); auch: Köttel (kleines Kind; im Pl. nicht gebräuchlich)
+*[[Schwäbisch]]: Kend, Kender (''Pl.'')
+*[[Schweizerdeutsch]]: Chind, <small>''abwertend:''</small> Goof
+*[[Vorarlbergerisch]]: Kiand, Goof ''Pl:'' [[Goofa]], Goog ''Pl:'' [[Googa]], Göbl, Balg
+*[[Wäller Platt]]: [[Kinnche]], [[Künnche]]
+*[[Walserisch]]: [?] [[Chend]] ''Pl:'' [[Googa]]
+}}
+
+{{Ü-Tabelle|2|G=Mensch, mit Bezug auf seine familiäre Zugehörigkeit (Beziehung der Abkommenschaft)|Ü-Liste=
+*{{grc}}: {{Üt|grc|τέκνον}} {{n}}
+*{{en}}: {{Ü|en|child}}, {{Ü|en|kid}}, ''Slang:'' {{Ü|en|kiddo}}, {{Ü|en|offspring}}
+*{{et}}: {{Ü|et|laps}}
+*{{fi}}: {{Ü|fi|lapsi}}
+*{{fr}}: {{Ü|fr|enfant}} {{m}}, {{Ü|fr|gosse}} {{m}}
+*{{ka}}: {{Üt|ka|შვილი|shvili}}
+*{{el}}: {{Üt|el|παιδί|pedí}} {{n}}, {{Üt|el|τέκνο|tékno}} {{n}}
+*{{ia}}: {{Ü|ia|infante}}
+*{{iu}}: {{Üt|iu|ᓄᑕᕋᖅ|nutaraq}}
+*{{is}}: {{Ü|is|barn}}
+*{{it}}: {{Ü|it|figlio}} {{m}}
+*{{ja}}: {{Üt|ja|子|こ, ko}}, {{Üt|ja|子供|こども, kodomo}}
+*{{ca}}: {{Ü|ca|nen}} {{m}}, {{Ü|ca|nin}} {{m}}, {{Ü|ca|nena}} {{f}}, {{Ü|ca|nina}} {{f}}, {{Ü|ca|criatura}} {{f}}, {{Ü|ca|infant}} {{m}}
+*{{tlh}}: {{Ü|tlh|puq}}
+*{{crh}}: {{Ü|crh|bala}}
+*{{nl}}: {{Ü|nl|kind}} {{n}}
+*{{no}}:
+**{{nb}}: {{Ü|nb|barn}} {{n}}, {{Ü|nb|avkom}} {{n}}
+**{{nn}}: {{Ü|nn|barn}}, {{Ü|nn|avkjøme}}, {{Ü|nn|avkom}}
+*{{oc}}: {{Ü|oc|enfant}} {{m}}
+*{{fa}}: {{Üt|fa|کودک|cudæc}}
+*{{pl}}: {{Ü|pl|dziecko}}
+*{{pt}}: {{Ü|pt|criança}} {{f}}
+*{{ro}}: {{Ü|ro|prunc}} {{m}}, {{Ü|ro|progenitură}} {{f}}
+*{{ru}}: {{Üt|ru|ребёнок}} {{m}}, {{Üt|ru|дитя}} {{n}}
+*{{sv}}: {{Ü|sv|barn}} {{n}}, {{Ü|sv|unge}} {{u}}
+*{{sk}}: {{Ü|sk|dieťa}} {{n}}
+*{{es}}: {{Ü|es|niño}} {{m}}, {{Ü|es|niña}} {{f}}
+*{{sw}}: {{Ü|sw|mwana}}, {{Ü|sw|mtoto}}
+*{{th}}: {{Üt|th|ลูก|lûuk}}
+*{{cs}}: {{Ü|cs|dítě}} {{n}}
+*{{tr}}: {{Ü|tr|çocuk}}
+|Dialekttabelle=
+*[[Bairisch]]: [?] [[Kindl]], <small>''abwertend:''</small> Schraaz, Gschropp
+*[[Berlinisch]]: [[Gör]], [[Göre]], [[Bolle]]
+*[[Düsseldorferisch]]: [?] Panz, Kengk
+*[[Eiflerisch]]: King, Puht
+*[[Fränkisch]]: [?] [[Kindla]]
+*[[Hamburgisch]]: Buttjer
+*[[Kölsch]]: [?] Kind, Panz, Puut, Stropp, (''Pl.:'' Kinder, [[Pänz]], Puute, Ströpp)
+*[[Masematte]]: Koten
+*[[Mölmsch]]: [?] Poos, Puut, Stüppke (''Pl.:'' Pööste, Puute)
+*[[Schwäbisch]]: Kend, Kender (''Pl.'')
+*[[Schweizerdeutsch]]: Chind, <small>''abwertend:''</small> Goof
+*[[Vorarlbergerisch]]: Kiand, Goof ''Pl:'' [[Goofa]], Goog ''Pl:'' [[Googa]], Göbl, Balg
+*[[Walserisch]]: [?] [[Chend]] ''Pl:'' [[Googa]]
+}}
+
+{{Ü-Tabelle|3|G=vertrauliche Anrede|Ü-Liste=
+*{{en}}: {{Ü|en|child}}, {{Ü|en|kid}}, ''Slang:'' {{Ü|en|kiddo}}
+*{{fi}}: {{Ü|fi|lapsi}}
+*{{fr}}: {{Ü|fr|enfant}} {{m}}, {{Ü|fr|gosse}} {{m}}
+*{{ka}}: {{Üt|ka|შვილი|shvili}}
+*{{it}}: {{Ü|it|bambinone}} {{m}}, {{Ü|it|pivello}} {{m}}
+*{{nl}}: {{Ü|nl|kind}} {{n}}
+*{{oc}}: {{Ü|oc|enfant}} {{m}}
+*{{pt}}: {{Ü|pt|criança}} {{f}}
+*{{ro}}: {{Ü|ro|odraslă}} {{f}}
+*{{sv}}: {{Ü|sv|barn}} {{n}}
+*{{sk}}: {{Ü|sk|dieťa}} {{n}}
+*{{cs}}: {{Ü|cs|dítě}} {{n}}
+*{{tr}}: {{Ü|tr|çocuk}}
+|Dialekttabelle=
+*[[Bairisch]]: [?] [[Kindl]], <small>''abwertend:''</small> Schraaz, Gschropp
+*[[Berlinisch]]: [[Gör]], [[Göre]], [[Bolle]]
+*[[Düsseldorferisch]]: [?] Panz, Kengk
+*[[Eiflerisch]]: King, Puht
+*[[Fränkisch]]: [?] [[Kindla]]
+*[[Hamburgisch]]: Buttjer
+*[[Kölsch]]: [?] Kind, Panz, Puut, Stropp, (''Pl.:'' Kinder, [[Pänz]], Puute, Ströpp)
+*[[Masematte]]: Koten
+*[[Mölmsch]]: [?] Poos, Puut, Stüppke (''Pl.:'' Pööste, Puute)
+*[[Schwäbisch]]: Kend, Kender (''Pl.'')
+*[[Schweizerdeutsch]]: Chind, <small>''abwertend:''</small> Goof
+*[[Vorarlbergerisch]]: Kiand, Goof ''Pl:'' [[Goofa]], Goog ''Pl:'' [[Googa]], Göbl, Balg
+*[[Walserisch]]: [?] [[Chend]] ''Pl:'' [[Googa]]
+}}
+
+{{Referenzen}}
+:[*] {{Wikipedia-Suche}}
+:[1–3] {{Ref-Grimm}}
+:[1–3] {{Ref-DWDS}}
+:[*] {{Ref-OWID}}
+:[1–3] {{Ref-FreeDictionary}}
+:[1–3] {{Ref-Duden}}
+:[*] {{Ref-UniLeipzig}}
+
+{{Quellen}}
+
+{{Ähnlichkeiten 1|[[Kid]], [[King]], [[Kink]], [[Kinn]], [[Kino]], [[kund]], [[lind]], [[Rind]], [[sind]], [[Wind]]}}
+
+{{Ähnlichkeiten 2|[[kid]], [[kind]]}}
+
+{{Verwandte (Deutsch)}}

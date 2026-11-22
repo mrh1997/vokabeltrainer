@@ -279,3 +279,14 @@ export function parseForeignEntry(
 		auxiliary: params.get('Hilfsverb') || undefined
 	};
 }
+
+/**
+ * All parameters of the inflection table ("… Übersicht") of a word, e.g.
+ * for German "gehen": Präsens_ich=gehe, Präteritum_ich=ging, Hilfsverb=sein.
+ * The word-type block matching `pos` is preferred.
+ */
+export function overviewParams(wikitext: string, languageName: string, pos: Pos): Map<string, string> {
+	const blocks = wortartBlocks(languageSections(wikitext, languageName));
+	const block = blocks.find((b) => b.pos === pos) ?? blocks[0];
+	return block ? parseOverview(block.body).params : new Map();
+}

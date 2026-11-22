@@ -1,0 +1,105 @@
+== good ({{Sprache|Englisch}}) ==
+=== {{Wortart|Adjektiv|Englisch}} ===
+
+{{Englisch Adjektiv Übersicht
+|Positiv=good
+|Komparativ=better
+|Superlativ=best
+}}
+
+{{Worttrennung}}
+:good, {{Komp.}} bet·ter, {{Sup.}} best
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ɡʊd|spr=en}}
+:{{Hörbeispiele}} {{Audio|En-uk-good.ogg|spr=uk}}, {{Audio|En-us-good.ogg|spr=us}}
+:{{Reime}} {{Reim|ʊd|Englisch}}
+
+{{Bedeutungen}}
+:[1] [[gut]]
+:[2] (Kinder) [[brav]]
+:[3] [[gültig]]
+
+{{Herkunft}}
+:von [[angelsächsisch]] ''gōd'' von [[germanisch]] ''*gothaz'' (vergleiche [[deutsch]] ''[[gut]],'' [[niederländisch]] ''[[goed]],'' [[gotisch]] ''goþs'') von [[indogermanisch]] ''*ghedh-'' „vereinigen, sich beziehen auf“<ref>{{Ref-OEtymD|good}}</ref>
+
+{{Beispiele}}
+:[1] It's pretty ''good''.
+::Es ist ziemlich ''gut''.
+:[2] Be a ''good'' girl.
+::Sei ein ''braves'' Mädchen.
+:[3] {{Beispiele fehlen|spr=en}}
+
+{{Wortbildungen}}
+:[[goodbye]], [[goodies]], [[goodness]], [[goodnight]], [[goodtime]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=gut|Ü-Liste=
+*{{de}}: {{Ü|de|gut}}
+}}
+
+{{Ü-Tabelle|2|G=(Kinder) brav|Ü-Liste=
+*{{de}}: {{Ü|de|brav}}
+}}
+
+{{Ü-Tabelle|3|G=gültig|Ü-Liste=
+*{{de}}: {{Ü|de|gültig}}
+}}
+
+{{Referenzen}}
+:[1] {{Ref-MWD}}
+:[1] {{Ref-MWT}}
+:[1] {{Ref-Dictionary}}
+:[1] {{Ref-Pons|en}}
+:[1] {{Ref-dictcc}}
+:[1] {{Ref-Leo|en}}
+{{Referenzen prüfen|Englisch}}
+
+=== {{Wortart|Substantiv|Englisch}} ===
+
+{{Englisch Substantiv Übersicht
+|Singular=good
+|Plural=goods
+}}
+
+{{Worttrennung}}
+:good, {{Pl.}} goods
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ɡʊd|spr=en}}
+:{{Hörbeispiele}} {{Audio|}}
+:{{Reime}} {{Reim|ʊd|Englisch}}
+
+{{Bedeutungen}}
+:[1] das [[Gut]]
+:[2] (nur Singular) [[Gutes]]
+
+{{Beispiele}}
+:[1] Some of the ''goods'' are missing.
+::Einige ''Güter'' fehlen.
+:[2] Only do ''good.''
+::Tue nur ''Gutes.''
+
+{{Charakteristische Wortkombinationen}}
+:to accept delivery of the ''goods'' - die Waren annehmen
+:''goods'' and services - Waren und Dienstleistungen
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=das Gut|Ü-Liste=
+*{{de}}: {{Ü|de|Gut}} {{n}}
+}}
+
+{{Ü-Tabelle|2|G=(nur Singular) Gutes|Ü-Liste=
+*{{de}}: {{Ü|de|Gutes}}
+}}
+
+{{Referenzen}}
+:[1] {{Ref-MWD}}
+:[1] {{Ref-MWT}}
+:[1] {{Ref-Dictionary}}
+:[1] {{Ref-Pons|en}}
+:[1] {{Ref-dictcc}}
+:[1] {{Ref-Leo|en}}
+{{Referenzen prüfen|Englisch}}
+
+{{Quellen}}

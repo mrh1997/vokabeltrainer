@@ -72,6 +72,27 @@ test('add a word with forms, quiz it, delete it', async ({ page }) => {
 	const week = page.locator('section.week');
 	await expect(week.locator('.row')).toHaveCount(3);
 	await expect(week.locator('.answer')).toHaveText(['aller', 'il va', 'il est allé']);
+	await expect(week.locator('.form-label')).toHaveText(['er geht', 'er ist gegangen']);
+
+	// cards from older app versions (no German prompt stored) are upgraded automatically
+	await page.evaluate(
+		() =>
+			new Promise<void>((resolve) => {
+				const open = indexedDB.open('vokabeltrainer');
+				open.onsuccess = () => {
+					const store = open.result.transaction('cards', 'readwrite').objectStore('cards');
+					store.getAll().onsuccess = (e) => {
+						for (const c of (e.target as IDBRequest).result) {
+							delete c.prompt;
+							store.put(c);
+						}
+						store.transaction.oncomplete = () => resolve();
+					};
+				};
+			})
+	);
+	await page.reload();
+	await expect(week.locator('.form-label')).toHaveText(['er geht', 'er ist gegangen']);
 	await expect(week.locator('.badge')).toHaveText(['1', '1', '1']);
 	await expect(week.locator('h3')).toContainText(/KW \d+ \/ \d{4}/);
 
@@ -79,9 +100,10 @@ test('add a word with forms, quiz it, delete it', async ({ page }) => {
 	await page.goto('./fr/abfragen');
 	const answerInput = page.getByLabel('Übersetzung auf Französisch');
 	for (let i = 0; i < 3; i++) {
-		await expect(page.locator('.prompt')).toHaveText('gehen');
-		const label = (await page.locator('.form-label').count()) ? await page.locator('.form-label').textContent() : '';
-		const expected = label?.includes('Passé composé') ? 'il est allé' : label?.includes('Präsens') ? 'il va' : 'aller';
+		// special forms are asked by their German counterpart
+		await expect(page.locator('.prompt')).toHaveText(/^(gehen|er geht|er ist gegangen)$/);
+		const prompt = await page.locator('.prompt').textContent();
+		const expected = { gehen: 'aller', 'er geht': 'il va', 'er ist gegangen': 'il est allé' }[prompt!]!;
 		await answerInput.fill(expected);
 		await answerInput.press('Enter');
 		await expect(page.getByText('✓ Richtig!')).toBeVisible();
@@ -105,8 +127,12 @@ test('add a word with forms, quiz it, delete it', async ({ page }) => {
 	await expect(week.locator('.badge').filter({ hasNotText: '1' })).not.toHaveCount(0);
 
 	// Delete the main word (and its forms)
-	page.once('dialog', (d) => d.accept());
 	await page.getByRole('button', { name: 'aller löschen' }).click();
+	await expect(page.getByRole('alertdialog')).toContainText('„aller“ und 2 Sonderform(en) löschen?');
+	await page.getByRole('alertdialog').getByRole('button', { name: 'Abbrechen' }).click();
+	await expect(page.locator('section.week .row')).toHaveCount(3);
+	await page.getByRole('button', { name: 'aller löschen' }).click();
+	await page.getByRole('alertdialog').getByRole('button', { name: 'Löschen' }).click();
 	await expect(page.locator('section.week')).toHaveCount(0);
 });
 

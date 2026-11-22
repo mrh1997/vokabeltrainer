@@ -49,6 +49,9 @@
 
 	let active = $state(-1);
 	let focused = $state(false);
+	// Closing on blur is delayed so a click on a suggestion still counts;
+	// a quick re-focus must cancel the pending close.
+	let blurTimer: ReturnType<typeof setTimeout> | undefined;
 
 	$effect(() => {
 		// reset the highlight whenever the list changes
@@ -94,8 +97,14 @@
 		bind:this={input}
 		onkeydown={keydown}
 		oninput={() => oninput?.(value)}
-		onfocus={() => (focused = true)}
-		onblur={() => setTimeout(() => (focused = false), 150)}
+		onfocus={() => {
+			clearTimeout(blurTimer);
+			focused = true;
+		}}
+		onblur={() => {
+			clearTimeout(blurTimer);
+			blurTimer = setTimeout(() => (focused = false), 150);
+		}}
 	/>
 	{#if open}
 		<ul class="list" id={`${id}-list`} role="listbox">

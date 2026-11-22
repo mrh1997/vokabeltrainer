@@ -11,8 +11,10 @@ export interface Card {
 	lang: string;
 	/** German word as entered, e.g. "gehen". */
 	german: string;
-	/** For special forms: German label, e.g. "Vergangenheit". */
+	/** For special forms: grammatical description, e.g. "Präsens: ich". */
 	formLabel?: string;
+	/** For special forms: the German counterpart asked in the quiz, e.g. "ich gehe". */
+	prompt?: string;
 	/** Exact text to type, e.g. "to go" or "went". */
 	answer: string;
 	/** German meaning the translation was chosen for (display only). */
@@ -110,7 +112,13 @@ export interface NewWord {
 	pos?: Card['pos'];
 	gender?: Card['gender'];
 	audio?: { id: string; blob: Blob };
-	forms: { label: string; answer: string }[];
+	forms: FormInput[];
+}
+
+export interface FormInput {
+	label: string;
+	answer: string;
+	prompt?: string;
 }
 
 function newCard(base: Omit<Card, 'id' | 'box' | 'asked' | 'correct'>): Card {
@@ -137,7 +145,7 @@ export async function addWord(w: NewWord): Promise<Card> {
 	await tx.objectStore('cards').put(main);
 	for (const [order, f] of w.forms.entries()) {
 		await tx.objectStore('cards').put(
-			newCard({ lang: w.lang, german: w.german, formLabel: f.label, answer: f.answer, parentId: main.id, createdAt, order })
+			newCard({ lang: w.lang, german: w.german, formLabel: f.label, prompt: f.prompt, answer: f.answer, parentId: main.id, createdAt, order })
 		);
 	}
 	if (!(await tx.objectStore('languages').get(w.lang))) await tx.objectStore('languages').put({ code: w.lang, addedAt: createdAt });
@@ -149,7 +157,7 @@ export async function addWord(w: NewWord): Promise<Card> {
  * Makes the special forms of a main card match `forms`: missing ones are
  * added (box 1), unticked ones removed, kept ones keep their progress.
  */
-export async function setForms(main: Card, forms: { label: string; answer: string }[]): Promise<void> {
+export async function setForms(main: Card, forms: FormInput[]): Promise<void> {
 	const d = await db();
 	const existing = await d.getAllFromIndex('cards', 'byParent', main.id);
 	const key = (f: { label?: string; formLabel?: string; answer: string }) => `${f.formLabel ?? f.label}|${f.answer}`;
@@ -159,12 +167,31 @@ export async function setForms(main: Card, forms: { label: string; answer: strin
 	for (const [order, f] of forms.entries()) {
 		const kept = existing.find((c) => key(c) === key(f));
 		if (kept) {
-			if (kept.order !== order) await tx.store.put({ ...kept, order });
+			if (kept.order !== order || kept.prompt !== f.prompt) await tx.store.put({ ...kept, order, prompt: f.prompt ?? kept.prompt });
 			continue;
 		}
 		await tx.store.put(
-			newCard({ lang: main.lang, german: main.german, formLabel: f.label, answer: f.answer, parentId: main.id, createdAt: main.createdAt, order })
+			newCard({
+				lang: main.lang,
+				german: main.german,
+				formLabel: f.label,
+				prompt: f.prompt,
+				answer: f.answer,
+				parentId: main.id,
+				createdAt: main.createdAt,
+				order
+			})
 		);
+	}
+	await tx.done;
+}
+
+/** Stores German prompts for special forms (id → prompt; "" = looked up, none available). */
+export async function setPrompts(prompts: Map<string, string>): Promise<void> {
+	const tx = (await db()).transaction('cards', 'readwrite');
+	for (const [id, prompt] of prompts) {
+		const card = await tx.store.get(id);
+		if (card) await tx.store.put({ ...card, prompt });
 	}
 	await tx.done;
 }

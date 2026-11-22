@@ -15,3 +15,15 @@ describe('recordingSays', () => {
 		expect(recordingSays('Fr-chien.ogg', 'le chien')).toBe(false);
 	});
 });
+
+describe('recordingSays with bare words', () => {
+	it('rejects recordings that say more than the word', () => {
+		expect(recordingSays('Fr-une bête.ogg', 'bête')).toBe(false);
+		expect(recordingSays('De-aller2.ogg', 'aller')).toBe(false);
+	});
+
+	it('accepts recordings with region or speaker parts', () => {
+		expect(recordingSays('En-us-inlandnorth-gut.ogg', 'gut')).toBe(true);
+		expect(recordingSays('LL-Q150 (fra)-Yug-aller.wav', 'aller')).toBe(true);
+	});
+});

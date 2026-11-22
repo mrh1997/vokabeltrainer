@@ -105,7 +105,7 @@
 				onclick={() => toggle(i)}
 			>
 				<span class="box" aria-hidden="true">{checked[key(f)] ? '✓' : ''}</span>
-				<span class="label">{f.label}</span>
+				<span class="label">{f.prompt ?? f.label}</span>
 				<span class="answer" {lang}>{f.answer}</span>
 			</li>
 		{/each}
@@ -217,8 +217,7 @@
 	}
 
 	.label {
-		color: var(--muted);
-		font-size: 0.92rem;
+		font-size: 0.95rem;
 	}
 
 	.answer {

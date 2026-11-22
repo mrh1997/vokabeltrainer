@@ -22,6 +22,7 @@
 	} from '#lib/lookup/index.ts';
 	import { playBlob, playCard, speak } from '#lib/audio/index.ts';
 	import { connection } from '#lib/online.svelte.ts';
+	import { addMissingPrompts } from '#lib/upgrade.ts';
 
 	let { data } = $props();
 	const lang = $derived(data.language);
@@ -57,7 +58,9 @@
 
 	$effect(() => {
 		lang.code;
-		reload();
+		reload().then(async () => {
+			if (await addMissingPrompts(lang)) await reload();
+		});
 	});
 
 	$effect(() => {
@@ -146,7 +149,7 @@
 		busy = true;
 		error = '';
 		try {
-			const details = await getDetails(t, lang);
+			const details = await getDetails(t, lang, chosenGerman);
 			const audio = details.audioFile ? await downloadAudio(details.audioFile) : undefined;
 			if (audio) playBlob(audio).catch(() => speak(details.answer, lang.code));
 			else speak(details.answer, lang.code);
@@ -203,10 +206,12 @@
 	// ---------- List actions ----------
 
 	async function remove(card: Card) {
-		const forms = cards.filter((c) => c.parentId === card.id).length;
-		const text = forms ? `„${card.answer}“ und ${forms} Sonderform(en) löschen?` : `„${card.answer}“ löschen?`;
-		if (!confirm(text)) return;
-		await deleteCard(card);
+		error = '';
+		try {
+			await deleteCard(card);
+		} catch (e) {
+			error = `Löschen fehlgeschlagen: ${(e as Error).message}`;
+		}
 		await reload();
 	}
 
@@ -214,7 +219,7 @@
 		if (!card.word) return;
 		error = '';
 		try {
-			const details = await getDetails({ word: card.word, pos: card.pos ?? 'other', gender: card.gender }, lang);
+			const details = await getDetails({ word: card.word, pos: card.pos ?? 'other', gender: card.gender }, lang, card.german);
 			const existing = cards.filter((c) => c.parentId === card.id);
 			const initial = details.forms.filter((f) => existing.some((c) => c.formLabel === f.label && c.answer === f.answer));
 			if (details.forms.length === 0) {

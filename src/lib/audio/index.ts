@@ -5,6 +5,7 @@
 import { getAudio } from '#lib/db/index.ts';
 import { findLanguage } from '#lib/languages.ts';
 import { recordingSays } from '#lib/lookup/recordings.ts';
+import { voiceStatus } from './voice-status.svelte.ts';
 
 let current: HTMLAudioElement | undefined;
 let currentUrl: string | undefined;
@@ -16,12 +17,44 @@ function stop() {
 	if (typeof speechSynthesis !== 'undefined') speechSynthesis.cancel();
 }
 
-export function speak(text: string, lang: string): void {
+/** The browser loads its voice list asynchronously; wait for it (at most ~1.5 s). */
+async function voices(): Promise<SpeechSynthesisVoice[]> {
+	let list = speechSynthesis.getVoices();
+	if (list.length) return list;
+	await new Promise<void>((resolve) => {
+		const done = () => resolve();
+		speechSynthesis.addEventListener('voiceschanged', done, { once: true });
+		setTimeout(done, 1500);
+	});
+	return speechSynthesis.getVoices();
+}
+
+/** Best voice for a BCP-47 tag like "fr-FR": exact region first, then any of the language. */
+export function pickVoice(list: SpeechSynthesisVoice[], tag: string): SpeechSynthesisVoice | undefined {
+	const norm = (s: string) => s.toLowerCase().replace('_', '-');
+	const want = norm(tag);
+	const base = want.split('-')[0];
+	const sameLang = list.filter((v) => norm(v.lang).split('-')[0] === base);
+	return sameLang.find((v) => norm(v.lang) === want && v.localService) ?? sameLang.find((v) => norm(v.lang) === want) ?? sameLang[0];
+}
+
+/**
+ * Speaks `text` with a voice of the card's language. If the device has no
+ * such voice nothing is spoken (a German voice reading French sounds wrong)
+ * and `voiceStatus.missing` tells the UI to show a hint.
+ */
+export async function speak(text: string, lang: string): Promise<void> {
 	if (typeof speechSynthesis === 'undefined') return;
+	const tag = findLanguage(lang)?.speech ?? lang;
+	const voice = pickVoice(await voices(), tag);
+	if (!voice) {
+		voiceStatus.missing = findLanguage(lang)?.name ?? lang;
+		return;
+	}
 	const u = new SpeechSynthesisUtterance(text);
-	u.lang = findLanguage(lang)?.speech ?? lang;
-	const voice = speechSynthesis.getVoices().find((v) => v.lang.toLowerCase().startsWith(u.lang.toLowerCase().slice(0, 2)));
-	if (voice) u.voice = voice;
+	u.lang = voice.lang;
+	u.voice = voice;
+	speechSynthesis.cancel();
 	speechSynthesis.speak(u);
 }
 
@@ -39,7 +72,7 @@ export async function playBlob(blob: Blob): Promise<void> {
  */
 export async function playCard(card: { audioId?: string; answer: string; lang: string }): Promise<void> {
 	try {
-		const fits = card.audioId && (recordingSays(card.audioId, card.answer) || !/[\s']/.test(card.answer));
+		const fits = card.audioId && recordingSays(card.audioId, card.answer);
 		const blob = fits ? await getAudio(card.audioId!) : undefined;
 		if (blob) {
 			await playBlob(blob);
@@ -49,5 +82,5 @@ export async function playCard(card: { audioId?: string; answer: string; lang: s
 		// fall through to speech synthesis
 	}
 	stop();
-	speak(card.answer, card.lang);
+	await speak(card.answer, card.lang);
 }

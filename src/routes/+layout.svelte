@@ -6,6 +6,7 @@
 	import { findLanguage } from '#lib/languages.ts';
 	import { requestPersistence } from '#lib/db/index.ts';
 	import { connection } from '#lib/online.svelte.ts';
+	import { voiceStatus } from '#lib/audio/voice-status.svelte.ts';
 
 	let { children } = $props();
 
@@ -48,6 +49,17 @@
 	</header>
 
 	<main>
+		{#if voiceStatus.missing}
+			<div class="voice-hint" role="alert">
+				<p>
+					<strong>Keine Stimme für {voiceStatus.missing} auf diesem Gerät.</strong> Wörter ohne Aufnahme können deshalb nicht
+					vorgelesen werden. Installiere eine Sprachausgabe für {voiceStatus.missing} – unter Windows: Einstellungen → Zeit und
+					Sprache → Sprache und Region → Sprache hinzufügen (mit „Sprachausgabe“); auf Android/iOS in den Einstellungen unter
+					„Sprachausgabe“ bzw. „Gesprochene Inhalte“. Danach den Browser neu starten.
+				</p>
+				<button class="icon-btn" aria-label="Hinweis schließen" onclick={() => (voiceStatus.missing = null)}>✕</button>
+			</div>
+		{/if}
 		{@render children()}
 	</main>
 
@@ -125,6 +137,23 @@
 		color: var(--bad);
 		font-size: 0.8rem;
 		font-weight: 600;
+	}
+
+	.voice-hint {
+		display: flex;
+		align-items: flex-start;
+		gap: 0.5rem;
+		margin-bottom: 1rem;
+		padding: 0.6rem 0.6rem 0.6rem 1rem;
+		border-radius: 10px;
+		background: var(--bad-soft);
+		color: var(--text);
+		font-size: 0.92rem;
+	}
+
+	.voice-hint p {
+		margin: 0.2rem 0;
+		flex: 1;
 	}
 
 	main {
