@@ -35,6 +35,8 @@ export interface ForeignEntry {
 	audioFiles: string[];
 	/** Inflected forms that differ from the word itself. */
 	forms: RawForm[];
+	/** Nouns only used in the singular ("information") or only in the plural ("scissors"), including plural forms ("parents"). */
+	number?: 'singularOnly' | 'pluralOnly';
 	/** Auxiliary verb for compound tenses (French "avoir"/"être"). */
 	auxiliary?: string;
 }
@@ -281,8 +283,21 @@ export function parseForeignEntry(
 		gender,
 		audioFiles,
 		forms: forms.filter((f) => f.value !== word),
+		number: grammaticalNumber(block, params),
 		auxiliary: params.get('Hilfsverb') || undefined
 	};
+}
+
+/** Whether a noun block describes a word without plural ("Plural=—") or without singular. */
+function grammaticalNumber(block: { pos: Pos; body: string }, params: Map<string, string>): ForeignEntry['number'] {
+	// a page that only describes an inflected form: "Plural des Substantivs '''[[parent]]'''"
+	if (block.pos === 'other') return /^\*\s*Plural des Substantivs/m.test(block.body) ? 'pluralOnly' : undefined;
+	if (block.pos !== 'noun') return undefined;
+	// "(furnitures)" = hardly ever used
+	const missing = (v: string | undefined) => v !== undefined && (/^[—–-]$/.test(v) || /^\(.*\)$/.test(v));
+	if (missing(params.get('Singular'))) return 'pluralOnly';
+	const plurals = [...params].filter(([k]) => /^Plural( \d+)?$/.test(k)).map(([, v]) => v);
+	return plurals.length && plurals.every(missing) ? 'singularOnly' : undefined;
 }
 
 /**
@@ -294,6 +309,16 @@ export function overviewParams(wikitext: string, languageName: string, pos: Pos)
 	const blocks = wortartBlocks(languageSections(wikitext, languageName));
 	const block = blocks.find((b) => b.pos === pos) ?? blocks[0];
 	return block ? parseOverview(block.body).params : new Map();
+}
+
+/**
+ * True if a German noun denotes a person, recognised by its page naming a
+ * female or male counterpart (Italiener → Italienerin, but not Italienisch).
+ */
+export function germanNounIsPerson(wikitext: string): boolean {
+	return wortartBlocks(languageSections(wikitext, 'Deutsch')).some(
+		(b) => b.pos === 'noun' && /\{\{(Weibliche|Männliche) Wortformen\}\}/.test(b.body)
+	);
 }
 
 /**

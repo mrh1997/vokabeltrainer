@@ -1,0 +1,78 @@
+== advice ({{Sprache|Englisch}}) ==
+=== {{Wortart|Substantiv|Englisch}} ===
+
+{{Englisch Substantiv Übersicht
+|Singular=advice
+|Plural=advices
+}}
+
+{{Worttrennung}}
+:ad·vice, {{Pl.}} ad·vices
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ədˈvaɪs|spr=en}}
+:{{Hörbeispiele}} {{Audio|En-us-advice.ogg|spr=us}}
+:{{Reime}} {{Reim|aɪs|Englisch}}
+
+{{Bedeutungen}}
+:[1] {{K|ft=nur [[Singular]]|spr=en}} Meinung oder Vorschlag, wie jemand handeln soll; Rat, Ratschlag
+:[2] {{K|Finanzen|Recht|spr=en}} Benachrichtigung über eine Transaktion; Meldung, Anzeige, Avis
+
+{{Herkunft}}
+:seit dem 13. Jahrhundert belegte [[Entlehnung]] aus dem [[altfranzösisch]]en ''{{Ü|fro|avis}}''<ref>{{Lit-Onions: Oxford Dictionary of English Etymology|A=1994}}, Seite 15.</ref>
+
+{{Beispiele}}
+:[1] She gave me some useful ''advice''.
+::Sie gab mir einen nützlichen ''Rat''.
+:[1] I need your ''advice'' about this problem.
+::Ich brauche deinen ''Rat'' zu diesem Problem.
+:[1] He asked his teacher for ''advice''.
+::Er bat seinen Lehrer um ''Rat''.
+:[1] They followed the doctor’s ''advice''.
+::Sie befolgten den ''Rat'' des Arztes.
+:[1] Let me give you a piece of ''advice''.
+::Lass mich dir einen ''Rat'' geben.
+:[1] "Mr. Sherlock Holmes drove with me to the station and gave me his last parting injunctions and ''advice.''"<ref>{{DiB-Project Gutenberg eBook | Online=http://www.gutenberg.org/files/3070/3070-h/3070-h.htm | Autor={{WP|Arthur Conan Doyle}} | Titel=The Hound of the Baskervilles | Kapitel=Kapitel 6: Baskerville Hall }}</ref>
+::Mr. Sherlock Holmes fuhr mit mir zum Bahnhof und gab mir seine letzten Befehle zum Abschied und ''Ratschläge.''
+:[2] We have received ''advice'' of payment from the bank.
+::Wir haben eine Zahlungs''mitteilung'' von der Bank erhalten.
+:[2] The customer was sent an ''advice'' of delivery.
+::Dem Kunden wurde eine Liefer''mitteilung'' geschickt.
+
+{{Charakteristische Wortkombinationen}}
+:[1] [[bad]] ''advice'', [[clear]] ''advice'', [[conflicting]] ''advice'', [[constructive]] ''advice'', [[detailed]] ''advice'', [[dietary]] ''advice'', [[excellent]] ''advice'', [[expert]] ''advice'', [[financial]] ''advice'', [[free]] ''advice'', [[general]] ''advice'', [[good]] ''advice'', [[helpful]] ''advice'', [[impartial]] ''advice'', [[independent]] ''advice'', [[invaluable]] ''advice'', [[legal]] ''advice'', [[medical]] ''advice'', [[pratical]] ''advice'', [[professional]] ''advice'', [[scientific]] ''advice'', [[sensible]] ''advice'', [[specialist]] ''advice'', [[sound]] ''advice'', [[technical]] ''advice'', [[unbiased]] ''advice'', [[unsolicited]] ''advice'', [[useful]] ''advice'', [[valuable]] ''advice'', [[wrong]] ''advice''
+:[1] [[business]] ''advice'', [[career]] ''advice'', [[consumer]] ''advice'', [[debt]] ''advice'', [[health]] ''advice'', [[tax]] ''advice'', [[travel]] ''advice''
+:[1] [[to]] [[accept]] ''advice'', [[to]] [[ask]] ([[for]]) ''advice'', [[to]] [[disregard]] ''advice'', [[to]] [[follow]] ''advice'', [[to]] [[get]] ''advice'', [[to]] [[give]] ''advice'', [[to]] [[ignore]] ''advice'', [[to]] [[obtain]] ''advice'', [[to]] [[offer]] ''advice'', [[to]] [[pass on]] ''advice'', [[to]] [[provide]] ''advice'', [[to]] [[receive]] ''advice'', [[to]] [[reject]] ''advice'', [[to]] [[seek]] ''advice'', [[to]] [[take]] ''advice''
+:[1] [[a]] [[bit]] [[of]] ''advice'', [[a]] [[piece]] [[of]] ''advice'', [[a]] [[word]] [[of]] ''advice''
+:[1] [[against]] [[somebody]]’s ''advice'', [[on]] [[somebody]]’s ''advice''
+:[2] [[a]]n ''advice'' [[of]] [[delivery]], [[a]]n ''advice'' [[of]] [[dispatch]], [[a]]n ''advice'' [[of]] [[sale]]
+
+{{Wortbildungen}}
+:[1] [[advice column]], [[advice columnist]]
+:[2] [[advice of dispatch]] - ''Versandanzeige''
+:[2] [[advice note]], [[advice of shipment]] - ''Verschiffungsanzeige''
+:[2] [[shipping advice]] - ''Verschiffungsanzeige''
+<!--:[[advising bank]] - ''avisierende Bank''-->
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Meinung oder Vorschlag, wie jemand handeln soll|Ü-Liste=
+*{{de}}: {{Ü|de|Rat}} {{m}}, {{Ü|de|Ratschlag}} {{m}}
+}}
+
+{{Ü-Tabelle|2|G=MBenachrichtigung über eine Transaktion|Ü-Liste=
+*{{de}}: {{Ü|de|Meldung}} {{f}}, {{Ü|de|Anzeige}} {{f}}, {{Ü|de|Avis}} {{mn.}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=en|Advice (opinion)}}
+:[1, 2] {{Ref-MWD|advice}}
+:[1, 2] {{Ref-MWT|advice}}
+:[1, 2] {{Ref-Dictionary|advice}}
+:[1, 2] {{Ref-Pons|en|advice}}
+:[1, 2] {{Ref-dictcc|advice}}
+:[1, 2] {{Ref-Leo|en|advice}}
+:[1, 2] {{Lit-Oxford: Oxford Dictionary of English|A=2}}, Seite 5.
+:[1] {{Lit-Hornby: Oxford Advanced Learner’s Dictionary|A=9}}, Seite 3.
+:[1] {{Lit-McIntosh: Cambridge Advanced Learner’s Dictionary|A=4}}, Seite 4.
+
+{{Quellen}}

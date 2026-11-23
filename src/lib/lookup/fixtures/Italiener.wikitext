@@ -1,0 +1,115 @@
+{{Siehe auch|[[italiener]]}}
+== Italiener ({{Sprache|Deutsch}}) ==
+=== {{Wortart|Substantiv|Deutsch}}, {{m}} ===
+
+{{Deutsch Substantiv Übersicht
+|Genus=m
+|Nominativ Singular=Italiener
+|Nominativ Plural=Italiener
+|Genitiv Singular=Italieners
+|Genitiv Plural=Italiener
+|Dativ Singular=Italiener
+|Dativ Plural=Italienern
+|Akkusativ Singular=Italiener
+|Akkusativ Plural=Italiener
+}}
+
+{{Worttrennung}}
+:Ita·li·e·ner, {{Pl.}} Ita·li·e·ner
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|itaˈli̯eːnɐ}}
+:{{Hörbeispiele}} {{Audio|De-Italiener.ogg}}
+:{{Reime}} {{Reim|eːnɐ|Deutsch}}
+
+{{Bedeutungen}}
+:[1] ein [[Bewohner]] [[Italien]]s
+:[2] {{K|ugs.}} ein [[Restaurant]] mit [[italienisch]]er [[Küche]], ein [[Betreiber]], [[Inhaber]] ein solchen Restaurants
+
+{{Herkunft}}
+:[[Ableitung]] von ''[[Italien]]'' mit dem [[Derivatem]] ([[Ableitungsmorphem]]) ''[[-er]]''
+
+{{Synonyme}}
+:[1] ''sämtlich {{ugs.}} und [[abwertend]]:'' [[Itaka]], [[Itaker]], [[Katzelmacher]], [[Spagettifresser]]/[[Spaghettifresser]]
+:[2] [[Ristorante]]
+
+{{Sinnverwandte Wörter}}
+:[2] [[Osteria]]
+
+{{Weibliche Wortformen}}
+:[1] [[Italienerin]]
+
+{{Oberbegriffe}}
+:[1] [[Europäer]]
+
+{{Unterbegriffe}}
+:[1] [[Apulier]], [[Florentiner]], [[Genuese]], [[Lombarde]], [[Mailänder]], [[Neapolitaner]], [[Römer]], [[Sarde]], [[Sardinier]], [[Sizilianer]], [[Südtiroler]], [[Toskanier]], [[Venezianer]]
+:[1] [[Norditaliener]], [[Süditaliener]]
+:[2] [[Pizzeria]]
+
+{{Beispiele}}
+:[1] Der ''Italiener'' hat ein sprichwörtliches Temperament.
+:[1] „Der Fall Maradona ist den ''Italienern'' noch bekannt, weil dem Fußballer einst ein Diamantohrring und zwei goldene Rolex-Uhren beschlagnahmt wurden, um einen Teil seiner Steuerschuld zu tilgen.“<ref>{{Internetquelle | url= https://www.sueddeutsche.de/geld/steuerhinterziehung-mailaender-maetzchen-1.1027425-2 | titel= Ein italienisches Problem | zugriff=2019-03-27}}</ref>
+:[2] Der ''Italiener'' an der Ecke stellt als erster die Stühle vor die Tür und ist im richtigen Leben Grieche.
+:[2] „Am Wochenende darauf lud er mich erneut zu dem ''Italiener'' ein, bei dem wir das erste Date gehabt hatten und gestand mir seine Liebe.“<ref>{{Literatur | Autor= Elisabeth Beer| Titel=Die Bücherjägerin |TitelErg=Roman|Auflage= 1.| Verlag=DuMont | Ort=Köln | Jahr=2023 | ISBN =978-3-8321- 6638-0}}, Seite 241.</ref>
+:[1] „Sie hätten wohl nicht zufällig Lust, den neuen ''Italiener'' auszuprobieren, der hier in der Nähe aufgemacht hat?“<ref>{{Literatur |Autor=Doris Gercke|Titel= Auf Leben und Tod | TitelErg= Ein Bella Block Roman| Auflage= |Verlag= Hoffmann und Campe|Ort= Hamburg |Jahr=1995| Seiten= 28.|ISBN=3-455-02289-8}}</ref>
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=ein Bewohner Italiens|Ü-Liste=
+*{{sq}}: {{Ü|sq|italian}} {{m}}
+*{{hy}}: {{Üt|hy|իտալիացի}}
+*{{bg}}: {{Üt|bg|италианец}} {{m}}
+*{{zh}}: {{Üt|zh|意大利人|Yìdàlì rén}}
+*{{da}}: {{Ü|da|italiener}} {{u}}
+*{{en}}: {{Ü|en|Italian}}
+*{{eo}}: {{Ü|eo|italo}}
+*{{et}}: {{Ü|et|itaallane}}
+*{{fo}}: {{Ü|fo|itali}}, {{Ü|fo|italiari}}, {{Ü|fo|italiamaður}}
+*{{fi}}: {{Ü|fi|italialainen}}
+*{{fr}}: {{Ü|fr|Italien}} {{m}}
+*{{el}}: {{Üt|el|Ιταλός|Italós}}
+*{{io}}: {{Ü|io|Italiano}}
+*{{ia}}: {{Ü|ia|italiano}}
+*{{is}}: {{Ü|is|Ítali}}
+*{{it}}: {{Ü|it|italiano#Substantiv,_m|italiano}} {{m}}
+*{{ca}}: {{Ü|ca|italià}} {{m}}
+*{{hr}}: {{Ü|hr|Talijan}} {{m}}
+*{{lv}}: {{Ü|lv|itāļi}}, {{Ü|lv|itālis}} {{m}}
+*{{lt}}: {{Ü|lt|italas}}
+*{{mk}}: {{Üt|mk|италијанец|italijanec}} {{m}}
+*{{nl}}: {{Ü|nl|Italiaan}} {{m}}
+*{{no}}: {{Ü|no|italiener}} {{m}}
+*{{pl}}: {{Ü|pl|Włoch}} {{m}}
+*{{pt}}: {{Ü|pt|italiano}}
+*{{rm}}: {{Ü|rm|Talian}}
+*{{ro}}: {{Ü|ro|italian}} {{m}}
+*{{ru}}: {{Üt|ru|итальянец}} {{m}}
+*{{sv}}: {{Ü|sv|italienare}}
+*{{sr}}: {{Üt|sr|италијан|italijan}} {{m}}
+*{{sh}}: {{Üt|sh|италијан|italijan}} {{m}}
+*{{scn}}: {{Ü|scn|talianu}} {{m}}
+*{{sk}}: {{Ü|sk|Talian}} {{m}}
+*{{sl}}: {{Ü|sl|italijan}} {{m}}
+*{{wen}}:
+**{{dsb}}: {{Ü|dsb|Italianaŕ}}
+**{{hsb}}: {{Ü|hsb|Italčan}}
+*{{es}}: {{Ü|es|italiano}} {{m}}
+*{{cs}}: {{Ü|cs|Ital}} {{m}}
+*{{tr}}: {{Ü|tr|İtalyan}}
+*{{uk}}: {{Üt|uk|італієць|}} {{m}}
+*{{hu}}: {{Ü|hu|olasz}}
+*{{be}}: {{Üt|be|італьянец|}} {{m}}
+}}
+
+{{Ü-Tabelle|2|G=italienisches Lokal|Ü-Liste=
+*{{sv}}: {{Ü|sv|italienare}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|Italiener}}
+:[1, 2] {{Wikipedia|Italiener (Begriffsklärung)}}
+:[1] {{Ref-DWDS|Italiener}}
+:[1] {{Ref-UniLeipzig|Italiener}}
+:[1] {{Ref-FreeDictionary|Italiener}}
+
+{{Quellen}}

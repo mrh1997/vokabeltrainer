@@ -37,15 +37,20 @@
 		loaded = true;
 		session = { asked: 0, correct: 0 };
 		await next();
-		// cards without a recording get one in the background (online only)
-		fillMissingAudio(lang.code);
-		// older special-form cards: fetch their German prompt, then refresh what is shown
+		// cards from older app versions: look up their prompt and answer again, then refresh what is shown
 		if (await addMissingPrompts(lang)) {
 			const fresh = await listCards(lang.code);
 			const byId = new Map(fresh.map((c) => [c.id, c]));
-			cards = cards.map((c) => (byId.get(c.id) ? { ...c, prompt: byId.get(c.id)!.prompt } : c));
-			if (current) current = { ...current, prompt: byId.get(current.id)?.prompt };
+			const refresh = (c: Card): Card => {
+				const f = byId.get(c.id);
+				return f ? { ...c, prompt: f.prompt, answer: f.answer, audioCheckedAt: f.audioCheckedAt } : c;
+			};
+			cards = cards.map(refresh);
+			// an answer already checked stays on screen as it was asked
+			if (current && !result) current = refresh(current);
 		}
+		// cards without a recording get one in the background (online only)
+		fillMissingAudio(lang.code);
 	}
 
 	async function next() {
@@ -99,7 +104,7 @@
 	const hint = $derived.by(() => {
 		if (!current) return '';
 		if (current.parentId) return '';
-		if (lang.code === 'en') return 'Nomen mit a/an, Verben mit to';
+		if (lang.code === 'en') return 'Zählbare Nomen mit a/an, Verben mit to';
 		if (['fr', 'es', 'it', 'pt', 'nl'].includes(lang.code)) return 'Nomen mit Artikel';
 		return '';
 	});

@@ -1,0 +1,113 @@
+{{Siehe auch|[[italienisch]]}}
+== Italienisch ({{Sprache|Deutsch}}) ==
+=== {{Wortart|Substantiv|Deutsch}}, {{n}} ===
+
+{{Deutsch Substantiv Übersicht -sch
+}}
+
+{{Worttrennung}}
+:Ita·li·e·nisch, {{Sg.2}} das Ita·li·e·ni·sche, {{kPl.}}
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ˌitaˈli̯eːnɪʃ}}
+:{{Hörbeispiele}} {{Audio|De-Italienisch.ogg}}
+:{{Reime}} {{Reim|eːnɪʃ|Deutsch}}
+
+{{Bedeutungen}}
+:[1] in [[Italien]] und der Südschweiz gesprochene [[romanisch]]e Sprache
+:[2] Unterrichtsfach, in dem die italienische Sprache gelehrt wird
+:[3] eine Eröffnung im [[Schach]]
+
+{{Abkürzungen}}
+:[1] ''ISO 639-1:'' [[it]], ''ISO 639-2:'' [[ita]]
+
+{{Herkunft}}
+:[[Substantivierung]] des Adjektivs [[italienisch]]
+
+{{Synonyme}}
+:[3] [[Giuoco Piano]], [[Italienische Partie]]
+
+{{Oberbegriffe}}
+:[1] [[romanische Sprache]]
+:[2] [[Unterrichtsfach]]
+:[3] [[Eröffnung]]
+
+{{Beispiele}}
+:[1] Sprechen Sie ''Italienisch?''
+:[1] Wie heißt das auf ''Italienisch?''
+:[1] Wie kann ich mein ''Italienisch'' verbessern?
+:[1] Das ''Italienische'' ist mit dem Rumänischen verwandt.
+:[1] „Das ''Italienische'' und die anderen romanischen Sprachen kennen kein Neutrum.“<ref>{{Literatur |Autor= Daniel Scholten | Titel= Denksport Deutsch |TitelErg= Wer hat bloß die Gabel zur Frau und den Löffel zum Mann gemacht?| Auflage= |Verlag= dtv| Ort= München| Jahr= 2016 | ISBN=978-3-423-26134-0| Seiten=30.}}</ref>
+:[1] „Dann begann er, auf ''Italienisch'' mit Joyce zu plaudern, was Sylvia ärgerte, denn ihr ''Italienisch'' war nicht sehr gut,und sie konnte dem Gespräch nicht recht folgen.“<ref>{{Literatur | Autor= Kerri Maher| Titel=Die Buchhändlerin von Paris |TitelErg=Roman|Auflage= 2.| Übersetzer=Claudia Feldmann| Verlag=Insel | Ort=Berlin | Jahr=2023 | ISBN=978-3-458-68233-2| Seiten= 107.}} 1. Auflage 2022; englisches Original 2022</ref>
+:[2] Sie ist sehr gut in ''Italienisch.''
+:[3] ''Italienisch'' ist eine sehr alte Eröffnung, die heute etwas aus der Mode gekommen ist.
+
+{{Wortbildungen}}
+:[[Altitalienisch]], [[Italienischkurs]], [[Italienischunterricht]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=in Italien und der Südschweiz gesprochene romanische Sprache|Ü-Liste=
+*{{bs}}: {{Ü|bs|italijanski}} {{m}}
+*{{bg}}: {{Üt|bg|италиански|italianski}}
+*{{zh-tw}}: {{Üt|zh|意大利語|Yìdàlì yǔ}}
+*{{zh-cn}}: {{Üt|zh|意大利语|Yìdàlì yǔ}}
+*{{en}}: {{Ü|en|Italian}}
+*{{fr}}: {{Ü|fr|italien}}
+*{{ka}}: {{Üt|ka|იტალიური|italiuri}}
+*{{ia}}: {{Ü|ia|italiano}}
+*{{it}}: {{Ü|it|italiano}} {{m}}
+*{{ja}}: {{Üt|ja|イタリア語|イタリアご, ''Itaria''go}}, {{Üt|ja|伊語|いご, igo}}
+*{{kk}}: {{Üt|kk|италиян тілі|}}
+*{{ky}}: {{Üt|ky|италян тили|}}
+*{{hr}}: {{Ü|hr|italijanski}} {{m}}
+*{{lv}}: {{Ü|lv|itāļu valoda}}
+*{{lt}}: {{Ü|lt|italų kalba}}
+*{{lb}}: {{Ü|lb|Italienesch}}
+*{{mk}}: {{Üt|mk|италијански|italijanski}} {{m}}
+*{{nl}}: {{Ü|nl|Italiaans}} {{n}}
+*{{no}}: {{Ü|no|italiensk}}
+*{{pl}}: {{Ü|pl|włoski}} {{m}}, {{Ü|pl|język włoski}} {{m}}
+*{{pt}}: {{Ü|pt|italiano}} {{m}}
+*{{rm}}: {{Ü|rm|talian}}
+*{{ro}}: {{Ü|ro|italiană}} {{f}}
+*{{ru}}: {{Üt|ru|итальянский}}, {{Üt|ru|итальянский язык}} {{m}}
+*{{sv}}: {{Ü|sv|italienska}}
+*{{sr}}: {{Üt|sr|италијански|italijanski}} {{m}}
+*{{sh}}: {{Üt|sh|италијански|italijanski}} {{m}}
+*{{scn}}: {{Ü|scn|talianu}} {{m}}
+*{{sk}}: {{Ü|sk|taliančina}} {{f}}
+*{{sl}}: {{Ü|sl|italijanščina}} {{f}}
+*{{wen}}:
+**{{dsb}}: {{Ü|dsb|italšćina}} {{f}}
+**{{hsb}}: {{Ü|hsb|italšćina}} {{f}}, {{Ü|hsb|italska rěč}} {{f}}
+*{{es}}: {{Ü|es|italiano}} {{m}}
+*{{cs}}: {{Ü|cs|italština}} {{f}}
+*{{tr}}: {{Ü|tr|İtalyanca}}
+*{{uk}}: {{Üt|uk|італійська мова}}
+*{{hu}}: {{Ü|hu|olasz}}
+*{{be}}: {{Üt|be|італьянская|}} {{f}}
+*{{zza}}: {{Ü|zza|italyanki}}
+}}
+
+{{Ü-Tabelle|2|G=Unterrichtsfach, in dem die italienische Sprache gelehrt wird|Ü-Liste=
+*{{ia}}: {{Ü|ia|italiano}}
+*{{sv}}: {{Ü|sv|italienska}}
+*{{cs}}: {{Ü|cs|italština}} {{f}}
+}}
+
+{{Ü-Tabelle|3|G=eine Eröffnung im Schach|Ü-Liste=
+*{{en}}: {{Ü|en|Italian Game}}, {{Ü|en|Giuoco Piano}}
+*{{sv}}: {{Ü|sv|italiensk öppning}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|Italienische Sprache}}
+:[1, 3] {{Wikipedia|Italienisch}}
+:[1, 2] {{Ref-UniLeipzig|Italienisch}}
+:[1] [[Wiktionary:Italienisch]]
+
+{{Quellen}}
+
+{{Ähnlichkeiten 1|[[italienisch]], [[Jenisch]]}}
+
+[[Kategorie:Italienisch|!]]

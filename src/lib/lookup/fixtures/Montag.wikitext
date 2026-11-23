@@ -1,0 +1,261 @@
+== Montag ({{Sprache|Deutsch}}) ==
+=== {{Wortart|Substantiv|Deutsch}}, {{m}} ===
+
+{{Deutsch Substantiv Übersicht
+|Genus=m
+|Nominativ Singular=Montag
+|Nominativ Plural=Montage
+|Genitiv Singular=Montags
+|Genitiv Singular*=Montages
+|Genitiv Plural=Montage
+|Dativ Singular=Montag
+|Dativ Singular*=Montage
+|Dativ Plural=Montagen
+|Akkusativ Singular=Montag
+|Akkusativ Plural=Montage
+}}
+
+{{Nebenformen}}
+:''veraltet:'' [[Mondtag]]<ref>{{Ref-Adelung|Mondtag|id=M02006}}</ref><ref>{{Ref-Kruenitz|Mondtag}}</ref>
+
+{{Worttrennung}}
+:Mon·tag, {{Pl.}} Mon·ta·ge
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ˈmoːnˌtaːk}}
+:{{Hörbeispiele}} {{Audio|Montag.ogg}}, {{Audio|De-Montag.ogg}}, {{Audio|LL-Q188 (deu)-Sebastian Wallroth-Montag.wav}}
+:{{Reime}} {{Reim|oːntaːk|Deutsch}}
+
+{{Bedeutungen}}
+:[1] erster Wochentag gemäß ISO 8601<ref>Wikipedia: [[w:Woche#Zählweise_nach_ISO_8601|ISO 8601]]</ref>; zweiter Wochentag nach jüdischer, christlicher und islamischer Zählung; Tag zwischen [[Sonntag]] und [[Dienstag]]
+
+{{Abkürzungen}}
+:[1] [[M]], [[M.]], [[Mo.]], [[Mon.]], [[Mt.]]; ''Plural:'' [[Mte.]]
+
+{{Herkunft}}
+:von {{gmh.}} ''{{Ü|gmh|māntag}}, {{Ü|gmh|mōntac}}, {{Ü|gmh|mēntac}}'', {{goh.}} ''{{Ü|goh|mānotag}}'' (''Tag des [[Mond]]es''); [[Lehnübersetzung]] des lateinischen ''{{Ü|la|dies Lunae|diēs Lūnae|L=E}}'' (''Tag der Mondgöttin [[Luna]]''), das auf {{gr.}} ''{{Üt|grc|ἡμέρα Σελήνης|L=E}}'' „Tag der Mondgöttin [[Selene]]“ zurückgeht. Das Wort ist seit dem 11. Jahrhundert belegt.<ref>{{Literatur|Autor=Wolfgang Pfeifer [Leitung]|Titel=Etymologisches Wörterbuch des Deutschen|Auflage=2. durchgesehene und erweiterte|Verlag=Deutscher Taschenbuch Verlag|Ort=München|Jahr=1993|ISBN=3-423-03358-4}}, Stichwort „Montag“.</ref>
+
+{{Oberbegriffe}}
+:[1] [[Wochentag]], [[Werktag]], [[Tag]], ''siehe auch:'' [[Verzeichnis:Deutsch/Zeit und Kalender]]
+
+{{Unterbegriffe}}
+:[1] [[Kulturmontag]], [[Themenmontag]]
+:[1] ''nach Kalender:'' [[Güdelmontag]], [[Güdismontag]], [[Kerwemontag]], [[Kirmesmontag]], [[Rosenmontag]], [[Ostermontag]], [[Pfingstmontag]]
+
+{{Beispiele}}
+:[1] Letzten ''Montag'' war ich im Kino.
+:[1] „Es ist Sonntag gewesen, und nun ist es ''Montag'' geworden, auch in Altholm.“<ref>{{Literatur | Autor=Hans Fallada | Titel=Bauern, Bonzen und Bomben | TitelErg=Roman | Verlag=Aufbau | Ort=Berlin | Jahr= 2011 | Seiten =128. | ISBN=978-3-7466-2793-9}} Erstveröffentlichung 1931.</ref>
+:[1] „Es war eines ''Montags'' im Juni, mitten am Vormittag, und überall waren Rennschlangen: sie sonnten sich, zu schwarzen Spiralen zusammengerollt, auf den Zaunpfählen.“<ref>{{Literatur | Autor=Marc Steadman | Titel=Schwarze Chronik | Übersetzer=[[w:Elisabeth Schnack|Elisabeth Schnack]] | TitelErg=Ein Südstaaten-Dekameron | Verlag=Fischer Taschenbuch Verlag | Ort=Frankfurt am Main | Jahr=1980 | ISBN=3-596-22489-6 | Seiten=267 | Originaltitel=MacAfee county | Kommentar=englische Originalausgabe 1970 }}.</ref>
+
+{{Redewendungen}}
+:[[blauer Montag]]
+
+{{Wortbildungen}}
+:[[montägig]], [[montäglich]], [[montagabends]], [[montagmittags]], [[montagmorgens]], [[montagnachmittags]], [[montagnachts]], [[montags]], [[montagvormittags]]
+:[[Aftermontag]], [[Montagabend]], [[Montagfrüh]], [[Montagmittag]], [[Montagmorgen]], [[Montagnachmittag]], [[Montagnacht]], [[Montagsauto]], [[Montagsdemonstration]] ([[Montagsdemo]]), [[Montagsdepression]], [[Montagswagen]], [[Montagszeitung]], [[Montagvormittag]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=erster Wochentag gemäß ISO 8601; zweiter Wochentag nach jüdischer, christlicher und islamischer Zählung|Ü-Liste=
+*{{sq}}: {{Ü|sq|e hënë}}
+*{{non}}: {{Ü|non|mánudagr}}
+*{{ar}}: {{Üt|ar|يوم الاثنين|jaum al-iṯnain}}
+*{{hy}}: {{Üt|hy|երկուշաբթի}}
+*{{az}}: {{Ü|az|bazar ertəsi}}
+*{{ast}}: {{Ü|ast|llunes}}
+*{{ba}}: {{Üt|ba|дүшәмбе|}}
+*{{eu}}: {{Ü|eu|astelehen}}
+*{{my}}: {{Üt|my|တနင်္လာ|}}
+*{{bs}}: {{Ü|bs|ponedeljak}} {{m}}
+*{{br}}: {{Ü|br|Lun}} {{m}}
+*{{bg}}: {{Üt|bg|понеделник}} {{m}}
+*{{zh}}: {{Üt|zh|星期一|xīngqīyī}}
+*{{da}}: {{Ü|da|mandag}}
+*{{en}}: {{Ü|en|Monday}}
+*{{eo}}: {{Ü|eo|lundo}}
+*{{et}}: {{Ü|et|esmaspäev}}
+*{{fo}}: {{Ü|fo|mánadagur}}
+*{{fi}}: {{Ü|fi|maanantai}}
+*{{fr}}: {{Ü|fr|lundi}} {{m}}
+*{{fur}}: {{Ü|fur|lunis}}
+*{{gl}}: {{Ü|gl|luns}}
+*{{ka}}: {{Üt|ka|ორშაბათი|orshabati}}
+*{{el}}: {{Üt|el|Δευτέρα|Devtéra, Dheftéra}} {{f}}
+*{{kl}}: {{Ü|kl|ataasinngorneq}}
+*{{ht}}: {{Ü|ht|lendi}}
+*{{haw}}: {{Ü|haw|Pōʻakahi}}
+*{{he}}: {{Üt|he|יום שני|yom šayní}}
+*{{hi}}: {{Üt|hi|सोमवार|somavār}}
+*{{io}}: {{Ü|io|lundio}}
+*{{id}}: {{Ü|id|Senin}}
+*{{ia}}: {{Ü|ia|lunedi}}
+*{{ga}}: {{Ü|ga|Luan}} {{m}}
+*{{is}}: {{Ü|is|mánudagur}}
+*{{it}}: {{Ü|it|lunedì}} {{m}}
+*{{sah}}: {{Üt|sah|бэнидиэнньик|}}
+*{{ja}}: {{Üt|ja|月曜日|げつようび, getsuyōbi}}
+*{{yi}}: {{Üt|yi|מאָנטיק|montik}} {{m}}
+*{{kk}}: {{Üt|kk|дүйсенбі|}}
+*{{csb}}: {{Ü|csb|pòniedzôłk}} {{m}}
+*{{ca}}: {{Ü|ca|dilluns}}
+*{{ky}}: {{Üt|ky|дүйшөмбү|}}
+*{{kv}}: {{Üt|kv|выльлун| }}
+*{{koi}}: {{Üt|koi|вильлун|viľlun}}
+*{{ko}}: {{Üt|ko|월요일|wolyoil}}
+*{{kw}}: {{Ü|kw|de'Lun}} {{m}}, {{Ü|kw|dy'Lun}} {{m}}, {{Ü|kw|Lun}} {{m}}
+*{{co}}: {{Ü|co|luni}}
+*{{hr}}: {{Ü|hr|ponedjeljak}} {{m}}
+*{{ku}}:
+**{{kmr}}: {{Ü|kmr|duşem}}
+**{{ckb}}: {{Üt|ckb|دووشەممە|dûşemme}}
+*{{la}}: {{Ü|la|dies Lunae}}
+*{{lv}}: {{Ü|lv|pirmdiena}}
+*{{lt}}: {{Ü|lt|pirmadienis}}
+*{{liv}}: {{Ü|liv|ežžõmpǟva}}
+*{{lb}}: {{Ü|lb|Méindeg}}
+*{{mt}}: {{Ü|mt|it-Tnejn}}
+*{{gv}}: {{Ü|gv|Lhein}}
+*{{mi}}: {{Ü|mi|Mane}}
+*{{mk}}: {{Üt|mk|понеделник}} {{m}}
+*{{nl}}: {{Ü|nl|maandag}}
+*{{frr}}: {{Ü|frr|mandi}}
+*{{se}}: {{Ü|se|mánnodat}}, {{Ü|se|vuossárga}}
+*{{no}}:
+**{{nb}}: {{Ü|nb|mandag}}
+**{{nn}}: {{Ü|nn|måndag}}
+*{{nov}}: {{Ü|nov|lundie}}
+*{{oc}}: {{Ü|oc|diluns}} {{m}}, ''[[aranesisch]]:'' {{Ü|oc|deluns}} {{m}}
+*{{os}}: {{Üt|os|къуырисӕр|}}
+*{{fa}}: {{Üt|fa|دوشنبه|došanbe}}
+*{{pl}}: {{Ü|pl|poniedziałek}} {{m}}
+*{{pt}}: {{Ü|pt|segunda-feira}} {{f}}, / ''{{L|Kurzform}}:'' {{Ü|pt|segunda}} {{f}}
+*{{rm}}: {{Ü|rm|glindesdi}}
+*{{rom}}: {{Ü|rom|luja}} {{f}}
+*{{ro}}: {{Ü|ro|luni}} {{f}}
+*{{ru}}: {{Üt|ru|понедельник}} {{m}}
+*{{sc}}: {{Ü|sc|lunis}}
+*{{gd}}: {{Ü|gd|Diluain}} {{m}}
+*{{sv}}: {{Ü|sv|måndag}} {{u}}
+*{{sco}}: {{Ü|sco|Monanday}}
+*{{sr}}: {{Üt|sr|понедељак}} {{m}}
+*{{st}}: {{Ü|st|Mantaha}}
+*{{sjn}}: {{Ü|sjn|Orithil}}
+*{{si}}: {{Üt|si|සඳුද|Sanduda}}
+*{{scn}}: {{Ü|scn|luni}}
+*{{sk}}: {{Ü|sk|pondelok}} {{m}}
+*{{sl}}: {{Ü|sl|ponedeljek}} {{m}}
+*{{wen}}:
+**{{dsb}}: {{Ü|dsb|pónjeźele}}
+**{{hsb}}: {{Ü|hsb|póndźela}}
+*{{es}}: {{Ü|es|lunes}}
+*{{sw}}: {{Ü|sw|Jumatatu}}
+*{{tg}}: {{Üt|tg|душанбе}}
+*{{tt}}: {{Üt|tt|дүшәмбе|}}
+*{{th}}: {{Üt|th|วันจันทร์|Van Tchan, wanjan}}
+*{{ti}}: {{Üt|ti|ሰኑይ|}}
+*{{cs}}: {{Ü|cs|pondělí}}
+*{{ce}}: {{Üt|ce|оршот| }}
+*{{cv}}: {{Üt|cv|тунтикун| }}
+*{{tr}}: {{Ü|tr|Pazartesi}} (wenn bestimmter Tag), {{Ü|tr|pazartesi}} (i.A.)
+*{{tk}}: {{Ü|tk|duşenbe}}
+*{{ug}}: {{Üt|ug|دۈشەنبە|düshenbe}}
+*{{uk}}: {{Üt|uk|понеділок}} {{m}}
+*{{hu}}: {{Ü|hu|hétfő}}
+*{{ur}}: {{Üt|ur|پیر|pīr}} {{m}}
+*{{uz}}: {{Ü|uz|dushanba}}
+*{{vec}}: {{Ü|vec|łuni}} {{m}}
+*{{vi}}: {{Ü|vi|thứ Hai}}, {{Ü|vi|thứ hai}}
+*{{vo}}: {{Ü|vo|mudel}}
+*{{vro}}: {{Ü|vro|iispäiv}}
+*{{cy}}: {{Ü|cy|dydd Llun}}
+*{{wa}}: {{Ü|wa|londi}}
+*{{be}}: {{Üt|be|панядзелак}} {{m}}
+*{{vep}}: {{Ü|vep|ezmärg}}
+*{{fy}}: {{Ü|fy|moandei}}
+|Dialekttabelle=
+*Berlinerisch: [[Montach]]
+*Bairisch: [[Monda]]
+**Steirisch: [[Moantog]]
+**Kärntnerisch: [[Montog]]
+**Südtirolerisch: [[Moontig]], [[Muuntig]], [[Maantig]], [[Muunta]]
+*Mainfränkisch: Maadich
+*Ripuarisch:
+**Kölsch: [[Mondach]]
+*Schwäbisch: [[Määntig]], [[Medich]], [[Medig]]
+*Schweizerdeutsch: [[Mäntig]]
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia}}
+:[1] {{Ref-Grimm}}
+:[1] {{Ref-DWDS}}
+:[*] {{Ref-UniLeipzig}}
+:[1] {{Ref-FreeDictionary}}
+:[1] {{Ref-Duden}}
+
+{{Quellen}}
+
+{{Wochentage (Deutsch)}}
+
+=== {{Wortart|Substantiv|Deutsch}}, {{mf}}, {{Wortart|Nachname|Deutsch}} ===
+
+{{Deutsch Nachname Übersicht
+|Bild 1=Verteilung Nachname Montag DE.png|hochkant|1|Verteilung des Nachnamens ''Montag'' in D
+|Bild 2=Lars Montag 065.jpg|mini|1|Lars ''Montag'', Regisseur (*1971)
+}}
+
+{{Worttrennung}}
+:Mon·tag, {{Pl.}} Mon·tags
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ˈmoːntaːk}}
+:{{Hörbeispiele}} {{Audio|De-Montag.ogg}}, {{Audio|Montag.ogg}}, {{Audio|LL-Q188 (deu)-Sebastian Wallroth-Montag.wav}}
+:{{Reime}} {{Reim|oːntaːk|Deutsch}}
+
+{{Bedeutungen}}
+:[1] [[deutschsprachig]]er [[Nachname]], [[Familienname]]
+
+{{Abkürzungen}}
+:[1] [[M.]]
+
+{{Herkunft}}
+:Übername nach dem [[mittelhochdeutsch]]en Wochentag ''{{Ü|gmh|māntac}}, {{Ü|gmh|mōntac}}'' „[[#Substantiv, m|Montag]]“, dessen Entstehung auf einen Zins- oder Dienstleistungstermin zurückgeführt werden könnte.<ref>{{Lit-Duden: Familiennamen|A=2008}}, Seite 425.</ref>
+
+{{Bekannte Namensträger}}
+:{{w|Carl Montag}}, {{w|Heidi Montag}}, {{w|Lars Montag}}
+
+{{Beispiele}}
+:[1] Frau ''Montag'' ist nett.
+:[1] Wir sind heute Abend bei ''Montags'' eingeladen.
+:[1] Kennst du ''die Montags'' von nebenan?
+:[1] Frau ''Montag'' ist ein Genie im Verkauf.
+:[1] Herr ''Montag'' wollte uns kein Interview geben.
+:[1] Die ''Montags'' fahren heute ins Bergische Land.
+:[1] Der ''Montag'' trägt nie die Schals, die die ''Montag'' ihm strickt.
+:[1] Das kann ich dir aber sagen: „Wenn die Frau ''Montag'' kommt, geht der Herr ''Montag''.“
+:[1] ''Montag'' kommt und geht.
+:[1] ''Montags'' kamen, sahen und siegten.
+
+{{Charakteristische Wortkombinationen}}
+:''mit [[Anrede]]:'' [[Herr]]/[[Frau]] ''Montag''; ''veraltet:'' [[Fräulein]] ''Montag''
+:''mit [[Titel]]:'' [[Doktor]]/[[Professor]]/[[Privatdozent]]/[[Universitätsprofessor]] ''Montag''; ''Montag'' der [[Älterer|Ältere]]/der [[Jüngerer|Jüngere]]; ''Montag'' [[junior]]/[[senior]]; [[Direktor]]/[[Hofrat]]/[[Meister]] ''Montag''; [[Bruder]]/[[Pfarrer]]/[[Schwester]] ''Montag''
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=deutschsprachiger Nachname, Familienname|Ü-Liste=
+*{{en}}: {{Ü|en|}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|Montag (Begriffsklärung)}}
+:[1] {{Ref-DFD|id=1553}}
+:[1] {{Ref-Nachname}}
+:[*] {{Ref-UniLeipzig}}
+:[1] {{Lit-Duden: Familiennamen|A=2008}}, Seite 425.
+:[1] {{Ref-MetaGenealogy}}
+:[1] [http://forebears.io/surnames/Montag „Montag“ bei forebears.io]
+:[1] [http://www.verwandt.de/karten/absolut/Montag.html  „Montag“ bei verwandt.de (dort mit Links zu schweizerischen und polnischen Verteilungs-Karten)]
+:[1] [http://namenskarten.lima-city.at Namensverteilung in Österreich (Namen bitte eintragen)]
+:[1] [http://www.whitepages.com/name/Montag „Montag“ bei whitepages.com (englisch)]
+
+{{Quellen}}
+
+{{Ähnlichkeiten 1|[[Montage]], [[montan]]}}

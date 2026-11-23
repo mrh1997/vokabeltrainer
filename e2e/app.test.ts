@@ -273,3 +273,34 @@ test('special forms are asked by their German counterpart, also on cards from ol
 	await page.goto('./en/hinzufuegen');
 	await expect(page.locator('section.week .form-label')).toHaveText('Mäuse');
 });
+
+test('English names have no article, also on cards from older versions', async ({ page }) => {
+	await page.goto('./en/hinzufuegen');
+	const german = page.getByLabel('Deutsch (ohne Artikel)');
+	await german.fill('Montag');
+	await german.press('Enter');
+	await expect(page.getByRole('option', { name: /^Monday/ }).first()).toBeVisible();
+	await page.getByRole('combobox', { name: 'Englisch' }).press('Enter');
+	await expect(page.locator('.status')).toContainText('„Montag“ → „Monday“ hinzugefügt');
+
+	// as saved by older versions, with progress
+	await page.evaluate(
+		() =>
+			new Promise<void>((resolve) => {
+				const open = indexedDB.open('vokabeltrainer');
+				open.onsuccess = () => {
+					const store = open.result.transaction('cards', 'readwrite').objectStore('cards');
+					store.getAll().onsuccess = (e) => {
+						const [c] = (e.target as IDBRequest).result;
+						store.put({ ...c, answer: 'a Monday', prompt: 'ein Montag', promptRules: 2, box: 3, asked: 7 });
+						store.transaction.oncomplete = () => resolve();
+					};
+				};
+			})
+	);
+	await page.reload();
+	const week = page.locator('section.week');
+	await expect(week.locator('.answer')).toHaveText(['Monday']);
+	await expect(week.locator('.badge')).toHaveText(['3']);
+	await expect(week.locator('.asked')).toContainText('7');
+});

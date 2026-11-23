@@ -1,0 +1,61 @@
+== glasses ({{Sprache|Englisch}}) ==
+=== {{Wortart|Substantiv|Englisch}} ===
+
+{{Englisch Substantiv Übersicht
+|Singular=-
+|Plural=glasses
+}}
+
+{{Worttrennung}}
+:{{kSg.}}, glasses
+
+{{Aussprache}}
+:{{IPA}} {{Pl.}} {{Lautschrift|ˈɡlɑːsɨs}}
+:{{Hörbeispiele}} {{Pl.}} {{Audio|En-uk-glasses.ogg|spr=uk}}
+
+{{Bedeutungen}}
+:[1] eine [[Sehhilfe]] bestehend aus einem Gestell und zwei Gläsern; [[Brille]]
+
+{{Synonyme}}
+:[1] [[eyeglasses]], [[pair of glasses]], [[spectacles]]
+
+{{Gegenwörter}}
+:[1] [[contact lens]], [[monocle]]
+
+{{Unterbegriffe}}
+:[1] [[reading glasses]], [[safety glasses]], [[sunglasses]]
+
+{{Beispiele}}
+:[1] Today i forgot my ''glasses'' at home.
+::Heute habe ich meine ''Brille'' zuhause vergessen.
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=eine Sehhilfe bestehend aus einem Gestell und zwei Gläsern; Brille|Ü-Liste=
+*{{de}}: {{Ü|de|Brille}} {{f}}
+*{{fr}}: {{Ü|fr|lunettes}} {{f}}
+*{{it}}: {{Ü|it|occhiali}} {{m}}
+*{{es}}: {{Ü|es|gafas}} {{f}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=en}}
+:[1] {{Ref-MWD}}
+:[1] {{Ref-MWT}}
+:[1] {{Ref-Dictionary}}
+:[1] {{Ref-Pons|en}}
+:[1] {{Ref-dictcc}}
+:[1] {{Ref-Leo|en}}
+
+=== {{Wortart|Deklinierte Form|Englisch}} ===
+
+{{Worttrennung}}
+:glass·es
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ˈɡlɑːsɨs}}
+:{{Hörbeispiele}} {{Audio|En-uk-glasses.ogg|spr=uk}}
+
+{{Grammatische Merkmale}}
+*Plural des Substantivs '''[[glass]]'''
+
+{{Grundformverweis Dekl|glass|spr=en}}

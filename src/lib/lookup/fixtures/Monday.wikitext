@@ -1,0 +1,48 @@
+== Monday ({{Sprache|Englisch}}) ==
+=== {{Wortart|Substantiv|Englisch}} ===
+
+{{Englisch Substantiv Übersicht
+|Singular=Monday
+|Plural=Mondays
+}}
+
+{{Worttrennung}}
+:Mon·day, {{Pl.}} Mon·days
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ˈmʌndeɪ|spr=en}}, {{Lautschrift|ˈmʌndɪ|spr=en}}
+:{{Hörbeispiele}} {{Audio|En-uk-Monday.ogg|spr=en}}, {{Audio|En-us-Monday.ogg|spr=us}}
+:{{Reime}} {{Reim|ʌndi|Englisch}}
+
+{{Bedeutungen}}
+:[1] {{K|Kalender|spr=en}} in den USA der zweite Wochentag; in Europa und anderen Staaten mit der Norm ISO 8601 der erste Wochentag; [[Montag]]
+
+{{Abkürzungen}}
+:[[Mo]], [[Mon]], [[Mon.]]
+
+{{Beispiele}}
+:[1] We met on ''Monday.''
+::Wir trafen uns am Montag.
+
+{{Charakteristische Wortkombinationen}}
+:[[by]] ''Monday'' — bis spätestens ''Montag''
+:[[last]] / [[next]] ''Monday'' — letzten / nächsten ''Montag''
+:([[on]]) ''Mondays'' — montags
+
+{{Wortbildungen}}
+:[[Easter Monday]], [[Mondays]] (Adverb)
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|*|G=Übersetzungen umgeleitet|Ü-Liste=
+:{{Übersetzungen umleiten|1|Montag|}} {{m}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=en|Monday}}
+:[1] {{Ref-Leo|en|Monday}}
+:[1] {{Ref-Pons|en|Monday}}
+:[1] {{Ref-dictcc|Monday}}
+:[1] {{Ref-MWD|Monday}}
+:[1] {{Ref-Dictionary|Monday}}
+
+{{Wochentage (Englisch)}}

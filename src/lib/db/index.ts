@@ -132,10 +132,11 @@ export interface FormInput {
 }
 
 /**
- * Version of the rules that build German prompts. Raise it when they change:
- * cards made with older rules get their prompt looked up again once.
+ * Version of the rules that build German prompts and answers. Raise it when
+ * they change: cards made with older rules are looked up again once.
+ * Version 3 only changed the answers of English nouns ("a Monday" → "Monday").
  */
-export const PROMPT_RULES = 2;
+export const PROMPT_RULES = 3;
 
 function newCard(base: Omit<Card, 'id' | 'box' | 'asked' | 'correct'>): Card {
 	return { id: crypto.randomUUID(), box: 1, asked: 0, correct: 0, promptRules: PROMPT_RULES, ...base };
@@ -267,15 +268,28 @@ export async function setForms(main: Card, forms: FormInput[]): Promise<void> {
 	await tx.done;
 }
 
+export interface PromptUpdate {
+	prompt: string;
+	formLabel?: string;
+	answer?: string;
+}
+
 /**
  * Stores German prompts made with the current rules (id → prompt; "" = looked
- * up, none available). `formLabel` renames a special form whose label changed.
+ * up, none available). `formLabel` renames a special form whose label changed;
+ * a changed `answer` makes the card look for a new recording.
  */
-export async function setPrompts(prompts: Map<string, { prompt: string; formLabel?: string }>): Promise<void> {
+export async function setPrompts(prompts: Map<string, PromptUpdate>): Promise<void> {
 	const tx = (await db()).transaction('cards', 'readwrite');
-	for (const [id, { prompt, formLabel }] of prompts) {
+	for (const [id, { prompt, formLabel, answer }] of prompts) {
 		const card = await tx.store.get(id);
-		if (card) await tx.store.put({ ...card, prompt, formLabel: formLabel ?? card.formLabel, promptRules: PROMPT_RULES });
+		if (!card) continue;
+		const updated: Card = { ...card, prompt, formLabel: formLabel ?? card.formLabel, promptRules: PROMPT_RULES };
+		if (answer !== undefined && answer !== card.answer) {
+			updated.answer = answer;
+			delete updated.audioCheckedAt;
+		}
+		await tx.store.put(updated);
 	}
 	await tx.done;
 }

@@ -1,0 +1,28 @@
+== parents ({{Sprache|Englisch}}) ==
+=== {{Wortart|Deklinierte Form|Englisch}} ===
+
+{{Worttrennung}}
+:
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift||spr=en}}
+:{{Hörbeispiele}} {{Audio|En-us-parents.ogg|spr=us}}, {{Audio|En-uk-parents.ogg|spr=uk}}
+
+{{Grammatische Merkmale}}
+*Plural des Substantivs '''[[parent]]'''
+
+{{Grundformverweis Dekl|parent|spr=en}}
+
+=== {{Wortart|Konjugierte Form|Englisch}} ===
+
+{{Worttrennung}}
+:
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift||spr=en}}
+:{{Hörbeispiele}} {{Audio|}}
+
+{{Grammatische Merkmale}}
+*3. Person Singular Indikativ Präsens Aktiv des Verbs '''[[parent]]'''
+
+{{Grundformverweis Konj|parent|spr=en}}

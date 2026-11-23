@@ -1,0 +1,112 @@
+== Italian ({{Sprache|Englisch}}) ==
+=== {{Wortart|Substantiv|Englisch}} ===
+
+{{Englisch Substantiv Übersicht
+|Singular=Italian
+|Plural=-
+}}
+
+{{Worttrennung}}
+:Ital·ian, {{kPl.}}
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ɪˈtæliən}}
+:{{Hörbeispiele}} {{Audio|En-us-Italian.ogg|spr=us}}
+
+{{Bedeutungen}}
+:[1] die Sprache [[Italienisch]]
+
+{{Beispiele}}
+:[1] The letter is written in ''Italian.''
+::Der Brief ist auf Italienisch geschrieben.
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=die Sprache Italienisch|Ü-Liste=
+*{{de}}: {{Ü|de|Italienisch}} {{n}}
+*{{fr}}: {{Ü|fr|}}
+}}
+
+{{Referenzen}}
+:[1] {{Ref-MWD}}
+:[1] {{Ref-Dictionary}}
+:[1] {{Ref-Pons|en}}
+:[1] {{Ref-dictcc}}
+:[1] {{Ref-Leo|en}}
+
+=== {{Wortart|Substantiv|Englisch}} ===
+
+{{Englisch Substantiv Übersicht
+|Singular=Italian
+|Plural=Italians
+}}
+
+{{Worttrennung}}
+:Ital·ian, {{Pl.}} Ital·ians
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ɪˈtæliən}}
+:{{Hörbeispiele}} {{Audio|En-us-Italian.ogg|spr=us}}
+
+{{Bedeutungen}}
+:[1] Bewohner von [[Italien]] oder Person [[italienisch]]er Herkunft; [[Italiener]], [[Italienerin]]
+
+{{Unterbegriffe}}
+:[1] [[Sicilian]], [[South Tyrolean]]
+
+{{Beispiele}}
+:[1] A group of ''Italians'' is visiting Westminster Cathedral today.
+::Eine Gruppe ''Italiener'' besucht heute die Westminster Cathedral.
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Bewohner von Italien oder Person italienischer Herkunft; Italiener, Italienerin|Ü-Liste=
+*{{de}}: {{Ü|de|Italiener}} {{m}}, {{Ü|de|Italienerin}} {{f}}
+*{{fr}}: {{Ü|fr|}}
+}}
+
+{{Referenzen}}
+:[1] {{Ref-MWD}}
+:[1] {{Ref-Dictionary}}
+:[1] {{Ref-Pons|en}}
+:[1] {{Ref-dictcc}}
+:[1] {{Ref-Leo|en}}
+
+=== {{Wortart|Adjektiv|Englisch}} ===
+
+{{Englisch Adjektiv Übersicht
+|Positiv=Italian
+|Komparativ=-
+|Superlativ=-
+}}
+
+{{Worttrennung}}
+:Ital·ian, {{kSt.}}
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ɪˈtæliən}}
+:{{Hörbeispiele}} {{Audio|En-us-Italian.ogg|spr=us}}
+
+{{Bedeutungen}}
+:[1] zu [[Italien]], seinen Einwohnern oder ihrer Sprache gehörig; [[italienisch]]
+
+{{Unterbegriffe}}
+:[1] [[Sicilian]], [[South Tyrolean]]
+
+{{Beispiele}}
+:[1] The lawyer has some expensive ''Italian'' cars in his garage.
+::Der Anwalt hat ein paar teure ''italienische'' Autos in seiner Garage.
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=zu Italien, seinen Einwohnern oder ihrer Sprache gehörig; italienisch|Ü-Liste=
+*{{de}}: {{Ü|de|italienisch}}
+*{{fr}}: {{Ü|fr|}}
+}}
+
+{{Referenzen}}
+:[1] {{Ref-MWD}}
+:[1] {{Ref-Dictionary}}
+:[1] {{Ref-Pons|en}}
+:[1] {{Ref-dictcc|en}}
+:[1] {{Ref-Leo|en}}
+
+{{Ähnlichkeiten}}
+:[[Italien]]

@@ -1,6 +1,6 @@
 /**
  * Builds the exact text the learner has to type: the main answer with its
- * article ("la maison", "a house", "to go") and the special forms with
+ * article or particle ("la maison", "a house", "to go") and the special forms with
  * German labels ("er/sie/es (Präsens)" → "il va").
  *
  * Rules exist for a few languages; every other language uses the bare word.
@@ -8,6 +8,7 @@
 import type { ForeignEntry, Gender, Pos } from './wikitext';
 import { formKind, isStandardForm, type FormKind } from './regular';
 import { germanPrompt } from './german';
+import { withoutArticle, type NounFacts } from './english';
 
 export interface FormCandidate {
 	/** Grammatical description, e.g. "Präsens: ich" (fallback display, identifies the form). */
@@ -44,10 +45,13 @@ function itArticle(word: string, gender: Gender): string {
 	return /^(s[^aeiou]|z|gn|ps|pn|x|y)/i.test(word) ? 'lo ' : 'il ';
 }
 
-/** The main answer including article (nouns) or particle ("to" for English verbs). */
-export function buildMainAnswer(lang: string, word: string, pos: Pos, gender?: Gender): string {
+/**
+ * The main answer including article (nouns) or particle ("to" for English verbs).
+ * `facts` help to decide whether an English noun takes "a"/"an" at all.
+ */
+export function buildMainAnswer(lang: string, word: string, pos: Pos, gender?: Gender, facts?: NounFacts): string {
 	if (lang === 'en') {
-		if (pos === 'noun') return `${enArticle(word)} ${word}`;
+		if (pos === 'noun') return withoutArticle(word, facts) ? word : `${enArticle(word)} ${word}`;
 		if (pos === 'verb') return word.startsWith('to ') ? word : `to ${word}`;
 		return word;
 	}

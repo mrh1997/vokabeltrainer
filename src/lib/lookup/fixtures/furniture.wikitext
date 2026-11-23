@@ -1,0 +1,38 @@
+== furniture ({{Sprache|Englisch}}) ==
+=== {{Wortart|Substantiv|Englisch}} ===
+
+{{Englisch Substantiv Übersicht
+|Singular=furniture
+|Plural=(furnitures)
+}}
+
+{{Worttrennung}}
+:fur·ni·ture, {{Pl.}} ''selten:'' fur·ni·tures
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ˈfɜːnɪtʃəʳ}}
+:{{Hörbeispiele}} {{Audio|LL-Q1860 (eng)-Nattes à chat-furniture.wav}}, {{Audio|En-us-furniture.ogg|spr=us}}
+
+{{Bedeutungen}}
+:[1] Möbel
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=en}}
+
+{{Wortbildungen}}
+:[[piece of furniture]]; [[part of the furniture]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Möbel|Ü-Liste=
+*{{de}}: {{Ü|de|Möbel}} {{n}}
+*{{fr}}: {{Ü|fr|}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=en}}
+:[1] {{Ref-MWD}}
+:[1] {{Ref-MWT}}
+:[1] {{Ref-Dictionary}}
+:[1] {{Ref-Pons|en}}
+:[1] {{Ref-dictcc}}
+:[1] {{Ref-Leo|en}}

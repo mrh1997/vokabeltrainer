@@ -1,0 +1,143 @@
+{{Siehe auch|[[Information]]}}
+== information ({{Sprache|Englisch}}) ==
+=== {{Wortart|Substantiv|Englisch}} ===
+
+{{Englisch Substantiv Übersicht
+|Singular=information
+|Plural=—
+}}
+
+{{Worttrennung}}
+:in·for·ma·tion, {{kPl.}}
+
+{{Aussprache}}
+:{{IPA}} {{brit.}} {{Lautschrift|ˌɪnfəˈmeɪʃən}}, {{amer.}} {{Lautschrift|ˌɪnfɚˈmeɪʃən}}
+:{{Hörbeispiele}} {{Audio|En-us-information.ogg|spr=us}}
+:{{Reime}} {{Reim|eɪʃən|Englisch}}
+
+{{Bedeutungen}}
+:[1] [[Information]], [[Auskunft]], [[Angaben]]
+:[2] ''Ort'': [[Information]]
+:[3] ''telefonischer Dienstleister:'' [[Auskunft]]
+:[4] ''Recht:'' [[Anklage]]
+
+{{Herkunft}}
+:über das Altfranzösische von lateinisch ''{{Ü|la|informatio}},'' der Substantivierung des Verbs ''{{Ü|la|informare}}''; vergleiche {{Ü|en|inform|(to) inform}}<ref>{{Ref-OEtymD}}</ref>
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=en}}
+
+{{Charakteristische Wortkombinationen}}
+:[4] to [[lay]] an ''information'' [[against]] [[somebody]] – jemanden [[anklagen]]
+
+{{Wortbildungen}}
+:[[informational]], [[misinformation]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|*|G=Übersetzungen umgeleitet|Ü-Liste=
+:{{Übersetzungen umleiten|1|Information}}, {{Übersetzungen umleiten||Auskunft}}, {{Übersetzungen umleiten||Angabe}}
+:{{Übersetzungen umleiten|2|Information}}
+:{{Übersetzungen umleiten|3|Auskunft}}
+:{{Übersetzungen umleiten|4|Anklage}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=en|information}}
+:[1] {{Ref-MWD|information}}
+:[1] {{Ref-MWT|information}}
+:[1] {{Ref-Dictionary|information}}
+:[1] {{Ref-Pons|en|information}}
+:[1] {{Ref-dictcc|information}}
+:[1] {{Ref-Leo|en|information}}
+{{Referenzen prüfen|Englisch}}
+
+{{Quellen}}
+
+== information ({{Sprache|Interlingua}}) ==
+=== {{Wortart|Substantiv|Interlingua}} ===
+
+{{Worttrennung}}
+:in·for·ma·tion
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift||spr=ia}}
+:{{Hörbeispiele}} {{Audio|}}
+
+{{Bedeutungen}}
+:[1] [[Information]]
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=ia}}
+::
+
+{{Wortbildungen}}
+:[1] {{linkIa|informative}}, {{linkIa|informator}}
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Information|Ü-Liste=
+*{{de}}: {{Ü|de|Information}}
+*{{en}}: {{Ü|en|information}}
+*{{fr}}: {{Ü|fr|}}
+*{{nl}}: {{Ü|nl|}}
+*{{pl}}: {{Ü|pl|}}
+*{{pt}}: {{Ü|pt|}}
+*{{sv}}: {{Ü|sv|}}
+*{{es}}: {{Ü|es|información}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=ia}}
+:[1] Thomas Breinstrup e Italo Notarstefano (red.): ''Interlingua dictionario basic''. Union Mundial pro Interlingua (UMI), 2011, 256 p., {{#isbn:978-2-36607-000-2}}, Seite 95
+:[1] Wörterbuch ''Interlingua – Deutsch'' (»Dictionario ''Interlingua – germano''«) im Interlingua-Wiktionary: [[:ia:appendice:Dictionarios/Interlingua-germano/i|»information«]]
+:[1] Wörterbuch ''Interlingua – Englisch'' (»Dictionario ''Interlingua – anglese''«) im Interlingua-Wiktionary: [[:ia:appendice:Dictionarios/Interlingua-anglese/i|»information«]] (Englisch)
+:[1] [https://de.glosbe.com/ia/de/information Glosbe.com Interlingua-Deutsch »information«]
+:[*] {{Wikipedia-Suche|spr=ia}}
+:[*] {{Wikisource|spr=ia}}
+;siehe auch
+:[*] Interlingua-Einträge (in Wiktionary/Schwesterprojekten): [[:lt:information|(lt)]], [[:pl:information|(pl)]]
+
+== information ({{Sprache|Schwedisch}}) ==
+=== {{Wortart|Substantiv|Schwedisch}}, {{u}} ===
+
+{{Schwedisch Substantiv Übersicht|Genus=u|Nominativ Plural Unbestimmt =informationer}}
+
+{{Worttrennung}}
+:in·for·ma·ti·on, {{Pl.}} in·for·ma·tio·ner
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift||spr=sv}}
+:{{Hörbeispiele}} {{Audio|Sv-information.ogg}}
+
+{{Bedeutungen}}
+:[1] [[Information]], [[Auskunft]], kurze Mitteilung
+:[2] ''Ort'': [[Information]]
+
+{{Beispiele}}
+:[1] Själv fick jag aldrig någon ''information'' om risker.
+::Ich selbst habe nie eine ''Information'' über Risiken bekommen.
+:[1] Har du frågor om ''informationerna,'' kontakta oss.
+::Wenn Sie Fragen zu den ''Informationen'' haben, kontaktieren Sie uns.
+:[2] ''Informationen'' finns på andra våningen.
+::Die ''Information'' ist im zweiten Stock.
+
+{{Wortbildungen}}
+:[[informationsmöte]], [[informationsträff]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Information, Auskunft, kurze Mitteilung|Ü-Liste=
+*{{de}}: {{Ü|de|Information}} {{f}}, {{Ü|de|Auskunft}} {{f}}
+*{{en}}: {{Ü|en|}}
+*{{fr}}: {{Ü|fr|}}
+*{{it}}: {{Ü|it|}}
+}}
+
+{{Ü-Tabelle|2|G=Ort: Information|Ü-Liste=
+*{{de}}: {{Ü|de|Information}} {{f}}, {{Ü|de|Auskunft}} {{f}}
+}}
+
+{{Referenzen}}
+:[1, 2] {{Ref-Lexin|information}}
+:[1] {{Ref-dictcc|sv}}
+:[1] {{Wikipedia|spr=sv|information}}
+:[1] {{Ref-SAO|information}}
+:[1] {{Lit-SA: Svenska Akademiens ordlista|A=13}}, Seite 377

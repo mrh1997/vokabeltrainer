@@ -20,7 +20,9 @@ The UI is German. Live: https://mrh1997.github.io/vokabeltrainer/
   a card; once it is empty the round ends. Only the German word is shown (no meaning until
   answered); nouns carry the article matching the answer ("der Hund" → "le chien",
   "ein Hund" → "a dog"), special forms are asked by their German counterpart ("Mäuse" → "mice",
-  "ich gehe" → "je vais"). Cards saved under older rules get their prompt looked up again once.
+  "ich gehe" → "je vais"). English nouns that take no "a/an" (names, uncountable nouns, plurals)
+  are asked and answered without article ("Montag" → "Monday"). Cards saved under older rules are
+  looked up again once.
 
 ## Structure
 

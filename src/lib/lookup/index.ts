@@ -9,7 +9,7 @@ import type { Language } from '#lib/languages.ts';
 import { buildFormCandidates, buildMainAnswer, type FormCandidate } from './answers';
 import { descriptionAddsWords, linguaLibreSpeaker, recordingSays, spokenWords } from './recordings';
 import { germanMainPrompt } from './german';
-import { germanNounGender, overviewParams, parseForeignEntry, sectionAudio, parseTranslations, type Gender, type Pos, type Translation } from './wikitext';
+import { germanNounGender, germanNounIsPerson, overviewParams, parseForeignEntry, sectionAudio, parseTranslations, type Gender, type Pos, type Translation } from './wikitext';
 
 export type { FormCandidate, Translation, Pos, Gender };
 
@@ -73,7 +73,7 @@ export async function getTranslations(german: string, lang: Language, signal?: A
 }
 
 export interface WordDetails {
-	/** Exact text to type, with article. */
+	/** Exact text to type, with article if the noun takes one. */
 	answer: string;
 	/** German prompt with article for nouns ("der Hund", "ein Hund"), if the answer has one. */
 	prompt?: string;
@@ -94,20 +94,35 @@ export interface WordDetails {
  * the German prompts for the special forms ("ich gehe" for "je vais").
  */
 export async function getDetails(t: Translation, lang: Language, german?: string, signal?: AbortSignal): Promise<WordDetails> {
+	const { text, entry, ...texts } = await lookupWord(t, lang, german, signal);
+	// the word type's own recordings first, then those of the same spelling
+	// elsewhere on the page (the noun "aller" sounds like the verb)
+	const pageFiles = [...new Set([...(entry?.audioFiles ?? []), ...(text ? sectionAudio(text, lang.name) : [])])];
+	return { ...texts, audioFiles: await findRecordings(texts.answer, lang, pageFiles, signal) };
+}
+
+/** Like `getDetails`, but without searching recordings (far fewer requests). */
+export async function getTexts(t: Translation, lang: Language, german?: string): Promise<Omit<WordDetails, 'audioFiles'>> {
+	return lookupWord(t, lang, german);
+}
+
+async function lookupWord(t: Translation, lang: Language, german?: string, signal?: AbortSignal) {
 	const [text, germanText] = await Promise.all([wikitext(t.word, signal), german ? wikitext(german, signal) : null]);
 	const entry = text ? parseForeignEntry(text, lang.name, t.word, t.pos) : null;
 	const germanTable = german && germanText ? { word: german, table: overviewParams(germanText, 'Deutsch', t.pos) } : undefined;
 	const gender = t.gender ?? entry?.gender;
-	const answer = buildMainAnswer(lang.code, t.word, t.pos, gender);
+	const answer = buildMainAnswer(lang.code, t.word, t.pos, gender, {
+		number: entry?.number,
+		person: !!germanText && germanNounIsPerson(germanText)
+	});
 	return {
+		text,
+		entry,
 		answer,
 		prompt: german && germanText ? germanMainPrompt(lang.code, german, t.pos, t.word, answer, germanNounGender(germanText)) : undefined,
 		pos: t.pos,
 		gender,
-		forms: entry ? buildFormCandidates(lang.code, t.word, entry, germanTable) : [],
-		// the word type's own recordings first, then those of the same spelling
-		// elsewhere on the page (the noun "aller" sounds like the verb)
-		audioFiles: await findRecordings(answer, lang, [...new Set([...(entry?.audioFiles ?? []), ...(text ? sectionAudio(text, lang.name) : [])])], signal)
+		forms: entry ? buildFormCandidates(lang.code, t.word, entry, germanTable) : []
 	};
 }
 

@@ -1,0 +1,57 @@
+== scissors ({{Sprache|Englisch}}) ==
+
+=== {{Wortart|Konjugierte Form|Englisch}} ===
+
+{{Worttrennung}}
+:
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift||spr=en}}
+:{{Hörbeispiele}} {{Audio|}}
+
+{{Grammatische Merkmale}}
+*3. Person Singular Indikativ Präsens Aktiv des Verbs '''[[scissor#Verb|scissor]]'''
+
+{{Grundformverweis Konj|scissor|Abschnitt=Verb|spr=en}}
+
+=== {{Wortart|Substantiv|Englisch}} ===
+
+{{Englisch Substantiv Übersicht
+|Singular=—
+|Plural=scissors
+|Bild=Scissors_400px.png|220px|1|Different types of ''scissors''
+}}
+
+{{Worttrennung}}
+:{{kSg.}}, {{Pl.}} scis·sors
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift||spr=en}}
+:{{Hörbeispiele}} {{Audio|}}
+
+{{Bedeutungen}}
+:[1] die [[Schere]]
+
+{{Unterbegriffe}}
+:[1] [[nail scissors]]
+
+{{Beispiele}}
+:[1] You need special ''scissors'' to cut leather.
+::Du brauchst besondere ''Scheren'' um Leder zu schneiden.
+
+{{Wortbildungen}}
+:[1] [[pair of scissors]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=die Schere|Ü-Liste=
+*{{de}}: {{Ü|de|Schere}} {{f}}
+*{{fr}}: {{Ü|fr|ciseaux}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=en|scissors}}
+:[1] {{Ref-Leo|en|scissors}}
+:[1] {{Ref-Pons|en|scissors}}
+:[1] {{Ref-MWD|scissors}}
+:[1] {{Ref-Dictionary|scissors}}
+:[1] {{Ref-dictcc|scissors}}
