@@ -1,7 +1,7 @@
 /**
- * Pronunciation playback: the stored recording if there is one, else one
- * fetched now (online), otherwise the device's built-in speech synthesis
- * in the card's language.
+ * Pronunciation playback: the device's own (offline) speech synthesis if it
+ * has a voice for the card's language; otherwise the stored recording, else
+ * one fetched now (online); a network voice of the browser is the last resort.
  */
 import { getAudio, getCard, type Card } from '#lib/db/index.ts';
 import { findLanguage } from '#lib/languages.ts';
@@ -39,6 +39,13 @@ export function pickVoice(list: SpeechSynthesisVoice[], tag: string): SpeechSynt
 	return sameLang.find((v) => norm(v.lang) === want && v.localService) ?? sameLang.find((v) => norm(v.lang) === want) ?? sameLang[0];
 }
 
+/** True if the device has an on-device voice for the language (no network needed). */
+export async function hasLocalVoice(lang: string): Promise<boolean> {
+	if (typeof speechSynthesis === 'undefined') return false;
+	const tag = findLanguage(lang)?.speech ?? lang;
+	return !!pickVoice(await voices(), tag)?.localService;
+}
+
 /**
  * Speaks `text` with a voice of the card's language. If the device has no
  * such voice nothing is spoken (a German voice reading French sounds wrong)
@@ -67,18 +74,18 @@ export async function playBlob(blob: Blob): Promise<void> {
 }
 
 /**
- * Plays a card's pronunciation. Never throws (autoplay restrictions etc.).
- * A recording is only used if it says the whole answer: for "le chien" a
- * recording of just "chien" is skipped. A card without one gets it now if
- * the device is online (whole-answer or joined word recordings); speech
- * synthesis is the last resort.
+ * Speaks `text` with the device's own voice if it has one for the language,
+ * otherwise plays the recording `fallback` provides (if any), otherwise
+ * speaks with whatever voice the browser offers. Never throws.
  */
-export async function playCard(card: Card): Promise<void> {
+export async function pronounce(text: string, lang: string, fallback: () => Promise<Blob | undefined>): Promise<void> {
 	try {
-		// The stored card may already have a recording the caller's copy lacks.
-		const fresh = (await getCard(card.id).catch(() => undefined)) ?? card;
-		let blob = audioFits(fresh) ? await getAudio(fresh.audioId!) : undefined;
-		blob ??= await ensureAudio(fresh, false, AbortSignal.timeout(6000));
+		if (await hasLocalVoice(lang)) {
+			stop();
+			await speak(text, lang);
+			return;
+		}
+		const blob = await fallback();
 		if (blob) {
 			await playBlob(blob);
 			return;
@@ -87,5 +94,21 @@ export async function playCard(card: Card): Promise<void> {
 		// fall through to speech synthesis
 	}
 	stop();
-	await speak(card.answer, card.lang);
+	await speak(text, lang).catch(() => {});
+}
+
+/**
+ * Plays a card's pronunciation. Never throws (autoplay restrictions etc.).
+ * The device's own voice for the language is preferred. Otherwise a recording is only used if it says the whole answer: for "le chien" a
+ * recording of just "chien" is skipped. A card without one gets it now if
+ * the device is online (whole-answer or joined word recordings); speech
+ * synthesis is the last resort.
+ */
+export function playCard(card: Card): Promise<void> {
+	return pronounce(card.answer, card.lang, async () => {
+		// The stored card may already have a recording the caller's copy lacks.
+		const fresh = (await getCard(card.id).catch(() => undefined)) ?? card;
+		const blob = audioFits(fresh) ? await getAudio(fresh.audioId!) : undefined;
+		return blob ?? (await ensureAudio(fresh, false, AbortSignal.timeout(6000)));
+	});
 }

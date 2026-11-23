@@ -19,7 +19,7 @@
 		type Translation,
 		type WordDetails
 	} from '#lib/lookup/index.ts';
-	import { playBlob, playCard, speak } from '#lib/audio/index.ts';
+	import { playCard, pronounce } from '#lib/audio/index.ts';
 	import { fetchPronunciation, fillMissingAudio } from '#lib/audio/pronunciation.ts';
 	import { connection } from '#lib/online.svelte.ts';
 	import { addMissingPrompts } from '#lib/upgrade.ts';
@@ -151,9 +151,9 @@
 		error = '';
 		try {
 			const details = await getDetails(t, lang, chosenGerman);
-			const audio = await fetchPronunciation(details.answer, lang, details.audioFiles);
-			if (audio) playBlob(audio.blob).catch(() => speak(details.answer, lang.code));
-			else speak(details.answer, lang.code);
+			const fetching = fetchPronunciation(details.answer, lang, details.audioFiles);
+			pronounce(details.answer, lang.code, async () => (await fetching)?.blob);
+			const audio = await fetching;
 			if (details.forms.length) {
 				pending = { translation: t, details, audio };
 			} else {
