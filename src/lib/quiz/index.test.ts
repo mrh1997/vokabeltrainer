@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { BOX_SHARES, checkAnswer, groupByWeek, isoWeek, nextBox, pickNext } from './index';
+import { BOX_SHARES, canQuiz, checkAnswer, groupByWeek, isoWeek, nextBox, pickNext } from './index';
 
 /** Small deterministic random generator so the statistics test is stable. */
 function seeded(seed: number) {
@@ -69,5 +69,13 @@ describe('calendar weeks', () => {
 			['KW 47 / 2026', 2],
 			['KW 48 / 2026', 1]
 		]);
+	});
+});
+
+describe('canQuiz', () => {
+	it('needs at least one card in box 1', () => {
+		expect(canQuiz(cards([1, 3, 0, 0, 0]))).toBe(true);
+		expect(canQuiz(cards([0, 3, 2, 1, 1]))).toBe(false);
+		expect(canQuiz([])).toBe(false);
 	});
 });

@@ -1,0 +1,78 @@
+{{Siehe auch|[[Mouse]], [[mouše]]}}
+== mouse ({{Sprache|Englisch}}) ==
+=== {{Wortart|Substantiv|Englisch}} ===
+
+{{Englisch Substantiv Übersicht
+|Singular=mouse
+|Plural 1=mice
+|Plural 2=mouses
+|Bild 1=House mouse.jpg|mini|1|a house ''mouse''
+|Bild 2=3-Tasten-Maus Microsoft.jpg|mini|2|a computer ''mouse''
+}}
+
+{{Worttrennung}}
+:mouse, {{Pl.}} mice
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|maʊs|spr=en}}
+:{{Hörbeispiele}} {{Audio|En-uk-a mouse.ogg|a mouse|spr=en}}, {{Audio|En-us-mouse.ogg|spr=us}}
+:{{Reime}} {{Reim|aʊs|Englisch}}
+
+{{Bedeutungen}}
+:[1] {{K|Zoologie|spr=en}} Nagetier (Plural 1); [[Maus]]
+:[2] {{K|EDV|spr=en}} Eingabegerät (Plurale 1 oder 2); [[Computermaus]]
+:[3] {{ugs.|:|spr=en}} schüchterne Person
+
+{{Herkunft}}
+:Von mittelenglisch ''mous,'' altenglisch ''mūs.'' Dies aus germanisch ''*mūs,'' indogermanisch ''*mūs.'' Verwandt mit altfriesisch ''mūs,'' altsächsisch ''mūs,'' althochdeutsch ''mūs'' und altnordisch ''mús.''
+
+{{Synonyme}}
+:[2] [[computer mouse]]
+
+{{Gegenwörter}}
+:[3] [[extrovert]]
+
+{{Oberbegriffe}}
+:[1] [[rodent]], [[animal]]
+:[2] [[input device]]
+
+{{Beispiele}}
+:[1] We have a ''mouse'' in our garden.
+::Wir haben eine ''Maus'' in unserem Garten.
+:[2] You need a ''mouse'' to play this game.
+::Du brauchst eine ''Maus,'' um dieses Spiel zu spielen.
+:[3] My little sister is a ''mouse.''
+::Meine kleine Schwester ist ein ''Mäuschen.''
+
+{{Redewendungen}}
+:[1] to be [[as quiet as a mouse|as quiet as a ''mouse'']] – mucksmäuschenstill sein
+:[1] to [[play cat and mouse|play cat and ''mouse'']] with someonse – mit jemandem Katz und Maus spielen
+
+{{Wortbildungen}}
+:[[mouse button]], [[mouse pad]], [[mouse pointer]], [[mouse wheel]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Zoologie|Ü-Liste=
+*{{de}}: {{Ü|de|Maus}} {{f}}
+}}
+
+{{Ü-Tabelle|2|G=EDV|Ü-Liste=
+*{{de}}: {{Ü|de|Maus}} {{f}}, {{Ü|de|Computermaus}} {{f}}
+}}
+
+{{Ü-Tabelle|3|G=umgangssprachlich: schüchterne Person|Ü-Liste=
+*{{de}}: {{Ü|de|Mäuschen}} {{n}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=en}}
+:[2] {{Wikipedia|spr=en|computer mouse}}
+:[1–3] {{Ref-MWD}}
+:[3] {{Ref-MWT}}
+:[1–3] {{Ref-Dictionary}}
+:[1–3] {{Ref-Pons|en}}
+:[1, 2] {{Ref-dictcc}}
+:[1–3] {{Ref-Leo|en}}
+
+{{Ähnlichkeiten}}
+:[[house]], [[louse]], [[rouse]]

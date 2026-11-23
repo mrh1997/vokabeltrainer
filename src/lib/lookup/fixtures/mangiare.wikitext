@@ -1,0 +1,115 @@
+== mangiare ({{Sprache|Italienisch}}) ==
+=== {{Wortart|Substantiv|Italienisch}}, {{m}} ===
+
+{{Italienisch Substantiv Übersicht
+|Genus=m
+|Singular=mangiare
+|Plural=mangiari
+}}
+
+{{Worttrennung}}
+:man·gia·re, {{Pl.}} man·gia·ri
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|manˈd͡ʒare}}
+:{{Hörbeispiele}} {{Audio|It-mangiare.ogg}}
+
+{{Bedeutungen}}
+:[1] das [[Essen]]
+:[2] die [[Kost]]
+
+{{Herkunft}}
+:[1, 2] vom Lateinischen Wort {{Ü|la|manducare}}
+
+{{Beispiele}}
+:[1] {{Beispiele fehlen|spr=it}}
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=das Essen|Ü-Liste=
+*{{de}}: {{Ü|de|Essen}} {{n}}
+*{{en}}: {{Ü|en|eat}}
+*{{fr}}: {{Ü|fr|nourriture}} {{f}}
+*{{ja}}: {{Üt|ja|食|しょく, shoku}}
+*{{nl}}: {{Ü|nl|eten}}
+*{{pt}}: {{Ü|pt|comida}} {{f}}
+*{{es}}: {{Ü|es|comida}} {{f}}
+}}
+
+{{Ü-Tabelle|2|G=die Kost|Ü-Liste=
+*{{de}}: {{Ü|de|Kost}} {{f}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|spr=it|mangiare}}
+:[1] {{Ref-Pons|it|mangiare}}
+:[1] {{Ref-Leo|it|mangiare}}
+{{Referenzen prüfen|Italienisch}}
+
+=== {{Wortart|Verb|Italienisch}} ===
+
+{{Italienisch Verb Übersicht
+|Wortstamm=mangi
+|Endung=are
+|Gegenwart_tu=mangi
+|Gegenwart_noi=mangiamo
+|Historisches Perfekt=mangiai
+|Befehl_tu=mangi
+|Hilfsverb=avere
+}}
+
+{{Worttrennung}}
+:man·gia·re
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|manˈd͡ʒare}}
+:{{Hörbeispiele}} {{Audio|}}
+
+{{Bedeutungen}}
+:[1] {{trans.|:}} [[essen]]
+:[2] {{trans.|,}} ''Tier:'' [[fressen]]
+:[3] {{trans.|:}} [[zerfressen]]
+
+{{Herkunft}}
+:Lehnwort von französisch [[manger]]. Dies ist gebildet nach lateinisch [[manducare]] „kauen, kauend essen“<ref>{{Lit-Meyer-Lübke: Romanisches etymologisches Wörterbuch|A=6}}, 5292. mandūcāre</ref>, [[Denominativum]] von lateinisch [[manducus]] „Vielfraß“, einer Bildung zu lateinisch [[mandere]] „kauen, beißen; essen“<ref>{{Lit-Langenscheidt: Großes Schulwörterbuch Latein|A=7}} siehe: măndūcō, măndūcŭs, măndō<sup>2</sup></ref>.
+
+{{Synonyme}}
+:[1] [[pranzare]] (zu [[Mittag]] [[essen]]); [[cenare]] (zu [[Abend]] [[essen]])
+
+{{Beispiele}}
+:[1] A che ora ''mangiate?'' — ''Mangiamo'' alle otto.
+::Um welche Zeit ''esst'' ihr? — Wir ''essen'' um 8:00 Uhr.
+:[2] {{Beispiele fehlen|spr=it}}
+
+{{Redewendungen}}
+:[1] ''mangiare'' a [[crepapella|crepapelle]] ([[essen]], bis man [[platzen|platzt]]); ''mangiare'' [[due]] [[boccone|bocconi]] (eine Kleinigkeit essen; ''wörtl.:'' zwei Bissen essen)
+
+{{Wortbildungen}}
+:[[mangiarsi]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=sdü|Ü-Liste=
+*{{de}}: {{Ü|de|essen}}
+*{{en}}: {{Ü|en|eat}}
+*{{eo}}: {{Ü|eo|manĝi}}
+*{{fr}}: {{Ü|fr|manger}}
+*{{ja}}: {{Üt|ja|食べる|たべる, taberu}}
+*{{ru}}: {{Üt|ru|есть}}
+*{{es}}: {{Ü|es|comer}}
+}}
+
+{{Ü-Tabelle|2|G=transitiv, Tier: fressen|Ü-Liste=
+*{{de}}: {{Ü|de|fressen}}
+}}
+
+{{Ü-Tabelle|3|G=sdü|Ü-Liste=
+*{{de}}: {{Ü|de|zerfressen}}
+}}
+
+{{Referenzen}}
+:[1, 2] {{Ref-Pons|it|mangiare}}
+:[1, 2] {{Ref-Leo|it|mangiare}}
+
+{{Quellen}}
+
+{{Ähnlichkeiten}}
+:[[mancare]]

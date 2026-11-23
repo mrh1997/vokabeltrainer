@@ -16,7 +16,11 @@ The UI is German. Live: https://mrh1997.github.io/vokabeltrainer/
   The quiz therefore works offline. A service worker caches the app itself.
   Backup/restore is available as a JSON file on each language page.
 - **Quiz:** exact answer required. Right → one box up; wrong → box 1. Cards are drawn randomly
-  with fixed shares per box: 40 / 25 / 17 / 12 / 6 %.
+  with fixed shares per box: 40 / 25 / 17 / 12 / 6 %. Quizzing is only possible while box 1 holds
+  a card; once it is empty the round ends. Only the German word is shown (no meaning until
+  answered); nouns carry the article matching the answer ("der Hund" → "le chien",
+  "ein Hund" → "a dog"), special forms are asked by their German counterpart ("Mäuse" → "mice",
+  "ich gehe" → "je vais"). Cards saved under older rules get their prompt looked up again once.
 
 ## Structure
 

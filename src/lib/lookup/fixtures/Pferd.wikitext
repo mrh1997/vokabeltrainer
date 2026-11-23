@@ -1,0 +1,429 @@
+== Pferd ({{Sprache|Deutsch}}) ==
+=== {{Wortart|Substantiv|Deutsch}}, {{n}} ===
+
+{{Deutsch Substantiv Übersicht
+|Genus=n
+|Nominativ Singular=Pferd
+|Nominativ Plural=Pferde
+|Genitiv Singular=Pferds
+|Genitiv Singular*=Pferdes
+|Genitiv Plural=Pferde
+|Dativ Singular=Pferd
+|Dativ Singular*=Pferde
+|Dativ Plural=Pferden
+|Akkusativ Singular=Pferd
+|Akkusativ Plural=Pferde
+|Bild 1=Pernod_Al_Ariba_0046b.jpg|mini|1|Arabisches Vollblut, ''Pernod Al Ariba ox''
+|Bild 2=Chess knight 0965.jpg|mini|3|das ''Pferd'' als Spielfigur im Schachspiel
+|Bild 3=Gymnastics brokenchopstick.jpg|mini|4|Turner am Pauschen''pferd''
+}}
+
+{{Worttrennung}}
+:Pferd, {{Pl.}} Pfer·de
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|p͡feːɐ̯t}}, ''Schweiz vorwiegend; Ostmitteldeutschland, Südwestdeutschland, Westösterreich auch:'' {{Lautschrift|p͡fɛʁt}}
+:{{Hörbeispiele}} {{Audio|De-Pferd.ogg}}, {{Audio|De-Pferd2.ogg}}, {{Audio|LL-Q188 (deu)-Sebastian Wallroth-Pferd.wav}}
+:{{Reime}} {{Reim|eːɐ̯t|Deutsch}}, {{Reim|ɛʁt|Deutsch}}
+
+{{Bedeutungen}}
+:[1] {{K|Zoologie}} ein [[Haustier]], [[Nutztier]] und [[Reittier]], das [[Hauspferd]]
+:[2] {{K|Zoologie}} Tier aus der Familie ([[Equidae]]) beziehungsweise der Gattung der Pferde ([[Equus]])
+:[3] {{K|ugs.}} eine [[Schachfigur]]; der [[Springer]]
+:[4] {{K|Sport}} ein [[Sportgerät]] im [[Turnsport]]
+
+{{Herkunft}}
+:seit dem 9. Jahrhundert bezeugt; mittelhochdeutsch ''{{Ü|gmh|pfärvrit}}, {{Ü|gmh|pfärit}}, {{Ü|gmh|pfert}},'' althochdeutsch ''{{Ü|goh|pfarifrit}}, {{Ü|goh|pfärfrit}}'', aus spätlateinisch ''{{Ü|la|paraveredus|paraverēdus}}'' ‚(Extra)Postpferd‘ entlehnt, Amalgamierung mit dem griechischen ''{{Üt|grc|πάριππος}}'' zu gallischen ''verēdus'' ‚Kurierpferd‘ (vergleiche walisisch ''gorwydd'').<ref>{{Lit-Pfeifer: Etymologisches Wörterbuch|A=8}}</ref>
+
+{{Synonyme}}
+:[1] [[Gaul]], [[Hafermotor]], [[Klepper]], [[Mähre]], [[Schindmähre]], [[Zosse]]; ''Kindersprache:'' [[Hottegaul]], [[Hottehü]], [[Hottemax]], [[Hotto]]; ''wissenschaftlich:'' [[Equus caballus]], [[Equus ferus caballus]]
+:[1, 3] [[Ross]]
+:[2] [[Einhufer]]; ''wissenschaftlich:'' [[Equus]], [[Equidae]]
+:[3] [[Springer]]
+:[4] [[Pauschenpferd]]
+
+{{Verkleinerungsformen}}
+:[[Pferdchen]], [[Pferdlein]], [[Pferd’l]]
+
+{{Oberbegriffe}}
+:[1] [[Haustier]], [[Nutztier]], [[Reittier]], [[Säugetier]]
+:[2] [[Huftier]], [[Unpaarhufer]]
+:[3] [[Schachfigur]]
+:[4] [[Sportgerät]]
+
+{{Unterbegriffe}}
+:[1] [[Ausnahmepferd]], [[Erfolgspferd]], [[Lieblingspferd]], [[Nachwuchspferd]], [[Spitzenpferd]], [[Urpferd]], [[Wildpferd]], [[verwildertes Pferd]], [[Zauberpferd]]
+:[1, 2] [[Hauspferd]]
+::''nach Farbe:'' [[Brauner]], [[Falbe]], [[Fuchs]], [[Isabelle]], [[Rappe]], [[Schecke]], [[Schimmel]], [[Palomino]]
+::''nach Gangart:'' [[Galopper]], [[Gangpferd]], [[Tölter]], [[Traber]], [[Traberpferd]]
+::''nach Größe:'' [[Großpferd]], [[Kleinpferd]], [[Pony]]
+::''nach Leistung:'' [[Crack]], [[Flieger]], [[Meiler]], [[Steher]]
+::''nach Rasse'': [[American Quarter Horse]], [[Araber]], [[Belgier]], [[Camarguepferd]], [[Fjordpferd]], [[Friese]], [[Gelderländer]], [[Haflinger]], [[Hannoveraner]], [[Holsteiner]], [[Islandpferd]], [[Lipizzaner]], [[Oldenburger]], [[Ostfriese]], [[Percheron]], [[Rassepferd]], [[Schleswiger Kaltblut]], [[Schwarzwälder Kaltblut]], [[Shetlandpony]], [[Shire Horse]], [[Tigerpferd]], [[Trakehner]], [[Westfale]]
+::''nach Typ:'' [[Kaltblut]], [[Kaltblüter]], [[Kaltblutpferd]], [[Vollblüter]], [[Vollblutpferd]], [[Warmblut]], [[Warmblüter]], [[Warmblutpferd]]
+::''nach Verwendung:'' [[Ackerpferd]], [[Arbeitspferd]], [[Artilleriepferd]], [[Beipferd]], [[Brauereipferd]], [[Damenpferd]], [[Deichselpferd]], [[Dienstpferd]], [[Dressurpferd]], [[Droschkenpferd]], [[Ersatzpferd]], [[Freizeitpferd]], [[Gestütpferd]], [[Handpferd]], [[Kavalleriepferd]], [[Kosakenpferd]], [[Kriegspferd]], [[Krümperpferd]], [[Kurierpferd]], [[Kutschpferd]], [[Lastpferd]], [[Lehnpferd]], [[Mietpferd]], [[Militärpferd]], [[Olympiapferd]], [[Packpferd]], [[Panjepferd]], [[Paradepferd]], [[Pensionspferd]], [[Polizeipferd]], [[Polopferd]], [[Postpferd]], [[Reitpferd]], [[Relaispferd]], [[Remonte]]/[[Remontepferd]], [[Rennpferd]], [[Rückepferd]], [[Sattelpferd]], [[Saumpferd]], [[Schlachtpferd]], [[Schlittenpferd]], [[Schulpferd]], [[Sportpferd]], [[Springpferd]], [[Stangenpferd]], [[Treidelpferd]], [[Turnierpferd]], [[Vorspannpferd]], [[Wagenpferd]], [[Westernpferd]], [[Zirkuspferd]], [[Zuchtpferd]], [[Zugpferd]], [[Zweitpferd]]
+::''nach Zuchtveredelung:'' [[Bronco]], [[edles Warmblut]], [[Halbblut]], [[Mustang]], [[Vollblut]]
+::''übertragen:'' [[Bronzepferd]], [[Flügelpferd]], [[Flusspferd]], [[Graspferd]], [[Heupferd]], [[Holzpferd]], [[Honigkuchenpferd]], [[Hutschpferd]], [[Karussellpferd]], [[Nilpferd]], [[Schaukelpferd]], [[Seepferd]], [[Steckenpferd]], [[Zugpferd]]
+:[1, 2]
+::''nach Geschlecht:'' [[Hengst]], [[Stute]], [[Wallach]]
+::''nach Alter:'' [[Enter]], [[Fohlen]], [[Füllen]], [[Jährling]], [[Jungpferd]], [[Klepper]] ''(abwertend)''
+:[2] [[Esel]], [[Onager]], [[Zebra]]
+:[3] [[Ewiger Springer]]
+:[4] [[Langpferd]], [[Seitpferd]], [[Sprungpferd]]
+
+{{Beispiele}}
+:[1] Das ''Pferd'' wiehert.
+:[1] „Ein ''Pferd,'' ein ''Pferd,'' mein Königreich für ein ''Pferd!“''<ref>[[w:William Shakespeare|William Shakespeare]]: {{Wikisource|The_Tragedy_of_Richard_the_Third|Richard III (Original: A horse! a horse! my kingdom for a horse!)}}</ref>
+:[1] „Da Martin immer noch fürchtete, sie könnten ihm sein ''Pferd'' abnehmen, denn bei allen Regimentern fehlte es an ''Pferden'', bat er um Aufnahme in das Muratsche Reitercorps.“<ref>{{Literatur | Autor=Arno Surminski | Titel=Der lange Weg. Von der Memel zur Moskwa| TitelErg=Roman | Verlag=LangenMüller | Ort= Stuttgart | Jahr=2019 |ISBN=978-3-7844-3508-4 | Seiten=165.}}</ref>
+:[1] „Die ''Pferde'' waren nicht zu sehen, und man hörte nur, wie sie durch den unsichtbaren Schmutz stampften.“<ref>{{Literatur| Autor= Leo N. Tolstoi | Titel=Krieg und Frieden | TitelErg= Roman | Übersetzer=Werner Bergengruen | Verlag=Paul List Verlag | Ort= München | Jahr=1953 | Seiten=669}}. Russische Urfassung 1867.</ref>
+:[1] „Der Cowboy begegnet einem anderen, der in schwarzer Trauerkleidung auf seinem ''Pferd'' daherkommt.“<ref>{{Literatur| Autor= Frank N. Stein |Titel= Böse Witze| TitelErg= Mit Illustrationen von Harry Madcock| Verlag= Deutscher Taschenbuch Verlag |Ort= München | Jahr= 2001 | ISBN= 3-423-62060-9 | Seiten= 78.}}</ref>
+:[3] „Zweig verstand nicht viel vom Schach, nannte den Springer schon mal ''‚Pferd‘'' und vielleicht rührte daher sein Misstrauen gegenüber dem Spiel.“<ref>{{Per-KARL | Autor=Johannes Fischer | Titel=Alles halb so schlimm – Von der Gefahr des Spielens ohne Brett | Nummer= 2/2005 | Seiten=13}}</ref>
+:[4] Er ist gut am ''Pferd.''
+
+{{Redewendungen}}
+:[[arbeiten wie ein Pferd|arbeiten (schuften, …) wie ein ''Pferd'']] – [[hart]] und [[ausdauernd]] [[arbeiten]] können
+:[[auf das falsche Pferd setzen|auf das falsche ''Pferd'' setzen]] – Die falsche Seite wählen, eine falsche Entscheidung treffen, jemanden falsch einschätzen
+:[[das beste Pferd im Stall|das beste ''Pferd'' im Stall]] – im übertragenden Sinne der beste Mitarbeiter, Kollege
+:[[das Pferd von hinten aufzäumen|das ''Pferd'' von hinten aufzäumen]] – falsch beginnen, den umständlichen Weg wählen
+:[[im Pferdegalopp|im ''Pferde''galopp]] – ganz schnell (zu Kindern beziehungsweise Kindersprache)
+:[[mit jemandem Pferde stehlen können|mit jemandem ''Pferde'' stehlen können]] – [[Zuverlässigkeit]], [[Vertrauenswürdigkeit]]
+:[[sich (nicht) auf jedes Pferd setzen, was einem hingehalten wird|sich (nicht) auf jedes ''Pferd'' setzen, was einem hingehalten wird]] – (nicht) alles mitmachen, (nicht) jedes Argument gutheißen…
+:[[Trojanisches Pferd|Trojanisches ''Pferd'']] ({{Audio|De-Trojanisches Pferd.ogg|Audio}}) – ein [[Trugschluss]], eine [[Täuschung]], [[Betrug]] sein; nicht das sein, was vorgegeben wird
+:umgangssprachlich – jemandem was [[vom Pferd erzählen|vom ''Pferd'' erzählen]]&nbsp;– „Mist“, Unsinn erzählen
+:selten – [[das Pferd frisst keinen Gurkensalat|Das ''Pferd'' frisst keinen Gurkensalat.]] – überlieferter sinnloser Satz, der bei der Vorführung des ersten Telefons übertragen wurde<ref>{{Wikipedia|Liste geflügelter Worte/D|spr=de|oldid=171500788#Das Pferd frisst keinen Gurkensalat}}</ref>
+:[[ein gutes Pferd springt nur so hoch, wie es muss|Ein gutes ''Pferd'' springt nur so hoch, wie es (springen) muss.]] – eine schlichte, aber zugleich effektive Leistung
+:[[jemanden bringen keine zehn Pferde irgendwohin‎|jemanden bringen keine zehn ''Pferde'' irgendwohin‎]]
+:''vulgär:'' [[man hat schon Pferde kotzen sehen|man hat schon ''Pferde'' kotzen sehen]]&nbsp;– scheinbar Unmögliches kann manchmal auch möglich sein
+:[[das Glück der Erde liegt auf dem Rücken der Pferde|Das Glück der Erde liegt auf dem Rücken der ''Pferde''.]]
+:[[das Glück der Pferde ist ein Reiter auf der Erde|Das Glück der ''Pferde'' ist ein Reiter auf der Erde.]]
+:[[ich glaub’, mich tritt ein Pferd|Ich glaub’, mich tritt ein ''Pferd'']] – Ausruf der Überraschung / des Erstaunens
+
+{{Charakteristische Wortkombinationen}}
+:[1] ''Pferd'' und [[Wagen]], [[zu]] ''Pferde''
+:[3] [[weiß]]es ''Pferd'', [[schwarz]]es ''Pferd''
+
+{{Wortbildungen}}
+:''[[Adjektiv]]e:'' [[pferdeartig]], [[pferdebegeistert]]
+:''[[Substantiv]]e:'' [[Pferdeanhänger]], [[Pferdeapfel]], [[Pferdearbeit]], [[Pferdearsch]], [[Pferdeart]], [[Pferdeauge]], [[Pferdeauktion]], [[Pferdebahn]], [[Pferdebein]], [[Pferdebesitzer]], [[Pferdebestand]], [[Pferdebild]], [[Pferdeblut]], [[Pferdebohne]], [[Pferdebox]], [[Pferdebremse]], [[Pferdebuch]], [[Pferdedame]], [[Pferdedecke]], [[Pferdedieb]], [[Pferdediebstahl]], [[Pferdedoktor]], [[Pferdedressur]], [[Pferdedroschke]], [[Pferdedung]], [[Pferdedünger]], [[Pferde-Eisenbahn]], [[Pferdeesel]], [[Pferdefan]], [[Pferdefleisch]], [[Pferdeflüsterer]], [[Pferdefrau]], [[Pferdefreund]], [[Pferdefuhrwerk]], [[Pferdefuß]], [[Pferdefutter]], [[Pferdegalopp]], [[Pferdegangart]], [[Pferdegebiss]], [[Pferdegeruch]], [[Pferdegeschirr]], [[Pferdegesicht]], [[Pferdegespann]], [[Pferdegetrampel]], [[Pferdegetrappel]], [[Pferdegrippe]], [[Pferdegulasch]], [[Pferdehaar]], [[Pferdehacke]], [[Pferdehalfter]], [[Pferdehals]], [[Pferdehalter]], [[Pferdehaltung]], [[Pferdehandel]], [[Pferdehändler]], [[Pferdeharn]], [[Pferdeheilkunde]], [[Pferdehengst]], [[Pferdeherde]], [[Pferdeherz]], [[Pferdehintern]], [[Pferdehof]], [[Pferdehuf]], [[Pferdeinsel]], [[Pferdekacke]], [[Pferdekadaver]], [[Pferdekarren]], [[Pferdekauf]], [[Pferdekenner]], [[Pferdeknappheit]], [[Pferdeknecht]], [[Pferdeknochen]], [[Pferdekopf]], [[Pferdekoppel]], [[Pferdekörper]], [[Pferdekraft]], [[Pferdekunde]], [[Pferdekur]], [[Pferdekuss]], [[Pferdekutsche]], [[Pferdekutscher]], [[Pferdelänge]], [[Pferdeleib]], [[Pferdeleiche]], [[Pferdeliebhaber]], [[Pferdelippe]], [[Pferdelotto]], [[Pferdelunge]], [[Pferdemangel]], [[Pferdemann]], [[Pferdemarkt]], [[Pferdemaul]], [[Pferdemesse]], [[Pferdemetzger]], [[Pferdemetzgerei]], [[Pferdemist]], [[Pferdemörder]], [[Pferdename]], [[Pferdenarr]]/[[Pferdenärrin]], [[Pferdenatur]], [[Pferdeomnibus]], [[Pferdeoper]], [[Pferdepeitsche]], [[Pferdepension]], [[Pferdepflege]], [[Pferdepfleger]], [[Pferdepisse]], [[Pferdepolo]], [[Pferderasse]], [[Pferderechen]], [[Pferderennbahn]], [[Pferderennen]], [[Pferderennsport]], [[Pferderipper]], [[Pferderücken]], [[Pferdesattel]], [[Pferdeschädel]], [[Pferdeschau]], [[Pferdescheiße]], [[Pferdeschlachter]] ([[Pferdeschlächter]]), [[Pferdeschlachterei]] ([[Pferdeschlächterei]]), [[Pferdeschlitten]], [[Pferdeschlittenfahrt]], [[Pferdeschwanz]], [[Pferdeschweif]], [[Pferdeschwemme]], [[Pferdesport]], [[Pferdesportler]], [[Pferdesportverein]], [[Pferdesprache]], [[Pferdespringen]], [[Pferdespur]], [[Pferdestall]], [[Pferdestärke]], [[Pferdestaupe]], [[Pferdesteak]], [[Pferdesterben]], [[Pferdestriegel]], [[Pferdestute]], [[Pferdetrainer]], [[Pferdetränke]], [[Pferdetransporter]], [[Pferdeturm]], [[Pferdeurin]], [[Pferdeverstand]], [[Pferdewagen]], [[Pferdewechsel]], [[Pferdeweide]], [[Pferdewelt]], [[Pferdewette]], [[Pferdewirt]], [[Pferdewoilach]], [[Pferdezahn]], [[Pferdezucht]], [[Pferdezüchter]], [[Pferdezunge]], [[Pferdsprung]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Zoologie: ein Haustier, Nutztier und Reittier, das Hauspferd|Ü-Liste=
+*{{af}}: {{Ü|af|perd}}
+*{{sq}}: {{Ü|sq|kalë}} {{m}}
+*{{grc}}: {{Üt|grc|ἵππος}}
+*{{ar}}: {{Üt|ar|حصان|ḥiṣān}}, {{Üt|ar|خيل|ḫayl}}, {{Üt|ar|فرس|faras}}
+*{{arc}}: {{Üt|arc|סוסה|soese}}
+*{{hy}}: {{Üt|hy|ձի}}
+*{{az}}: {{Ü|az|at}}
+*{{as}}: {{Üt|as|ঘোঁৰা|ghü̃ra}}
+*{{ba}}: {{Üt|ba|ат|}}
+*{{eu}}: {{Ü|eu|zaldia}}
+*{{bn}}: {{Üt|bn|ঘোড়া|ghoŗa}}
+*{{bs}}: {{Ü|bs|konj}}
+*{{br}}: {{Ü|br|marc'h}}
+*{{bg}}: {{Üt|bg|кон}}
+*{{zh}}:
+**{{zh-tw}}: {{Üt|zh|馬|mǎ}}
+**{{zh-cn}}: {{Üt|zh|马|mǎ}}
+*{{da}}: {{Ü|da|hest}} {{u}}
+*{{dz}}: {{Üt|dz|རྟ|rta}}
+*{{en}}: {{Ü|en|horse}}
+**{{ang}}: {{Ü|ang|hors}} {{m}}
+*{{eo}}: {{Ü|eo|ĉevalo}}
+*{{et}}: {{Ü|et|hobune}}
+*{{fo}}: {{Ü|fo|hestur}} {{m}}
+*{{fi}}: {{Ü|fi|hevonen}}
+*{{fr}}: {{Ü|fr|cheval}} {{m}}
+*{{fur}}: {{Ü|fur|čhaval}} {{m}}
+*{{gl}}: {{Ü|gl|cabalo}} {{m}}
+*{{ka}}: {{Üt|ka|ცხენი|tskheni}}
+*{{el}}: {{Üt|el|ίππος|ippos}}, {{Üt|el|άλογο|alogo}}
+*{{kl}}: {{Ü|kl|hiisti}}
+*{{gn}}: {{Ü|gn|kavaju}}
+*{{gu}}: {{Üt|gu|ઘોડો|ghoḍo}}
+*{{he}}: {{Üt|he|סוס|soes}}
+*{{hi}}: {{Üt|hi|घोड़ा|ghoṛā}} {{m}}, {{Üt|hi|अश्व|aśva}} {{m}}
+*{{io}}: {{Ü|io|kavalo}}
+*{{ia}}: {{Ü|ia|cavallo}}
+*{{ga}}: {{Ü|ga|capall}}, {{Ü|ga|each}}
+*{{xh}}: {{Ü|xh|ihashe}}
+*{{zu}}: {{Ü|zu|ihhashi}}
+*{{is}}: {{Ü|is|hestur}} {{m}}
+*{{it}}: {{Ü|it|cavallo}} {{m}}
+*{{sah}}: {{Üt|sah|ат|}}
+*{{ja}}: {{Üt|ja|馬|うま, uma}}
+*{{yi}}: ''Ostjiddisch:'' {{Üt|yi|פֿערד|ferd}}
+*{{kn}}: {{Üt|kn|ಕುದುರೆ|kudure}}
+*{{krl}}: {{Ü|krl|heponi}}
+*{{kk}}: {{Üt|kk|ат}}, {{Üt|kk|жылқы}}
+*{{csb}}: {{Ü|csb|kóń}} {{m}}
+*{{ks}}: {{Üt|ks|گُر|gur}}
+*{{ca}}: {{Ü|ca|cavall}} {{m}}
+*{{khw}}: {{Üt|khw|استور|istor}}
+*{{ky}}: {{Üt|ky|ат}}, {{Üt|ky|жылкы}}
+*{{kv}}: {{Üt|kv|вӧв| }}
+*{{koi}}: {{Üt|koi|вӧв|vöv}}
+*{{ko}}: {{Üt|ko|말|mal}}
+*{{kw}}: {{Ü|kw|margh}}
+*{{co}}: {{Ü|co|cavaddu}} {{m}}
+*{{hr}}: {{Ü|hr|konj}}
+*{{ku}}:
+**{{kmr}}: {{Ü|kmr|hesp}}
+*{{lkt}}: {{Ü?|lkt|šúŋkawakȟáŋ}}
+*{{la}}: {{Ü|la|equus}}, {{Ü|la|burricus}}, {{Ü|la|caballus}}, {{Ü|la|veredus}}, {{Ü|la|mannus}}
+*{{lv}}: {{Ü|lv|zirgs}} {{m}}
+*{{lt}}: {{Ü|lt|arklys}}
+*{{lb}}: {{Ü|lb|Päerd}} {{n}}
+*{{ml}}: {{Üt|ml|കുതിര|kutira}}
+*{{dv}}: {{Üt|dv|އަސް|as}}
+*{{mt}}: {{Ü|mt|żiemel}} {{m}}
+*{{mnc}}: {{Üt|mnc|ᠮᠣᡵᡳᠨ|morin}}
+*{{gv}}: {{Ü|gv|cabbyl}}
+*{{mi}}: {{Ü|mi|hoiho}}
+*{{mr}}: {{Üt|mr|घोडा|ghoḍā}}
+*{{mk}}: {{Üt|mk|коњ}} {{m}}
+*{{mn}}: {{Üt|mn|морь}}
+*{{nah}}:
+**{{nci}}: {{Ü|nci|cahuāyoh}}, {{Ü|nci|cahuayoh}}
+*{{ne}}: {{Üt|ne|घोडा|ghoḍā}}
+*{{nds}}: {{Ü|nds|Peerd}}, {{Ü|nds|Pierd}}, {{Ü|nds|Peer}}
+*{{nl}}: {{Ü|nl|paard}} {{n}}
+*{{se}}: {{Ü|se|heasta}}
+*{{no}}: {{Ü|no|hest}}
+*{{nov}}: {{Ü|nov|kavale}}
+*{{oc}}: {{Ü|oc|caval}} {{m}}
+*{{or}}: {{Üt|or|ଘୋଡ଼ା|ghoṛā}}
+*{{os}}: {{Üt|os|бӕх}}
+*{{pa}}: {{Üt|pa|ਘੋੜਾ|ghoṛā}}
+*{{ps}}: {{Üt|ps|آس|ās}}, {{Üt|ps|اس|as}}
+*{{fa}}: ''Westpersisch:'' {{Üt|fa|اسب|asb}}
+*{{pl}}: {{Ü|pl|koń}} {{m}}
+*{{pt}}: {{Ü|pt|cavalo}} {{m}}
+*{{rm}}: {{Ü|rm|chavagl}}
+*{{ro}}: {{Ü|ro|cal}}
+*{{ru}}: {{Üt|ru|лошадь}} {{f}}, {{Üt|ru|конь}} {{m}}
+*{{sa}}: {{Üt|sa|अश्व|áśva}}
+*{{sc}}: {{Ü|sc|cabaddu}}
+*{{gd}}: {{Ü|gd|each}}
+*{{sv}}: {{Ü|sv|häst}}
+*{{sr}}: {{Üt|sr|коњ}} {{m}}
+*{{sd}}: {{Üt|sd|گهوڙو|ghoṛo}}
+*{{si}}: {{Üt|si|අශ්වයා|aśwayā}}
+*{{scn}}: {{Ü|scn|cavaddu}} {{m}}
+*{{sk}}: {{Ü|sk|kôň}}
+*{{sl}}: {{Ü|sl|konj}}
+*{{wen}}:
+**{{dsb}}: {{Ü|dsb|kóń}} {{m}}
+**{{hsb}}: {{Ü|hsb|kóń}} {{m}}
+*{{es}}: {{Ü|es|caballo}} {{m}}
+*{{sw}}: {{Ü|sw|farasi}}
+*{{tg}}: {{Üt|tg|асп}}, {{Üt|tg|асб}}
+*{{ta}}: {{Üt|ta|குதிரை|kutirai}}
+*{{tt}}: {{Üt|tt|ат|}}
+*{{te}}: {{Üt|te|గుర్రం|gurraṁ}}, {{Üt|te|గుర్రము|gurramu}}
+*{{th}}: {{Üt|th|ม้า|máa}}
+*{{bo}}: {{Üt|bo|རྟ|rta}}
+*{{cs}}: {{Ü|cs|kůň}} {{m}}
+*{{ce}}: {{Üt|ce|говр}}
+*{{cv}}: {{Üt|cv|лаша}}
+*{{tr}}: {{Ü|tr|at}}, {{Ü|tr|beygir}}
+*{{tk}}: {{Ü|tk|at}}
+*{{tyv}}: {{Üt|tyv|аът|}}
+*{{ug}}: {{Üt|ug|ئات|at}}
+*{{uk}}: {{Üt|uk|кінь}} {{m}}
+*{{hu}}: {{Ü|hu|ló}}
+*{{ur}}: {{Üt|ur|گھوڑا|ghora}}
+*{{uz}}: {{Ü|uz|ot}}
+*{{vi}}: {{Ü|vi|ngựa}}
+*{{vo}}: {{Ü|vo|jevod}}, ''veraltet:'' {{Ü|vo|jeval}}
+*{{cy}}: {{Ü|cy|ceffyl}}, {{Ü|cy|march}}
+*{{wa}}: {{Ü|wa|tchivå}} {{m}}
+*{{be}}: {{Üt|be|конь}}
+*{{vep}}: {{Ü|vep|hebo}}
+*{{fy}}: {{Ü|fy|hynder}} {{n}}
+*{{wym}}: {{Ü?|wym|faod}} {{n}}
+|Dialekttabelle=
+*Bairisch-Österreichisch: [?] [[Ross]] [roːs] {{n}}
+*[[Berlinerisch]]: [[Fert]] {{n}}
+*[[Kölsch]]: [[Pääd]]<ref>{{Lit-Langenscheidt: Lilliput Kölsch|A=2006}}, Seite 210</ref>
+*[[Rheinfränkisch]] (Süd-): [?] [[Päär]] {{n}}
+**Mecklenburgisch: [?] [[Pierd]], [[Pier]]<ref>{{Lit-Hermann-Winter: Kleines plattdeutsches Wörterbuch|A=3}}, Seite 228.</ref>
+**Ostfälisch: Pȅrt [pɛːɐt]
+**Ostfriesisch: [?] [[Peerd]]<ref>{{Lit-de Vries: Ostfriesisches Wörterbuch}}, Seite 279</ref>, [[Päärd]]
+**Westfälisch: [?] [[Piärd]]
+*[[Pennsylvaniadeutsch]]: [?] [[Gaul]], [[Gaal]]
+*{{pdt}}: {{Ü|pdt|Peerd}}/{{Ü|pdt|Pead}}, {{Ü|pdt|Pierd}}/{{Ü|pdt|Pied}}
+*Riograndenser Hunsrückisch (Brasilien): [1, 2] [[Ross]]<ref name="Altenhofen, Cléo">Altenhofen, Cléo Vilson (1996): ''Hunsrückisch in Rio Grande do Sul. Ein Beitrag zur Beschreibung einer deutschbrasilianischen Dialektvarietät im Kontakt mit dem Portugiesischen. Mit 77 Karten. Com um resumo em português''. - Stuttgart: Steiner. (Mainzer Studien zur Sprach- und Volksforschung. 21.)</ref>, [[Kaffel]]<ref name="Altenhofen, Cléo"/>, [[Kawell]]<ref name="Altenhofen, Cléo"/>, [[Peerd]]<ref name="Altenhofen, Cléo"/>, [[Peer]]<ref name="Altenhofen, Cléo"/>, [[Pied]]<ref name="Altenhofen, Cléo"/>
+*[[Sächsisch]]: [?] [[Happel]]
+*[[Schlesisch]]: [[Faard]]
+*{{gsw}}: {{Ü|gsw|Ross}} {{n}}, {{Ü|gsw|Pfärd}} {{n}}; [[Chlobe]], [[Güggel]]
+*Südtirolerisch: [?] [[Hotta]], [[Pfluftl]], [[Ross]]
+*Westoberdeutsch ([[Alemannisch]]): [?] [[Ross]]
+*Woliniendeitsch/Galizisch <small>(Wolhynien, Westukraine)</small>: [?] [[Ferd]], [[Fead]]
+}}
+
+{{Ü-Tabelle|2|G=Zoologie: Tier aus der Familie (Equidae) beziehungsweise der Gattung der Pferde (Equus)|Ü-Liste=
+*{{af}}: {{Ü|af|perd}}
+*{{sq}}: {{Ü|sq|kalë}} {{m}}
+*{{grc}}: {{Üt|grc|ἵππος}}
+*{{ar}}: {{Üt|ar|خيل|ḫayl}}, {{Üt|ar|فرس|faras}}
+*{{arc}}: {{Üt|arc|סוסה|soese}}
+*{{hy}}: {{Üt|hy|ձի}}
+*{{bs}}: {{Ü|bs|konj}}
+*{{br}}: {{Ü|br|marc'h}}
+*{{bg}}: {{Üt|bg|кон}}
+*{{zh}}:
+**{{zh-tw}}: {{Üt|zh|馬|mǎ}}
+**{{zh-cn}}: {{Üt|zh|马|mǎ}}
+*{{en}}: {{Ü|en|equidae}} ''Pl.,'' 
+*{{eo}}: {{Ü|eo|ĉevalo}}
+*{{fi}}: {{Ü|fi|hevonen}}
+*{{fr}}: {{Ü|fr|équidé}} {{m}}
+*{{ka}}: {{Üt|ka|ცხენი|tskheni}}
+*{{el}}: {{Üt|el|ίππος|ippos}}, {{Üt|el|άλογο|alogo}}
+*{{he}}: {{Üt|he|סוס|soes}}
+*{{ga}}: {{Ü|ga|capall}}, {{Ü|ga|each}}
+*{{xh}}: {{Ü|xh|ihashe}}
+*{{zu}}: {{Ü|zu|ihhashi}}
+*{{it}}: {{Ü|it|equino}} {{m}}
+*{{yi}}: ''Ostjiddisch:'' {{Üt|yi|פֿערד|ferd}}
+*{{ca}}: {{Ü|ca|cavall}} {{m}}
+*{{hr}}: {{Ü|hr|konj}}
+*{{ku}}:
+**{{kmr}}: {{Ü|kmr|hesp}}
+*{{la}}: {{Ü|la|equidae}}
+*{{mk}}: {{Üt|mk|коњ}} {{m}}
+*{{nah}}:
+**{{nci}}: {{Ü|nci|cahuāyoh}}, {{Ü|nci|cahuayoh}}
+*{{nds}}: {{Ü|nds|Peerd}}, {{Ü|nds|Pierd}}, {{Ü|nds|Peer}}
+*{{no}}: {{Ü|no|hest}}
+*{{os}}: {{Üt|os|бӕх}}
+*{{fa}}: ''Westpersisch:'' {{Üt|fa|اسب|asb}}
+*{{pl}}: {{Ü|pl|koń}} {{m}}
+*{{ro}}: {{Ü|ro|cal}}
+*{{sv}}: {{Ü|sv|häst}}
+*{{sr}}: {{Üt|sr|коњ}} {{m}}
+*{{sk}}: {{Ü|sk|kôň}}
+*{{sl}}: {{Ü|sl|konj}}
+*{{wen}}:
+**{{dsb}}: {{Ü|dsb|kóń}} {{m}}
+**{{hsb}}: {{Ü|hsb|kóń}} {{m}}
+*{{sw}}: {{Ü|sw|farasi}}
+*{{ta}}: {{Üt|ta|குதிரை|kutirai}}
+*{{cs}}: {{Ü|cs|kůň}} {{m}}
+*{{tr}}: {{Ü|tr|at}}, {{Ü|tr|beygir}}
+*{{uk}}: {{Üt|uk|кінь}} {{m}}
+*{{ur}}: {{Üt|ur|گھوڑا|ghora}}
+*{{vo}}: {{Ü|vo|jevod}}, ''veraltet:'' {{Ü|vo|jeval}}
+*{{be}}: {{Üt|be|конь}}
+|Dialekttabelle=
+*Bairisch-Österreichisch: [?] [[Ross]] [roːs]
+*[[Kölsch]]: [[Pääd]]<ref>{{Lit-Langenscheidt: Lilliput Kölsch|A=2006}}, Seite 210</ref>
+*[[Rheinfränkisch]] (Süd-): [?] [[Päär]]
+**Mecklenburgisch: [?] [[Pierd]], [[Pier]]<ref>{{Lit-Hermann-Winter: Kleines plattdeutsches Wörterbuch|A=3}}, Seite 228.</ref>
+**Ostfälisch: Pȅrt [pɛːɐt]
+**Ostfriesisch: [?] [[Peerd]]<ref>{{Lit-de Vries: Ostfriesisches Wörterbuch}}, Seite 279</ref>, [[Päärd]]
+**Westfälisch: [?] [[Piärd]]
+*[[Pennsylvaniadeutsch]]: [?] [[Gaul]], [[Gaal]]
+*{{pdt}}: {{Ü|pdt|Peerd}}/{{Ü|pdt|Pead}}, {{Ü|pdt|Pierd}}/{{Ü|pdt|Pied}}
+*Riograndenser Hunsrückisch (Brasilien): [[Ross]]<ref name="Altenhofen, Cléo">Altenhofen, Cléo Vilson (1996): ''Hunsrückisch in Rio Grande do Sul. Ein Beitrag zur Beschreibung einer deutschbrasilianischen Dialektvarietät im Kontakt mit dem Portugiesischen. Mit 77 Karten. Com um resumo em português''. - Stuttgart: Steiner. (Mainzer Studien zur Sprach- und Volksforschung. 21.)</ref>, [[Kaffel]]<ref name="Altenhofen, Cléo"/>, [[Kawell]]<ref name="Altenhofen, Cléo"/>, [[Peerd]]<ref name="Altenhofen, Cléo"/>, [[Peer]]<ref name="Altenhofen, Cléo"/>, [[Pied]]<ref name="Altenhofen, Cléo"/>
+*[[Sächsisch]]: [?] [[Happel]]
+*Südtirolerisch: [?] [[Hotta]], [[Pfluftl]], [[Ross]]
+*Westoberdeutsch ([[Alemannisch]]): [?] [[Ross]]
+*Woliniendeitsch/Galizisch <small>(Wolhynien, Westukraine)</small>: [?] [[Ferd]], [[Fead]]
+}}
+
+{{Ü-Tabelle|3|G=umgangssprachlich: eine Schachfigur; der Springer|Ü-Liste=
+*{{af}}: {{Ü|af|perd}}
+*{{sq}}: {{Ü|sq|kalë}} {{m}}
+*{{hy}}: {{Üt|hy|ձի}}
+*{{br}}: {{Ü|br|marc'heg}}
+*{{bg}}: {{Üt|bg|кон}}
+*{{en}}: {{Ü|en|knight}}
+*{{eo}}: {{Ü|eo|ĉevalo}}
+*{{fi}}: {{Ü|fi|ratsu}}
+*{{fr}}: {{Ü|fr|cavalier}}
+*{{ka}}: {{Üt|ka|ცხენი|tskheni}}
+*{{he}}: {{Üt|he|פרש|parasj}}
+*{{it}}: {{Ü|it|cavallo}} {{m}}
+*{{ja}}: {{Üt|ja|ナイト|naito}}
+*{{ku}}:
+**{{kmr}}: {{Ü|kmr|hesp}}
+*{{mk}}: {{Üt|mk|коњ}} {{m}}
+*{{no}}: {{Ü|no|hest}}
+*{{nov}}: {{Ü|nov|kavale}}
+*{{pl}}: {{Ü|pl|koń}} {{m}}, {{Ü|pl|skoczek}} {{m}}
+*{{ro}}: {{Ü|ro|cal}}
+*{{ru}}: {{Üt|ru|конь}} {{m}}
+*{{sv}}: {{Ü|sv|springare}}, ''selten:'' {{Ü|sv|häst}}
+*{{sr}}: {{Üt|sr|коњ}} {{m}}
+*{{sk}}: {{Ü|sk|kôň}}
+*{{tr}}: {{Ü|tr|at}}
+*{{uk}}: {{Üt|uk|кінь}} {{m}}
+*{{ur}}: {{Üt|ur|گھوڑا|ghora}}, {{Üt|ur|اسپ|asp}}
+*{{be}}: {{Üt|be|конь}}
+|Dialekttabelle=
+*Bairisch-Österreichisch: [?] [[Ross]] [roːs]
+*[[Rheinfränkisch]] (Süd-): [?] [[Päär]]
+**Mecklenburgisch: [?] [[Pierd]], [[Pier]]<ref>{{Lit-Hermann-Winter: Kleines plattdeutsches Wörterbuch|A=3}}, Seite 228.</ref>
+**Ostfriesisch: [?] [[Peerd]]<ref>{{Lit-de Vries: Ostfriesisches Wörterbuch}}, Seite 279</ref>, [[Päärd]]
+**Westfälisch: [?] [[Piärd]]
+*[[Pennsylvaniadeutsch]]: [?] [[Gaul]], [[Gaal]]
+*[[Sächsisch]]: [?] [[Happel]]
+*Südtirolerisch: [?] [[Hotta]], [[Pfluftl]], [[Ross]]
+*Westoberdeutsch ([[Alemannisch]]): [?] [[Ross]]
+*Woliniendeitsch/Galizisch <small>(Wolhynien, Westukraine)</small>: [?] [[Ferd]], [[Fead]]
+}}
+
+{{Ü-Tabelle|4|G=Sport: ein Sportgerät im Turnsport|Ü-Liste=
+*{{af}}: {{Ü|af|perd}}
+*{{sq}}: {{Ü|sq|kalë}} {{m}}
+*{{hy}}: {{Üt|hy|ձի}}
+*{{br}}: {{Ü|br|marc'h-dibr}}
+*{{bg}}: {{Üt|bg|кон|kon}}
+*{{en}}: {{Ü|en|horse}}, {{Ü|en|vaulting horse}}
+*{{eo}}: {{Ü|eo|ĉevalo}}
+*{{fr}}: {{Ü|fr|cheval d'arçons}} {{m}}
+*{{he}}: {{Üt|he|חמור|chamor}}
+*{{it}}: {{Ü|it|cavallo}} {{m}}
+*{{ca}}: {{Ü|ca|cavall}} {{m}}
+*{{mk}}: {{Üt|mk|коњ}} {{m}}
+*{{no}}: {{Ü|no|hest}}
+*{{pl}}: {{Ü|pl|koń}} {{m}}
+*{{pt}}: {{Ü|pt|cavalo de pau}}
+*{{ro}}: {{Ü|ro|cal}}
+*{{ru}}: {{Üt|ru|конь}} {{m}}
+*{{sv}}: {{Ü|sv|bygelhäst}}
+*{{sr}}: {{Üt|sr|коњ}} {{m}}
+*{{es}}: {{Ü|es|potro}}
+*{{tr}}: {{Ü|tr|atlama beygiri}}
+*{{uk}}: {{Üt|uk|кінь}} {{m}}
+|Dialekttabelle=
+*Bairisch-Österreichisch: [?] [[Ross]] [roːs]
+*[[Rheinfränkisch]] (Süd-): [?] [[Päär]]
+**Mecklenburgisch: [?] [[Pierd]], [[Pier]]<ref>{{Lit-Hermann-Winter: Kleines plattdeutsches Wörterbuch|A=3}}, Seite 228.</ref>
+**Ostfriesisch: [?] [[Peerd]]<ref>{{Lit-de Vries: Ostfriesisches Wörterbuch}}, Seite 279</ref>, [[Päärd]]
+**Westfälisch: [?] [[Piärd]]
+*[[Pennsylvaniadeutsch]]: [?] [[Gaul]], [[Gaal]]
+*[[Sächsisch]]: [?] [[Happel]]
+*Südtirolerisch: [?] [[Hotta]], [[Pfluftl]], [[Ross]]
+*Westoberdeutsch ([[Alemannisch]]): [?] [[Ross]]
+*Woliniendeitsch/Galizisch <small>(Wolhynien, Westukraine)</small>: [?] [[Ferd]], [[Fead]]
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia}}
+:[2] {{Wikipedia|Pferde}}
+:[3] {{Wikipedia|Springer (Schach)}}
+:[4] {{Wikipedia|Pauschenpferd}}
+:[1–3] {{Ref-Grimm}}
+:[1–4] {{Ref-DWDS}}
+:[*] {{Ref-UniLeipzig}}
+:[1, 3, 4] {{Ref-FreeDictionary}}
+:[1, 3, 4] {{Ref-Duden}}
+:[1, 3, 4] {{Ref-wissen.de|Wörterbuch}}
+:[4] {{Ref-wissen.de|Lexikon}}
+:[1] Wiktionary-Verzeichnis [[Verzeichnis:Tiere|Tiere]]
+
+{{Quellen}}
+
+{{Ähnlichkeiten 1|[[fährt]], [[Perd]]}}

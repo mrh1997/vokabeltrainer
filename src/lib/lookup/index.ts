@@ -8,7 +8,8 @@
 import type { Language } from '#lib/languages.ts';
 import { buildFormCandidates, buildMainAnswer, type FormCandidate } from './answers';
 import { descriptionAddsWords, linguaLibreSpeaker, recordingSays, spokenWords } from './recordings';
-import { overviewParams, parseForeignEntry, sectionAudio, parseTranslations, type Gender, type Pos, type Translation } from './wikitext';
+import { germanMainPrompt } from './german';
+import { germanNounGender, overviewParams, parseForeignEntry, sectionAudio, parseTranslations, type Gender, type Pos, type Translation } from './wikitext';
 
 export type { FormCandidate, Translation, Pos, Gender };
 
@@ -74,6 +75,8 @@ export async function getTranslations(german: string, lang: Language, signal?: A
 export interface WordDetails {
 	/** Exact text to type, with article. */
 	answer: string;
+	/** German prompt with article for nouns ("der Hund", "ein Hund"), if the answer has one. */
+	prompt?: string;
 	pos: Pos;
 	gender?: Gender;
 	forms: FormCandidate[];
@@ -98,6 +101,7 @@ export async function getDetails(t: Translation, lang: Language, german?: string
 	const answer = buildMainAnswer(lang.code, t.word, t.pos, gender);
 	return {
 		answer,
+		prompt: german && germanText ? germanMainPrompt(lang.code, german, t.pos, t.word, answer, germanNounGender(germanText)) : undefined,
 		pos: t.pos,
 		gender,
 		forms: entry ? buildFormCandidates(lang.code, t.word, entry, germanTable) : [],

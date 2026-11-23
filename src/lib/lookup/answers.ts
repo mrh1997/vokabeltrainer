@@ -158,8 +158,9 @@ export function buildFormCandidates(
 	entry: ForeignEntry,
 	german?: { word: string; table: Map<string, string> }
 ): FormCandidate[] {
-	const withPrompt = (c: FormCandidate, k: FormKind): FormCandidate => {
-		const prompt = german && germanPrompt(k, german.table, german.word, entry.pos);
+	/** `value`: the bare form; if the answer differs from it, an article was added. */
+	const withPrompt = (c: FormCandidate, k: FormKind, value?: string): FormCandidate => {
+		const prompt = german && germanPrompt(k, german.table, german.word, entry.pos, value === undefined || c.answer !== value);
 		return prompt ? { ...c, prompt } : c;
 	};
 	const forms = entry.forms
@@ -176,7 +177,7 @@ export function buildFormCandidates(
 	for (const f of forms) {
 		if (f.value === word) continue;
 		if (isStandardForm(lang, entry.pos, word, f.kind, f.value, byKind)) continue;
-		add(withPrompt(describeForm(lang, f.kind, f.key, f.value, entry), f.kind));
+		add(withPrompt(describeForm(lang, f.kind, f.key, f.value, entry), f.kind, f.value));
 	}
 	if (lang === 'fr' && entry.pos === 'verb' && entry.auxiliary) {
 		const participle = byKind.get('participle');

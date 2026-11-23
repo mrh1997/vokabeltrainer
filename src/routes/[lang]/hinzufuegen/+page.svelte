@@ -173,6 +173,7 @@
 			lang: lang.code,
 			german: chosenGerman,
 			answer: details.answer,
+			prompt: details.prompt,
 			meaning: t.meaning,
 			word: t.word,
 			pos: details.pos,

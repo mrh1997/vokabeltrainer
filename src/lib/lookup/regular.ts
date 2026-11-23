@@ -37,9 +37,9 @@ export function formKind(key: string, pos: Pos): FormKind {
 		const kind = { Gegenwart: 'present', Präsens: 'present', Imperfekt: 'imperfect', 'Konjunktiv II': 'subjunctive2', Befehl: 'imperative', Präteritum: 'past' }[m[1]]!;
 		return { kind, person: PERSON_WORDS[m[2]] };
 	}
+	// several plurals are numbered: "Plural 1" = mice, "Plural 2" = mouses
+	if (/^Plural( \d+)?$/.test(key)) return { kind: 'plural' };
 	switch (key) {
-		case 'Plural':
-			return { kind: 'plural' };
 		case 'present_he, she, it':
 			return { kind: 'present', person: '3S' };
 		case 'past_simple_I':

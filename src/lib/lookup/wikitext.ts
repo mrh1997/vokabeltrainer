@@ -215,7 +215,7 @@ export function parseTranslations(wikitext: string, code: string): Translation[]
 }
 
 /** Template parameters that are not inflected forms. */
-const NON_FORM_KEYS = /^(Genus|Bild.*|Hilfsverb|Elision|Weitere.*|Bemerkung.*|Kasus.*|Klasse.*|Typ.*|\d+)$/i;
+const NON_FORM_KEYS = /^(Genus|Bild.*|Hilfsverb|Elision|Weitere.*|Bemerkung.*|Wortstamm|Endung|Kasus.*|Klasse.*|Typ.*|\d+)$/i;
 
 function parseOverview(body: string): { forms: RawForm[]; params: Map<string, string> } {
 	const forms: RawForm[] = [];
@@ -294,4 +294,15 @@ export function overviewParams(wikitext: string, languageName: string, pos: Pos)
 	const blocks = wortartBlocks(languageSections(wikitext, languageName));
 	const block = blocks.find((b) => b.pos === pos) ?? blocks[0];
 	return block ? parseOverview(block.body).params : new Map();
+}
+
+/**
+ * Grammatical gender of a German noun from its own page ("Hund" → m),
+ * taken from the Substantiv heading or the inflection table.
+ */
+export function germanNounGender(wikitext: string): Gender | undefined {
+	const block = wortartBlocks(languageSections(wikitext, 'Deutsch')).find((b) => b.pos === 'noun');
+	if (!block) return undefined;
+	const params = parseOverview(block.body).params;
+	return toGender(block.heading.match(GENDER_RE)?.[1]) ?? toGender(params.get('Genus') ?? params.get('Genus 1'));
 }

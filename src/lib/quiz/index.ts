@@ -13,6 +13,11 @@ export interface Boxed {
 	box: number;
 }
 
+/** Quizzing is only possible while box 1 holds at least one card; once it is empty, the round ends. */
+export function canQuiz(cards: Boxed[]): boolean {
+	return cards.some((c) => c.box <= 1);
+}
+
 /** Right answer: one box up (max 5). Wrong answer: back to box 1. */
 export function nextBox(box: number, correct: boolean): number {
 	return correct ? Math.min(BOX_COUNT, box + 1) : 1;

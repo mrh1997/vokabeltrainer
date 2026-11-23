@@ -1,14 +1,15 @@
 <!--
-	Endless quiz: German prompt → type the exact foreign answer → Enter.
+	Quiz: German prompt → type the exact foreign answer → Enter.
 	Shows right/wrong (with the correct spelling), always plays the
 	pronunciation, and moves the card between boxes. Enter again → next card.
+	Runs while box 1 holds a card; when it is empty, the round is over.
 -->
 <script lang="ts">
 	import { tick } from 'svelte';
 	import { resolve } from '$app/paths';
 	import BoxBadge from '#lib/components/BoxBadge.svelte';
 	import { listCards, recordAnswer, type Card } from '#lib/db/index.ts';
-	import { checkAnswer, pickNext } from '#lib/quiz/index.ts';
+	import { canQuiz, checkAnswer, pickNext } from '#lib/quiz/index.ts';
 	import { playCard } from '#lib/audio/index.ts';
 	import { fillMissingAudio } from '#lib/audio/pronunciation.ts';
 	import { addMissingPrompts } from '#lib/upgrade.ts';
@@ -48,7 +49,7 @@
 	}
 
 	async function next() {
-		current = pickNext(cards, current?.id);
+		current = canQuiz(cards) ? pickNext(cards, current?.id) : undefined;
 		answer = '';
 		result = null;
 		await tick();
@@ -108,8 +109,16 @@
 
 {#if loaded && !current}
 	<section class="card empty">
-		<h1>Noch nichts zum Abfragen</h1>
-		<p class="muted">Füge zuerst ein paar Vokabeln hinzu.</p>
+		{#if cards.length === 0}
+			<h1>Noch nichts zum Abfragen</h1>
+			<p class="muted">Füge zuerst ein paar Vokabeln hinzu.</p>
+		{:else}
+			<h1>Fach 1 ist leer</h1>
+			{#if session.asked}
+				<p>Diese Runde: <b>{session.correct}</b> von <b>{session.asked}</b> richtig</p>
+			{/if}
+			<p class="muted">Abfragen geht erst wieder, wenn Karten in Fach 1 liegen. Füge neue Vokabeln hinzu.</p>
+		{/if}
 		<a class="btn" href={resolve('/[lang]/hinzufuegen', { lang: lang.code })}>Vokabeln hinzufügen</a>
 	</section>
 {:else if current}
@@ -124,11 +133,13 @@
 			<span class="muted asked">{current.asked}× abgefragt</span>
 		</div>
 
-		<!-- special forms ask their German counterpart ("ich gehe"); older cards fall back to word + description -->
+		<!-- only the word is asked: nouns with article ("der Hund"), special forms by their German counterpart
+		     ("ich gehe"); older special forms without one fall back to word + form label. The meaning is
+		     shown once answered. -->
 		<p class="prompt" lang="de">{current.prompt || current.german}</p>
 		{#if current.parentId && !current.prompt && current.formLabel}
 			<p class="form-label">{current.formLabel}</p>
-		{:else if current.meaning}
+		{:else if current.meaning && result}
 			<p class="form-label muted">{current.meaning}</p>
 		{/if}
 

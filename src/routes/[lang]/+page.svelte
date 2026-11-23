@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { resolve } from '$app/paths';
 	import { exportBackup, importBackup, listCards, type Card } from '#lib/db/index.ts';
-	import { BOX_COUNT } from '#lib/quiz/index.ts';
+	import { BOX_COUNT, canQuiz } from '#lib/quiz/index.ts';
 
 	let { data } = $props();
 	const lang = $derived(data.language);
@@ -19,6 +19,7 @@
 		load();
 	});
 
+	const quizOpen = $derived(canQuiz(cards));
 	const perBox = $derived(Array.from({ length: BOX_COUNT }, (_, i) => cards.filter((c) => c.box === i + 1).length));
 
 	async function download() {
@@ -57,13 +58,17 @@
 	</a>
 	<a
 		class="action card primary"
-		class:disabled={cards.length === 0}
+		class:disabled={!quizOpen}
 		href={resolve('/[lang]/abfragen', { lang: lang.code })}
-		aria-disabled={cards.length === 0}
+		aria-disabled={!quizOpen}
 	>
 		<span class="icon" aria-hidden="true">▶</span>
 		<span class="title">Vokabeln abfragen</span>
-		<span class="sub">{cards.length ? `${cards.length} Karten im Kasten` : 'Füge zuerst Vokabeln hinzu'}</span>
+		<span class="sub">
+			{#if quizOpen}{perBox[0]} von {cards.length} Karten in Fach 1
+			{:else if cards.length}Fach 1 ist leer – füge neue Vokabeln hinzu
+			{:else}Füge zuerst Vokabeln hinzu{/if}
+		</span>
 	</a>
 </div>
 

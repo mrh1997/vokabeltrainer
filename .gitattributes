@@ -1,0 +1,2 @@
+# Wiktionary wikitext fixtures must keep LF line endings, like the live pages
+*.wikitext text eol=lf

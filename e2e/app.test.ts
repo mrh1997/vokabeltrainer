@@ -96,6 +96,7 @@ test('add a word with forms, quiz it, delete it', async ({ page }) => {
 					store.getAll().onsuccess = (e) => {
 						for (const c of (e.target as IDBRequest).result) {
 							delete c.prompt;
+							delete c.promptRules;
 							store.put(c);
 						}
 						store.transaction.oncomplete = () => resolve();
@@ -108,10 +109,10 @@ test('add a word with forms, quiz it, delete it', async ({ page }) => {
 	await expect(week.locator('.badge')).toHaveText(['1', '1', '1']);
 	await expect(week.locator('h3')).toContainText(/KW \d+ \/ \d{4}/);
 
-	// Quiz: answer every card correctly once → box 2
+	// Quiz: two cards answered correctly → box 2 (the third keeps box 1 open)
 	await page.goto('./fr/abfragen');
 	const answerInput = page.getByLabel('Übersetzung auf Französisch');
-	for (let i = 0; i < 3; i++) {
+	for (let i = 0; i < 2; i++) {
 		// special forms are asked by their German counterpart
 		await expect(page.locator('.prompt')).toHaveText(/^(gehen|er geht|er ist gegangen)$/);
 		const prompt = await page.locator('.prompt').textContent();
@@ -127,15 +128,15 @@ test('add a word with forms, quiz it, delete it', async ({ page }) => {
 	await expect(page.getByText('✗ Leider falsch')).toBeVisible();
 	await expect(page.locator('.solution')).not.toBeEmpty();
 	await expect(page.locator('.move .badge')).toHaveText('1');
-	await expect(page.getByText('Diese Runde: 3 von 4 richtig')).toBeVisible();
+	await expect(page.getByText('Diese Runde: 2 von 3 richtig')).toBeVisible();
 
-	// Back to the list: 4 answers recorded in total, boxes moved
+	// Back to the list: 3 answers recorded in total, boxes moved
 	await page.goBack();
 	await expect(page).toHaveURL(/\/fr\/hinzufuegen$/);
 	await expect(week.locator('.asked')).toHaveCount(3);
 	await expect
 		.poll(async () => (await week.locator('.asked').allTextContents()).reduce((n, t) => n + parseInt(t), 0))
-		.toBe(4);
+		.toBe(3);
 	await expect(week.locator('.badge').filter({ hasNotText: '1' })).not.toHaveCount(0);
 
 	// Adding the same word again merges the forms instead of duplicating the word:
@@ -204,13 +205,71 @@ test('English nouns get a/an and the quiz works offline', async ({ page, context
 	await context.setOffline(true);
 	await context.route('http://localhost:4173/**', (route) => route.abort('internetdisconnected'));
 	await page.goto('./en/abfragen');
-	await expect(page.locator('.prompt')).toHaveText(/^(Hund|Haus)$/);
-	const prompt = await page.locator('.prompt').textContent();
 	const answer = page.getByLabel('Übersetzung auf Englisch');
-	await answer.fill(prompt === 'Hund' ? 'a dog' : 'a house');
-	await answer.press('Enter');
-	await expect(page.getByText('✓ Richtig!')).toBeVisible();
+	for (let i = 0; i < 2; i++) {
+		// German nouns are asked with the article matching the answer; the meaning stays hidden until answered
+		await expect(page.locator('.prompt')).toHaveText(/^ein (Hund|Haus)$/);
+		await expect(page.locator('.form-label')).toHaveCount(0);
+		const prompt = await page.locator('.prompt').textContent();
+		await answer.fill(prompt === 'ein Hund' ? 'a dog' : 'a house');
+		await answer.press('Enter');
+		await expect(page.getByText('✓ Richtig!')).toBeVisible();
+		await page.keyboard.press('Enter');
+	}
 	await expect(page.getByText('offline', { exact: true })).toBeVisible();
+	// both cards are in box 2 now: box 1 is empty, the round is over
+	await expect(page.getByRole('heading', { name: 'Fach 1 ist leer' })).toBeVisible();
+	await expect(page.getByText('Diese Runde: 2 von 2 richtig')).toBeVisible();
 	await context.unrouteAll();
 	await context.setOffline(false);
+
+	// the menu doesn't offer the quiz while box 1 is empty
+	await page.goto('./en');
+	await expect(page.getByRole('link', { name: /Vokabeln abfragen/ })).toHaveAttribute('aria-disabled', 'true');
+	await expect(page.getByText('Fach 1 ist leer – füge neue Vokabeln hinzu')).toBeVisible();
+});
+
+test('special forms are asked by their German counterpart, also on cards from older versions', async ({ page }) => {
+	await page.goto('./en');
+	// as saved by older versions: the plural "mice" under its old label "Plural 1", looked up without a German form
+	await page.evaluate(
+		() =>
+			new Promise<void>((resolve) => {
+				// wait until the app has created its database
+				// (without opening it: that would create an empty one the app never sets up)
+				const seed = async () => {
+					if (!(await indexedDB.databases()).some((d) => d.name === 'vokabeltrainer')) return setTimeout(seed, 50);
+					const open = indexedDB.open('vokabeltrainer', 1);
+					open.onsuccess = () => write(open.result);
+				};
+				const write = (db: IDBDatabase) => {
+					const tx = db.transaction(['cards', 'languages'], 'readwrite');
+					tx.objectStore('languages').put({ code: 'en', addedAt: 1 });
+					const cards = tx.objectStore('cards');
+					const base = { lang: 'en', german: 'Maus', createdAt: 1, asked: 0, correct: 0 };
+					cards.put({ ...base, id: 'main', answer: 'a mouse', word: 'mouse', pos: 'noun', box: 3 });
+					cards.put({ ...base, id: 'pl', parentId: 'main', order: 0, formLabel: 'Plural 1', prompt: '', answer: 'mice', box: 1 });
+					tx.oncomplete = () => resolve();
+				};
+				seed();
+			})
+	);
+	await page.goto('./en/abfragen');
+	const answer = page.getByLabel('Übersetzung auf Englisch');
+	// either card may come first; the plural ends the round (box 1 empty), so the main card can only come before it
+	for (let i = 0; i < 2; i++) {
+		await expect(page.locator('.prompt')).toHaveText(/^(Mäuse|eine Maus)$/);
+		await expect(page.locator('.form-label')).toHaveCount(0);
+		const plural = (await page.locator('.prompt').textContent()) === 'Mäuse';
+		await answer.fill(plural ? 'mice' : 'a mouse');
+		await answer.press('Enter');
+		await expect(page.getByText('✓ Richtig!')).toBeVisible();
+		await page.keyboard.press('Enter');
+		if (plural) break;
+	}
+	await expect(page.getByRole('heading', { name: 'Fach 1 ist leer' })).toBeVisible();
+
+	// the list shows the German form too, and the main card got its article
+	await page.goto('./en/hinzufuegen');
+	await expect(page.locator('section.week .form-label')).toHaveText('Mäuse');
 });

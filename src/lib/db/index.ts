@@ -13,8 +13,14 @@ export interface Card {
 	german: string;
 	/** For special forms: grammatical description, e.g. "Präsens: ich". */
 	formLabel?: string;
-	/** For special forms: the German counterpart asked in the quiz, e.g. "ich gehe". */
+	/**
+	 * German text asked in the quiz instead of `german`: for special forms the
+	 * counterpart ("ich gehe"), for nouns the word with article ("der Hund").
+	 * "" = looked up, nothing available.
+	 */
 	prompt?: string;
+	/** Version of the prompt rules `prompt` was made with (absent = before versioning); see PROMPT_RULES. */
+	promptRules?: number;
 	/** Exact text to type, e.g. "to go" or "went". */
 	answer: string;
 	/** German meaning the translation was chosen for (display only). */
@@ -109,6 +115,8 @@ export interface NewWord {
 	lang: string;
 	german: string;
 	answer: string;
+	/** German prompt with article ("der Hund"), see `Card.prompt`. */
+	prompt?: string;
 	meaning?: string;
 	word?: string;
 	pos?: Card['pos'];
@@ -123,8 +131,14 @@ export interface FormInput {
 	prompt?: string;
 }
 
+/**
+ * Version of the rules that build German prompts. Raise it when they change:
+ * cards made with older rules get their prompt looked up again once.
+ */
+export const PROMPT_RULES = 2;
+
 function newCard(base: Omit<Card, 'id' | 'box' | 'asked' | 'correct'>): Card {
-	return { id: crypto.randomUUID(), box: 1, asked: 0, correct: 0, ...base };
+	return { id: crypto.randomUUID(), box: 1, asked: 0, correct: 0, promptRules: PROMPT_RULES, ...base };
 }
 
 /**
@@ -154,6 +168,8 @@ export async function addWord(w: NewWord): Promise<{ main: Card; existed: boolea
 				...fresh,
 				asked: copies.reduce((n, c) => n + c.asked, 0),
 				correct: copies.reduce((n, c) => n + c.correct, 0),
+				prompt: w.prompt ?? existing.prompt,
+				promptRules: PROMPT_RULES,
 				meaning: w.meaning ?? existing.meaning,
 				word: w.word ?? existing.word,
 				pos: w.pos ?? existing.pos,
@@ -164,6 +180,7 @@ export async function addWord(w: NewWord): Promise<{ main: Card; existed: boolea
 				lang: w.lang,
 				german: w.german,
 				answer: w.answer,
+				prompt: w.prompt,
 				meaning: w.meaning,
 				word: w.word,
 				pos: w.pos,
@@ -197,7 +214,7 @@ export async function addWord(w: NewWord): Promise<{ main: Card; existed: boolea
 		...w.forms.map((f) => {
 			const old = oldForms.find((c) => key(c) === key(f));
 			return old
-				? { ...old, box: 1, prompt: f.prompt ?? old.prompt }
+				? { ...old, box: 1, prompt: f.prompt ?? old.prompt, promptRules: PROMPT_RULES }
 				: newCard({ lang: w.lang, german: w.german, formLabel: f.label, prompt: f.prompt, answer: f.answer, parentId: main.id, createdAt });
 		}),
 		...oldForms.filter((c) => !chosen.has(key(c)))
@@ -230,7 +247,8 @@ export async function setForms(main: Card, forms: FormInput[]): Promise<void> {
 	for (const [order, f] of forms.entries()) {
 		const kept = existing.find((c) => key(c) === key(f));
 		if (kept) {
-			if (kept.order !== order || kept.prompt !== f.prompt) await tx.store.put({ ...kept, order, prompt: f.prompt ?? kept.prompt });
+			if (kept.order !== order || kept.prompt !== f.prompt || kept.promptRules !== PROMPT_RULES)
+				await tx.store.put({ ...kept, order, prompt: f.prompt ?? kept.prompt, promptRules: PROMPT_RULES });
 			continue;
 		}
 		await tx.store.put(
@@ -249,12 +267,15 @@ export async function setForms(main: Card, forms: FormInput[]): Promise<void> {
 	await tx.done;
 }
 
-/** Stores German prompts for special forms (id → prompt; "" = looked up, none available). */
-export async function setPrompts(prompts: Map<string, string>): Promise<void> {
+/**
+ * Stores German prompts made with the current rules (id → prompt; "" = looked
+ * up, none available). `formLabel` renames a special form whose label changed.
+ */
+export async function setPrompts(prompts: Map<string, { prompt: string; formLabel?: string }>): Promise<void> {
 	const tx = (await db()).transaction('cards', 'readwrite');
-	for (const [id, prompt] of prompts) {
+	for (const [id, { prompt, formLabel }] of prompts) {
 		const card = await tx.store.get(id);
-		if (card) await tx.store.put({ ...card, prompt });
+		if (card) await tx.store.put({ ...card, prompt, formLabel: formLabel ?? card.formLabel, promptRules: PROMPT_RULES });
 	}
 	await tx.done;
 }

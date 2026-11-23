@@ -5,7 +5,7 @@
  * inflection table on German Wiktionary.
  */
 import type { FormKind } from './regular';
-import type { Pos } from './wikitext';
+import type { Gender, Pos } from './wikitext';
 
 const first = (v: string | undefined) => v?.split(/\s*[,/]\s*/)[0].trim() || undefined;
 
@@ -20,8 +20,10 @@ function ihrForm(infinitive: string): string {
  * German prompt for one special form, or undefined if the German table
  * lacks the needed form (the caller then falls back to a descriptive label).
  * `de` holds the German word's inflection table, `word` the German word.
+ * `withArticle`: the answer carries an article ("les chevaux" → "die Pferde",
+ * but "mice" → "Mäuse").
  */
-export function germanPrompt(k: FormKind, de: Map<string, string>, word: string, pos: Pos): string | undefined {
+export function germanPrompt(k: FormKind, de: Map<string, string>, word: string, pos: Pos, withArticle = true): string | undefined {
 	if (pos === 'verb') {
 		const pronounForm = (pronoun: string, form: string | undefined) => (form ? `${pronoun} ${form}` : undefined);
 		switch (k.kind) {
@@ -78,7 +80,7 @@ export function germanPrompt(k: FormKind, de: Map<string, string>, word: string,
 	}
 	if (pos === 'noun' && k.kind === 'plural') {
 		const plural = first(de.get('Nominativ Plural') ?? de.get('Nominativ Plural 1'));
-		return plural && `die ${plural}`;
+		return plural && (withArticle ? `die ${plural}` : plural);
 	}
 	if (pos === 'adj') {
 		switch (k.kind) {
@@ -97,4 +99,24 @@ export function germanPrompt(k: FormKind, de: Map<string, string>, word: string,
 		}
 	}
 	return undefined;
+}
+
+/**
+ * Quiz prompt of a main noun card whose answer carries an article: the German
+ * word with the matching article, definite ("der Hund" for "le chien") or, for
+ * English, indefinite ("ein Hund" for "a dog"). Undefined if the answer has no
+ * article or the German gender is unknown or ambiguous.
+ */
+export function germanMainPrompt(
+	lang: string,
+	german: string,
+	pos: Pos,
+	word: string,
+	answer: string,
+	germanGender: Gender | undefined
+): string | undefined {
+	if (pos !== 'noun' || answer === word) return undefined;
+	if (germanGender !== 'm' && germanGender !== 'f' && germanGender !== 'n') return undefined;
+	const article = lang === 'en' ? { m: 'ein', f: 'eine', n: 'ein' } : { m: 'der', f: 'die', n: 'das' };
+	return `${article[germanGender]} ${german}`;
 }

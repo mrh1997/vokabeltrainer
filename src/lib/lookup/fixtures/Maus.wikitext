@@ -1,0 +1,445 @@
+{{Siehe auch|[[maus]]}}
+== Maus ({{Sprache|Deutsch}}) ==
+=== {{Wortart|Substantiv|Deutsch}}, {{f}} ===
+
+{{Deutsch Substantiv Übersicht
+|Genus=f
+|Nominativ Singular=Maus
+|Nominativ Plural=Mäuse
+|Genitiv Singular=Maus
+|Genitiv Plural=Mäuse
+|Dativ Singular=Maus
+|Dativ Plural=Mäusen
+|Akkusativ Singular=Maus
+|Akkusativ Plural=Mäuse
+|Bild 1=Mouse-19-Dec-2004.jpg|mini|1|''Maus'', ein kleines Tier
+|Bild 2=2012-08-04 15-30-10-rats-des-moissons-part2.ogv|mini|1|eine ''Maus'' beim [[Fressen]]
+}}
+
+{{Nicht mehr gültige Schreibweisen}}
+:[[Mauß]]
+
+{{Worttrennung}}
+:Maus, {{Pl.}} Mäu·se
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|maʊ̯s}}
+:{{Hörbeispiele}} {{Audio|De-Maus.ogg}}, {{Audio|De-Maus2.ogg}}, {{Audio|De-at-Maus.ogg|spr=at}}
+:{{Reime}} {{Reim|aʊ̯s|Deutsch}}
+
+{{Bedeutungen}}
+:[1] {{K|Zoologie}} [[klein]]es [[grau]]es oder [[braun]]es [[Säugetier]] mit überwiegend langem Schwanz, [[rattenähnlich]], in der Zuchtform auch [[weiß]] oder [[schwarz]]
+:[2] {{K|jugendsprachlich|umgangssprachlich}} [[Kosewort]] für [[Baby]]s, [[Mädchen]] und [[Frau]]en
+:[3] {{K|umgangssprachlich}} [[Handballen]] unter [[Daumen]]
+
+{{Herkunft}}
+:[1] [[mittelhochdeutsch]], [[althochdeutsch]], [[altsächsisch]], [[altenglisch]], [[altfränkisch]]: ''mūs,'' [[altnordisch]]: ''mús'' aus [[germanisch]]: ''*mūs-'' aus [[indogermanisch]]: ''*mūs-'', vgl. [[altgriechisch]]: ''μυς-'' und [[sanskrit]]: ''mus-''
+:[2] [[Jugendsprache]] zwischen etwa 1900 und 1930 für ''[[Frau]]''<ref>''[http://www.spiegel.de/wissenschaft/mensch/von-knorke-bis-gaga-die-entwicklung-der-jugendsprache-a-557237.html Von knorke bis gaga – die Entwicklung der Jugendsprache]'', Spiegel-Online vom 2. Juni 2008</ref>
+
+{{Synonyme}}
+:[1] [[Hausmaus]]
+:[2] ''siehe dazu auch:'' [[Verzeichnis:Deutsch/Kosewörter]]
+
+{{Gegenwörter}}
+:[1] [[Katze]]
+
+{{Weibliche Wortformen}}
+:[1] [[Mäusin]]
+
+{{Männliche Wortformen}}
+:[1] [[Mäuserich]]
+
+{{Verkleinerungsformen}}
+:[1, 2] [[Mäuschen]], [[Mäuselein]], [[Mäuslein]], [[Mäuseleinchen]], [[Mäusleinchen]]
+:[2] [[Mausi]], [[Mausilein]]
+
+{{Oberbegriffe}}
+:[1] [[Altweltmaus]], [[Langschwanzmaus]], [[Mäuseartiger]], [[Mäuseverwandter]], ''wissenschaftlich:'' [[Muridae]], [[Nagetier]], [[Säugetier]], [[Wirbeltier]], [[Chordatier]]
+:[2] [[Kosewort]]
+:[3] [[Körperteil]]
+
+{{Unterbegriffe}}
+:[1] ''zoologisch:'' [[Ährenmaus]], [[Beutelmaus]], [[Breitfußbeutelmaus]], [[Haselmaus]], [[Hausmaus]], [[Klettermaus]], [[Nacktmaus]], [[Rennmaus]], [[Rötelmaus]], [[Schermaus]], [[Spitzmaus]], [[Springmaus]], [[Wühlmaus]], [[Zwergmaus]]
+:[1] ''(ursprünglich) nach Lebensraum:'' [[Baummaus]], [[Birkenmaus]], [[Erdmaus]], [[Feldmaus]], [[Schneemaus]], [[Stadtmaus]], [[Waldmaus]], [[Wassermaus]], [[Wüstenmaus]]; ''übertragen:'' [[Kirchenmaus]]
+:[1] ''genetisch verändert:'' [[Genmaus]], [[Krebsmaus]], [[Onkomaus]]
+:[1] ''unspezifisch:'' [[Labormaus]], [[Plüschmaus]], [[Tanzmaus]], [[Versuchsmaus]]
+:[1] ''übertragen:'' [[Computermaus]], [[Staubmaus]], [[Wollmaus]]
+
+{{Beispiele}}
+:[1] Der Elefant hat Angst vor der kleinen weißen ''Maus.''
+:[1] „Ratten und ''Mäuse'' bilden mit über 400 Arten die große Familie der Langschwanzmäuse oder Muridae.“<ref>{{Literatur | Autor=Autorengemeinschaft | Titel=Das große Buch des Allgemeinwissens Natur | Verlag=Das Beste GmbH | Ort=Stuttgart | Jahr=1996 | ISBN=3-87070-613-9 | Seiten=771}}</ref>
+:[1] „Die einzigen freilebenden Landsäuger sind Ratten, ''Mäuse'' und Hasen, wobei auffällt, daß man auf einigen Inseln nur Mäuse findet, auf anderen nur Ratten, die als natürliche Feinde der brütenden Vögel bekämpft werden.“<ref>{{Literatur|Autor=Sabine Gorsemann|Titel=Die Färöer|TitelErg= Inselwelt im Nordatlantik|Verlag= DuMont Buchverlag|Ort= Köln|Jahr=1990|Seiten=17.|ISBN=3-7701-2175-9|}}</ref>
+:[2] Hat deine ''Maus'' von letzter Nacht nochmal angerufen?
+:[2] Seine ältere Schwester ist eine graue ''Maus,'' die sollte mal was aus sich machen!
+:[3] Der Pfeil drang in die ''Maus'' ein und zerstörte den Daumen.
+
+{{Redewendungen}}
+:[[aus die Maus|aus die ''Maus'']] – Schluss
+:[[da beißt die Maus keinen Faden ab|da beißt die ''Maus'' keinen Faden ab]] – das ist definitiv so
+:[[das kann die Maus auf dem Schwanz forttragen|das kann die ''Maus'' auf dem Schwanz forttragen]]/[[das kann eine Maus auf dem Schwanz forttragen|das kann eine ''Maus'' auf dem Schwanz forttragen]]
+:[[der Berg kreißte und gebar eine Maus|der Berg kreißte und gebar eine ''Maus'']] – das Ergebnis ist geringer als die Erwartung
+:[[graue Maus|graue ''Maus'']] – unscheinbare Person
+:[[mit jemandem Katz und Maus spielen|mit jemandem Katz und ''Maus'' spielen]] – jemanden reizen
+:[[mit Mann und Maus|mit Mann und ''Maus'']] – absolut alle
+:[[mit Speck fängt man Mäuse|mit Speck fängt man ''Mäuse'']] – es gilt, die geeignete Motivation zu finden
+:[[wenn die Katze aus dem Haus ist, tanzen die Mäuse|wenn die Katze aus dem Haus ist, tanzen die ''Mäuse'']]/[[wenn die Katze aus dem Haus ist, tanzen die Mäuse auf dem Tisch|wenn die Katze aus dem Haus ist, tanzen die ''Mäuse'' auf dem Tisch]] – ohne Aufsicht kommen echte Gefühle zum Ausdruck
+:[[weiße Mäuse sehen|weiße ''Mäuse'' sehen]] – im Delirium sein
+
+{{Charakteristische Wortkombinationen}}
+:[1] Hast du die ''Maus'' [[erwischen|erwischt]]? (Frage an ein kleines Kind, das gestürzt ist.); die [[Sendung]] mit der ''Maus''
+:[1, 2] [[groß]]e/[[klein]]e/[[süß]]e ''Maus''
+:[2] [[geil]]e/[[heiß]]e/[[scharf]]e ''Maus''
+:[2] jemand ist eine [[grau]]e ''Maus''
+
+{{Wortbildungen}}
+:''[[Adjektiv]]e:'' [[mausfarben]], [[mausgrau]], [[mausig]], [[mausetot]]
+:''[[Verb]]en:'' [[mäuseln]], [[mausen]]
+:''[[Substantiv]]e:'' [[Fledermaus]], [[Hasenmaus]], [[Mäusebekämpfung]], [[Mäusebussard]], [[Mäusedorn]], [[Mäusedreck]], [[Mausefalle]], [[Mäusefraß]], [[Mäusegift]], [[Mäusekäfig]], [[Mäuseknochen]], [[Mäusekot]], [[Mauseloch]], [[Mäusenest]], [[Mäuseplage]], [[Mäuserich]], [[Mäuseturm]], [[Mäuseversuch]], [[Mäusezelle]], [[Mauswiesel]], [[Mauszeiger]], [[Mickymaus]], [[Schlafmaus]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Zoologie: kleines graues oder braunes Säugetier mit überwiegend langem Schwanz|Ü-Liste=
+*{{sq}}: {{Ü|sq|miu}}
+*{{grc}}: {{Üt|grc|μῦς}} {{m}}
+*{{ar}}: {{Üt|ar|فأر|faʔr}}, {{Üt|ar|فأرة|faʔra}}
+*{{hy}}: {{Üt|hy|մուկ}}
+*{{az}}: {{Ü|az|siçan}}
+*{{ba}}: {{Üt|ba|сысҡан|}}
+*{{eu}}: {{Ü|eu|sagu}}
+*{{my}}: {{Üt|my|ကြွက်|}}
+*{{bs}}: {{Ü|bs|miš}} {{m}}
+*{{br}}: {{Ü|br|logodenn}}
+*{{bg}}: {{Üt|bg|мишка}} {{f}}
+*{{zh}}: {{Üt|zh|老鼠|shǔ}}, {{Üt|zh|鼠|shǔ}}
+*{{da}}: {{Ü|da|mus}}
+*{{en}}: {{Ü|en|mouse}}
+**{{ang}}: {{Ü|ang|mūs}} {{f}}
+*{{eo}}: {{Ü|eo|muso}}
+*{{et}}: {{Ü|et|hiir}}
+*{{fo}}: {{Ü|fo|mús}} {{f}}
+*{{fi}}: {{Ü|fi|hiiri}}
+*{{fr}}: {{Ü|fr|souris}} {{f}}
+*{{fur}}: {{Ü|fur|surîs}} {{f}}
+*{{gl}}: {{Ü|gl|rato}} {{m}}
+*{{ka}}: {{Üt|ka|თაგვი|}}
+*{{el}}: {{Üt|el|ποντίκι|pondíki}} {{n}}
+*{{kl}}: {{Ü|kl|teriaq}}
+*{{haw}}: {{Ü|haw|ʻIole}}
+*{{he}}: {{Üt|he|עכבר|akhbár}}
+*{{hi}}: {{Üt|hi|चूहा|cūhā}}, {{Üt|hi|मूस|mūs}}
+*{{io}}: {{Ü|io|muso}}
+*{{id}}: {{Ü|id|tikus kecil}}
+*{{ia}}: {{Ü|ia|mus}}
+*{{ga}}: {{Ü|ga|luch}}
+*{{is}}: {{Ü|is|mús}}
+*{{it}}: {{Ü|it|topo}} {{m}}
+*{{sah}}: {{Üt|sah|кутуйах|}}
+*{{ja}}: {{Üt|ja|鼠|ねずみ, nezumi}}
+*{{yi}}: {{Üt|yi|מויז|moyz}} {{f}}
+*{{kk}}: {{Üt|kk|тышқан|}}
+*{{csb}}: {{Ü|csb|mësz}} {{f}}
+*{{ca}}: {{Ü|ca|ratolí}} {{m}}
+*{{ky}}: {{Üt|ky|чычкан|}}
+*{{kw}}: {{Ü|kw|logos}} {{f}}
+*{{co}}: {{Ü|co|tupinu}} {{m}}, {{Ü|co|tuparellu}} {{m}}
+*{{hr}}: {{Ü|hr|miš}} {{m}}
+*{{ku}}:
+**{{kmr}}: {{Ü|kmr|mişk}} {{m}}
+*{{la}}: {{Ü|la|mus}} {{m}}
+*{{lv}}: {{Ü|lv|pele}} {{f}}
+*{{lt}}: {{Ü|lt|pelė}}
+*{{lb}}: {{Ü|lb|Maus}}
+*{{mt}}: {{Ü|mt|far}}
+*{{gv}}: {{Ü|gv|lugh}} {{f}}
+*{{mk}}: {{Üt|mk|глушец}} {{m}}
+*{{moh}}: {{Ü|moh|otsinó:wen}}
+*{{na}}: {{Ü|na|ikumododo}}
+*{{nds}}: {{Ü|nds|Muus}} ''pl.:'' ''Müüs''
+*{{nl}}: {{Ü|nl|muis}} {{f}}
+*{{se}}: {{Ü|se|njierrá}}, {{Ü|se|sáhpán}}
+*{{no}}: {{Ü|no|mus}}
+*{{nov}}: {{Ü|nov|muse}}
+*{{oc}}: {{Ü|oc|mirga}} {{f}}
+*{{os}}: {{Üt|os|мыст|}}
+*{{pap}}: {{Ü|pap|raton}}
+*{{fa}}:
+**Farsi, {{prs|DMG}}: {{Üxx4|fa|موش|d=mūš|DMG=0}}
+*{{pox}}: {{Ü|pox|mois}}, {{Ü|pox|myš}}
+*{{pl}}: {{Ü|pl|mysz}} {{m}}
+*{{pt}}: {{Ü|pt|rato}} {{m}}
+*{{rm}}: {{Ü|rm|mür}}, {{Ü|rm|mieur}}, {{Ü|rm|schuorsch}} (''Val Müstair'')
+*{{ro}}: {{Ü|ro|șoarece}}
+*{{ru}}: {{Üt|ru|мышь}} {{m}}, {{Üt|ru|мышка}}
+*{{gd}}: {{Ü|gd|luch}} {{f}}
+*{{sv}}: {{Ü|sv|mus}}
+*{{sco}}: {{Ü|sco|moose}}
+*{{see}}: {{Ü|see|jinö́hdaiö:’}}
+*{{sr}}: {{Üt|sr|миш}} {{m}}
+*{{sh}}: {{Üt|sh|миш}} {{m}}
+*{{st}}: {{Ü|st|tweba}}
+*{{scn}}: {{Ü|scn|surci}} {{m}}
+*{{sk}}: {{Ü|sk|myš}} {{f}}
+*{{sl}}: {{Ü|sl|miš}} {{f}}
+*{{wen}}:
+**{{dsb}}: {{Ü|dsb|myš}} {{f}}, ''Diminutiv'' {{Ü|dsb|myška}} {{f}}
+**{{hsb}}: {{Ü|hsb|myš}} {{f}}, ''Diminutiv'' {{Ü|hsb|myška}} {{f}}
+*{{es}}: {{Ü|es|ratón}} {{m}}
+*{{tg}}: {{Üt|tg|муш|}}
+*{{tt}}: {{Üt|tt|тычкан|}}
+*{{th}}: {{Üt|th|หนู|nǔu}}
+*{{bo}}: {{Üt|bo|ཙི་ཙི|}}
+*{{cs}}: {{Ü|cs|myš}} {{f}}
+*{{ce}}: {{Üt|ce|дахка}}
+*{{cv}}: {{Üt|cv|шаши}}
+*{{tr}}: {{Ü|tr|fare}}
+*{{tk}}: {{Ü|tk|syçan}}
+*{{tyv}}: {{Üt|tyv|күске}}
+*{{ug}}: {{Üt|ug|چاشقان|chashqan}}
+*{{uk}}: {{Üt|uk|миша}} {{f}}
+*{{hu}}: {{Ü|hu|egér}}
+*{{ur}}: {{Üt|ur|چوہا|}} {{m}}
+*{{uz}}: {{Ü|uz|sichqon}}
+*{{vec}}: {{Ü|vec|sorze}} {{m}}
+*{{vi}}: {{Ü|vi|chuột nhắt}}
+*{{vo}}: {{Ü|vo|mug}}
+*{{cy}}: {{Ü|cy|llygod}} {{f}} ''Pl.''
+*{{wa}}: {{Ü|wa|sori}} {{f}}
+*{{be}}: {{Üt|be|мыш}} {{f}}
+*{{fy}}: {{Ü|fy|mûs}} {{u}}
+|Dialekttabelle=
+*Bairisch: [[Mauserl]]
+*Kölsch: [[Muus]] ''Plural:'' [[Müs]], ''Verkleinerungsform:'' [[Müsje]]
+*Sächsisch: Maus ''Plural:'' [[Meise]], ''Verkleinerungsform:'' [[Mäusel]]
+*Schwäbisch: Maus ''Plural:'' [[Meis]], ''Verkleinerungsform:'' [[Meisle]]
+*Schweizerdeutsch: [[Muus]] ''Plural:'' [[Müüs]], ''Verkleinerungsform:'' [[Müüsli]]
+}}
+
+{{Ü-Tabelle|2|G=jugendsprachlich, umgangssprachlich: Kosewort für Babys, Mädchen und Frauen|Ü-Liste=
+*{{ca}}: {{Ü|ca|ratolí}} {{m}}
+*{{ru}}: {{Üt|ru|мышка}}
+*{{uk}}: {{Üt|uk|мишка}}
+*{{hu}}: {{Ü|hu|egér}}
+|Dialekttabelle=
+*Bairisch: [[Mauserl]]
+*Sächsisch: Maus ''Plural:'' [[Meise]], ''Verkleinerungsform:'' [[Mäusel]]
+*Schwäbisch: Maus ''Plural:'' [[Meis]], ''Verkleinerungsform:'' [[Meisle]]
+*Schweizerdeutsch: [[Muus]] ''Plural:'' [[Müüs]], ''Verkleinerungsform:'' [[Müüsli]]
+}}
+
+{{Ü-Tabelle|3|G=umgangssprachlich: Handballen unter Daumen|Ü-Liste=
+*{{nl}}: {{Ü|nl|muis}} {{f}}
+*{{uk}}: {{Üt|uk|подушечка великого пальця|L=E}}
+|Dialekttabelle=
+*Kölsch: [[Muus]] ''Plural:'' [[Müs]], ''Verkleinerungsform:'' [[Müsje]]
+}}
+
+{{Referenzen}}
+:[1, 2] {{Wikipedia}}
+:[1–3] {{Ref-Grimm}}
+:[1–3] {{Ref-DWDS}}
+:[*] {{Ref-UniLeipzig}}
+:[1, 2] {{Ref-FreeDictionary}}
+:[1–3] {{Ref-Duden|Maus_Nagetier|Maus}}
+:[*] Wiktionary-Verzeichnis [[Verzeichnis:Tiere|Tiere]]
+
+{{Quellen}}
+
+=== {{Wortart|Substantiv|Deutsch}}, {{f}}, ''EDV'' ===
+
+{{Deutsch Substantiv Übersicht
+|Genus=f
+|Nominativ Singular=Maus
+|Nominativ Plural=Mäuse
+|Genitiv Singular=Maus
+|Genitiv Plural=Mäuse
+|Dativ Singular=Maus
+|Dativ Plural=Mäusen
+|Akkusativ Singular=Maus
+|Akkusativ Plural=Mäuse
+}}
+[[File:Apple-pro-mouse1.jpg|miniatur|[1] ''Maus'']]
+
+{{Nebenformen}}
+:[[Mouse]]
+
+{{Worttrennung}}
+:Maus, {{Pl.}} Mäu·se
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|maʊ̯s}}
+:{{Hörbeispiele}} {{Audio|De-Maus.ogg}}, {{Audio|De-Maus2.ogg}}, {{Audio|De-at-Maus.ogg|spr=at}}
+:{{Reime}} {{Reim|aʊ̯s|Deutsch}}
+
+{{Bedeutungen}}
+:[1] {{K|Computer|ft=kurz für [[Computermaus]]}} [[Gerät]] mit [[Funktion]] zur [[Eingabe]] von [[Signal]]en zur [[Bedienung]] von [[Computer]]n
+
+{{Herkunft}}
+:[[Entlehnung]] von englisch ''{{Ü|en|mouse}}'' ‚Maus‘, dieses im 20. Jahrhundert übertragen wegen der äußeren Ähnlichkeit zum Tier
+:{{QS_Herkunft|unbelegt}}
+
+{{Synonyme}}
+:[1] [[Computermaus]], [[Mouse]], [[PC-Maus]]
+
+{{Gegenwörter}}
+:[1] [[Scratchpad]], [[Tastatur]], [[Touchpad]]
+
+{{Oberbegriffe}}
+:[1] [[Eingabegerät]], [[Hardware]]
+
+{{Unterbegriffe}}
+:[1] [[Bluetooth-Maus]], [[Funkmaus]], [[Infrarotmaus]], [[Kabelmaus]], [[Lasermaus]], [[USB-Maus]]
+
+{{Beispiele}}
+:[1] Die ''Maus'' muss gereinigt werden.
+:[1] Ich habe eine weiße kabellose ''Maus''.
+:[1] „Ihr Finger über der ''Maus'' zitterte.“<ref>{{Literatur | Autor=Claire Mattie-Seibt, Manfred Kirchner | Herausgeber=Ruth Finckh, Manfred Kirchner und andere| Titel=Zwischen den Stühlen. Ein Tandem-Projekt | Sammelwerk=Augen Blicke | WerkErg=Eine Sammlung von Texten aus der Schreibwerkstatt der Universität des Dritten Lebensalters Göttingen | Verlag=BoD Books on Demand | Ort=Norderstedt | Jahr=2019 | Seiten=38–52, Zitat Seite 39 | ISBN=978-3-7504-1653-6}}.</ref>
+:[1] „Erst wenn der Text auf dem Bildschirm erschien, konnte er sich in ihm wirklich spiegeln und mit der ''Maus'' in ihm herumfahren.“<ref>{{Literatur|Autor=Klaas Huizing| Titel= Der Buchtrinker |TitelErg= Zwei Romane und neun Teppiche| Verlag=Albrecht Knaus|Ort= München|Jahr= 1994| ISBN=3-8135-1976-7 |Seiten= 149.}}</ref>
+
+{{Charakteristische Wortkombinationen}}
+:[1] [[kabellos]]e ''Maus''
+
+{{Wortbildungen}}
+:[1] [[Mausklick]], [[Mausknopf]], [[Mausmatte]], [[Mauspad]] ([[Mousepad]]), [[Mausrad]], [[Maussteuerung]], [[Maustreiber]], [[Mauszeiger]]; [[Mausarm]], [[Maushand]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=Gerät mit Funktion zur Eingabe von Signalen zur Bedienung von Computern|Ü-Liste=
+*{{az}}: {{Ü|az|siçan}}
+*{{en}}: {{Ü|en|mouse}}
+*{{fi}}: {{Ü|fi|hiiri}}
+*{{fr}}: {{Ü|fr|souris}} {{f}}
+*{{gl}}: {{Ü|gl|rato}} {{m}}
+*{{ka}}: {{Üt|ka|მაუსი|mausi}}
+*{{haw}}: {{Ü|haw|ʻIole}}
+*{{it}}: {{Ü|it|mouse}} {{m}}
+*{{ca}}: {{Ü|ca|ratolí}} {{m}}
+*{{hr}}: {{Ü|hr|miš}} {{m}}
+*{{ku}}:
+**{{kmr}}: {{Ü|kmr|mişk}} {{m}}
+*{{nds}}: {{Ü|nds|Muus}} ''pl.:'' ''Müüs''
+*{{nl}}: {{Ü|nl|muis}} {{f}}, {{Ü|nl|computermuis}}
+*{{fa}}:
+**Farsi, {{prs|DMG}}: {{Üxx4|fa|ماوس|d=māūs|DMG=0}}, {{Üxx4|fa|موش‌واره|d=mūš-vārä|DMG=0}}
+*{{pl}}: {{Ü|pl|mysz}}
+*{{pt}}: {{Ü|pt|rato}} {{m}}
+*{{ro}}: {{Ü|ro|maus}}
+*{{ru}}: {{Üt|ru|мышь}}, {{Üt|ru|мышка}}
+*{{sv}}: {{Ü|sv|mus}}
+*{{sk}}: {{Ü|sk|myš}} {{f}}
+*{{es}}: {{Ü|es|ratón}} {{m}}, {{Ü|es|mouse}} {{m}}
+*{{th}}: {{Üt|th|เม้าส์|máo}}
+*{{cs}}: {{Ü|cs|myš}} {{f}}
+*{{tr}}: {{Ü|tr|fare}}
+*{{uk}}: {{Üt|uk|миша}}, {{Üt|uk|мишка}}
+*{{hu}}: {{Ü|hu|egér}}
+*{{vi}}: {{Ü|vi|chuột máy tính}}
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia|Maus (Computer)}}
+:[1] {{Ref-DWDS}}
+:[1] {{Ref-FreeDictionary}}
+:[1] {{Ref-Duden|Maus_Nagetier|Maus}}, Bedeutung 6
+:[*] {{Ref-UniLeipzig}}
+
+{{Quellen}}
+
+=== {{Wortart|Substantiv|Deutsch}}, {{f}}, ''Geld'' ===
+
+{{Deutsch Substantiv Übersicht
+|Genus=f
+|Nominativ Singular=Maus
+|Nominativ Plural=Mäuse
+|Genitiv Singular=Maus
+|Genitiv Plural=Mäuse
+|Dativ Singular=Maus
+|Dativ Plural=Mäusen
+|Akkusativ Singular=Maus
+|Akkusativ Plural=Mäuse
+}}
+
+{{Worttrennung}}
+:Maus, {{Pl.}} Mäu·se
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|maʊ̯s}}
+:{{Hörbeispiele}} {{Audio|De-Maus.ogg}}, {{Audio|De-Maus2.ogg}}, {{Audio|De-at-Maus.ogg|spr=at}}
+:{{Reime}} {{Reim|aʊ̯s|Deutsch}}
+
+{{Bedeutungen}}
+:[1] {{K|umgangssprachlich|ft=nur Plural}} [[Geld]]
+
+{{Synonyme}}
+:[1] ''siehe dazu auch:'' [[Verzeichnis:Deutsch/Geld]]
+
+{{Oberbegriffe}}
+:[1] [[Banknote]], [[Geld]], [[Geldschein]], [[Münze]]
+
+{{Beispiele}}
+:[1] Mein Vetter hat so viele ''Mäuse,'' der weiß nicht, wohin damit.
+
+{{Redewendungen}}
+:[1] [[Mäuse merken|''Mäuse'' merken]]/[[Mäuse riechen|''Mäuse'' riechen]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=umgangssprachlich, nur Plural: Geld|Ü-Liste=
+*{{en}}: {{Ü|en|}}
+*{{fr}}: {{Ü|fr|pognon}} {{m}}, {{Ü|fr|ticket}} {{m}}
+*{{it}}: {{Ü|it|}}
+*{{es}}: {{Ü|es|}}
+*{{uk}}: {{Üt|uk|гроші}}
+}}
+
+{{Referenzen}}
+:[1] {{Ref-DWDS|Maus}}
+:[1] {{Ref-FreeDictionary|Maus}}
+:[1] {{Ref-Duden|Maus_Nagetier|Maus}}
+
+=== {{Wortart|Substantiv|Deutsch}}, {{f}}, ''Muskel'' ===
+
+{{Deutsch Substantiv Übersicht
+|Genus=f
+|Nominativ Singular=Maus
+|Nominativ Plural=Mäuse
+|Genitiv Singular=Maus
+|Genitiv Plural=Mäuse
+|Dativ Singular=Maus
+|Dativ Plural=Mäusen
+|Akkusativ Singular=Maus
+|Akkusativ Plural=Mäuse
+}}
+
+{{Worttrennung}}
+:Maus, {{Pl.}} Mäu·se
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|maʊ̯s}}
+:{{Hörbeispiele}} {{Audio|De-Maus.ogg}}, {{Audio|De-Maus2.ogg}}, {{Audio|De-at-Maus.ogg|spr=at}}
+:{{Reime}} {{Reim|aʊ̯s|Deutsch}}
+
+{{Bedeutungen}}
+:[1] {{K|veraltet}} [[Muskel]]
+
+{{Herkunft}}
+:[[lateinisch]] [[musculus]] (Mäuschen, der Muskel)
+:{{QS_Herkunft|unbelegt}}
+
+{{Synonyme}}
+:[1] [[Muskel]], (Mehrzahl, {{ugs.|:}}) [[Muckis]]
+
+{{Beispiele}}
+:[1] Er zeigte dem Feind die Stärke seiner ''Mäuse'' und Fäuste.
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=veraltet: Muskel|Ü-Liste=
+*{{grc}}: {{Üt|grc|μῦς}} {{m}}
+*{{en}}: {{Ü|en|}}
+*{{fr}}: {{Ü|fr|muscle}} {{m}}
+*{{it}}: {{Ü|it|}}
+*{{la}}: {{Ü|la|musculus}}
+*{{es}}: {{Ü|es|}}
+*{{uk}}: {{Üt|uk|м'яз}}, {{Üt|uk|мускул}}
+}}
+
+{{Referenzen}}
+:[1] {{Ref-Grimm|Maus}}
+
+{{Ähnlichkeiten 1|[[aus]], [[Aus]], [[Baus]], [[Daus]], [[Gaus]], [[Haus]], [[Laus]], [[Maas]], [[Mais]], [[Malus]], [[Mars]], [[Mass]], [[mau]], [[Maui]], [[Maul]], [[Maut]], [[Mus]], [[raus]], [[Saus]]|Anagramme=[[ausm]], [[Saum]]}}
